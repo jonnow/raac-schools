@@ -1,0 +1,443 @@
+[
+    {
+        "id": 1,
+        "name": "Abbey Lane Primary School",
+        "town": "Sheffield",
+        "county": "South Yorkshire",
+        "postcode": ""
+    },
+    {
+        "id": 2,
+        "name": "The Appleton School",
+        "town": "Essex",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 3,
+        "name": "Arthur Bugler Primary School",
+        "town": "Standford-le-Hope",
+        "county": "Thurrock",
+        "postcode": ""
+    },
+    {
+        "id": 4,
+        "name": "Aston Manor Academy",
+        "town": "Birmingham",
+        "county": "West Midlands",
+        "postcode": ""
+    },
+    {
+        "id": 5,
+        "name": "Aylesford School",
+        "town": "Warwick",
+        "county": "Warwickshire",
+        "postcode": ""
+    },
+    {
+        "id": 6,
+        "name": "The Billericay School",
+        "town": "Billericay",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 7,
+        "name": "The Bromfords School",
+        "town": "Wickford",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 8,
+        "name": "Buckhurst Hill Community Primary School",
+        "town": "Buckhurst Hill",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 9,
+        "name": "Canon Slade School",
+        "town": "Bolton",
+        "county": "Greater Manchester",
+        "postcode": ""
+    },
+    {
+        "id": 10,
+        "name": "Carmel College and Sixth Form",
+        "town": "Darlington",
+        "county": "County Durham",
+        "postcode": ""
+    },
+    {
+        "id": 11,
+        "name": "The Cherry Tree Academy",
+        "town": "Colchester",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 12,
+        "name": "Clacton County High School",
+        "town": "Clacton",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 13,
+        "name": "Claydon High School",
+        "town": "Ipswich",
+        "county": "Suffolk",
+        "postcode": ""
+    },
+    {
+        "id": 14,
+        "name": "Cleeve Park School",
+        "town": "Sidcup",
+        "county": "Kent",
+        "postcode": ""
+    },
+    {
+        "id": 15,
+        "name": "Cockermouth School",
+        "town": "Cockermouth",
+        "county": "Cumbria",
+        "postcode": ""
+    },
+    {
+        "id": 16,
+        "name": "The Coopers' Company and Coburn School",
+        "town": "Upminster",
+        "county": "London",
+        "postcode": ""
+    },
+    {
+        "id": 17,
+        "name": "Corpus Christi Catholic Primary School",
+        "town": "Brixton",
+        "county": "London",
+        "postcode": ""
+    },
+    {
+        "id": 18,
+        "name": "Cranbourne College",
+        "town": "Basingstoke",
+        "county": "Hampshire",
+        "postcode": ""
+    },
+    {
+        "id": 19,
+        "name": "Crossflatts Primary School",
+        "town": "Bradford",
+        "county": "West Yorkshire",
+        "postcode": ""
+    },
+    {
+        "id": 20,
+        "name": "Donnington Wood Infants School",
+        "town": "Donnington",
+        "county": "Shropshire",
+        "postcode": ""
+    },
+    {
+        "id": 21,
+        "name": "East Bergholt High School",
+        "town": "Suffolk",
+        "county": "Suffolk",
+        "postcode": ""
+    },
+    {
+        "id": 22,
+        "name": "East Tilbury Primary School",
+        "town": "Thurrock",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 23,
+        "name": "Eldwick Primary School",
+        "town": "Bradford",
+        "county": "West Yorkshire",
+        "postcode": ""
+    },
+    {
+        "id": 24,
+        "name": "The Ellen Wilkinson School",
+        "town": "London",
+        "county": "London",
+        "postcode": ""
+    },
+    {
+        "id": 25,
+        "name": "Farlingaye High School",
+        "town": "Woodbridge",
+        "county": "Suffolk",
+        "postcode": ""
+    },
+    {
+        "id": 26,
+        "name": "Ferryhill School",
+        "town": "County Durham",
+        "county": "County Durham",
+        "postcode": ""
+    },
+    {
+        "id": 27,
+        "name": "The Gilberd School",
+        "town": "Colchester",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 28,
+        "name": "Greenway Junior School",
+        "town": "Horsham",
+        "county": "West Sussex",
+        "postcode": ""
+    },
+    {
+        "id": 29,
+        "name": "Hadleigh High School",
+        "town": "Hadleigh",
+        "county": "Suffolk",
+        "postcode": ""
+    },
+    {
+        "id": 30,
+        "name": "Hatfield Peverel Junior School",
+        "town": "Chelmsford",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 31,
+        "name": "Hockley Primary School",
+        "town": "Hockley",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 32,
+        "name": "Holy Trinity Catholic Academy",
+        "town": "Newark-on-Trent",
+        "county": "Nottinghamshire",
+        "postcode": ""
+    },
+    {
+        "id": 33,
+        "name": "Honywood School",
+        "town": "Colchester",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 34,
+        "name": "Hornsey School for Girls",
+        "town": "London",
+        "county": "London",
+        "postcode": ""
+    },
+    {
+        "id": 35,
+        "name": "Jerounds Primary School",
+        "town": "Harlow",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 36,
+        "name": "The Link School",
+        "town": "Beddington",
+        "county": "London",
+        "postcode": ""
+    },
+    {
+        "id": 37,
+        "name": "London Oratory School",
+        "town": "Fulham",
+        "county": "London",
+        "postcode": ""
+    },
+    {
+        "id": 38,
+        "name": "Katherines Primary Academy",
+        "town": "Harlow",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 39,
+        "name": "Kingsdown School",
+        "town": "Southend-on-Sea",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 40,
+        "name": "King Ethelbert School",
+        "town": "Birchington",
+        "county": "Kent",
+        "postcode": ""
+    },
+    {
+        "id": 41,
+        "name": "Mayflower Primary School",
+        "town": "Leicester",
+        "county": "Leicestershire",
+        "postcode": ""
+    },
+    {
+        "id": 42,
+        "name": "Myton School",
+        "town": "Warwick",
+        "county": "Warwickshire",
+        "postcode": ""
+    },
+    {
+        "id": 43,
+        "name": "Northampton International Academy",
+        "town": "Northampton",
+        "county": "Northamptonshire",
+        "postcode": ""
+    },
+    {
+        "id": 44,
+        "name": "Our Lady's Catholic High School",
+        "town": "Preston",
+        "county": "Lancashire",
+        "postcode": ""
+    },
+    {
+        "id": 45,
+        "name": "Outwoods Primary School",
+        "town": "Atherstone",
+        "county": "Warwickshire",
+        "postcode": ""
+    },
+    {
+        "id": 46,
+        "name": "Parks Primary",
+        "town": "Leicester",
+        "county": "Leicestershire",
+        "postcode": ""
+    },
+    {
+        "id": 47,
+        "name": "Pershore High School",
+        "town": "Pershore",
+        "county": "Worcestershire",
+        "postcode": ""
+    },
+    {
+        "id": 48,
+        "name": "Ramsey Academy",
+        "town": "Halstead",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 49,
+        "name": "Ravens Academy",
+        "town": "Clacton-On-Sea",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 50,
+        "name": "Roding Valley High School",
+        "town": "Loughton",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 51,
+        "name": "Scalby School",
+        "town": "Scarborough",
+        "county": "North Yorkshire",
+        "postcode": ""
+    },
+    {
+        "id": 52,
+        "name": "St Anne's Catholic Primary School",
+        "town": "Harlow Green",
+        "county": "Tyne and Wear",
+        "postcode": ""
+    },
+    {
+        "id": 53,
+        "name": "St Bartholomew's Catholic Primary School",
+        "town": "Kent",
+        "county": "Kent",
+        "postcode": ""
+    },
+    {
+        "id": 54,
+        "name": "St Bede's Catholic School and Byron Sixth Form College",
+        "town": "County Durham",
+        "county": "County Durham",
+        "postcode": ""
+    },
+    {
+        "id": 55,
+        "name": "St Benet's Catholic Primary School",
+        "town": "Ouston",
+        "county": "County Durham",
+        "postcode": ""
+    },
+    {
+        "id": 56,
+        "name": "St Bernard's School",
+        "town": "Bolton",
+        "county": "Greater Manchester",
+        "postcode": ""
+    },
+    {
+        "id": 57,
+        "name": "St Clere's School",
+        "town": "Stanford-le-Hope",
+        "county": "Essex",
+        "postcode": ""
+    },
+    {
+        "id": 58,
+        "name": "St Edward's Catholic Voluntary Primary",
+        "town": "Swadlincote",
+        "county": "Derbyshire",
+        "postcode": ""
+    },
+    {
+        "id": 59,
+        "name": "St Francis Catholic Primary School",
+        "town": "Ascot",
+        "county": "Berkshire",
+        "postcode": ""
+    },
+    {
+        "id": 60,
+        "name": "St Gregory's Catholic Science College",
+        "town": "Harrow",
+        "county": "London",
+        "postcode": ""
+    },
+    {
+        "id": 61,
+        "name": "St James Catholic Primary School",
+        "town": "Hebburn",
+        "county": "Tyne and Wear",
+        "postcode": ""
+    },
+    {
+        "id": 62,
+        "name": "St John Bosco Catholic Primary School",
+        "town": "Sunderland",
+        "county": "Tyne and Wear",
+        "postcode": ""
+    },
+    {
+        "id": 63,
+        "name": "St John Fisher Catholic High School",
+        "town": "Wigan",
+        "county": "Greater Manchester",
+        "postcode": ""
+    }
+]
