@@ -1,0 +1,541 @@
+<schools>
+    <school>
+        <id>1</id>
+        <name>Abbey Lane Primary School</name>
+        <town>Sheffield, South Yorkshire</town>
+        <postcode></postcode>
+        <county>South Yorkshire</county>
+    </school>
+    <school>
+        <id>2</id>
+        <name>The Appleton School</name>
+        <town>Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>3</id>
+        <name>Arthur Bugler Primary School</name>
+        <town>Standford-le-Hope, Thurrock</town>
+        <postcode></postcode>
+        <county>Thurrock</county>
+    </school>
+    <school>
+        <id>4</id>
+        <name>Aston Manor Academy</name>
+        <town>Birmingham</town>
+        <postcode></postcode>
+        <county>West Midlands</county>
+    </school>
+    <school>
+        <id>5</id>
+        <name>Aylesford School</name>
+        <town>Warwick</town>
+        <postcode></postcode>
+        <county>Warwickshire</county>
+    </school>
+    <school>
+        <id>6</id>
+        <name>The Billericay School</name>
+        <town>Billericay, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>7</id>
+        <name>The Bromfords School</name>
+        <town>Wickford, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>8</id>
+        <name>Buckhurst Hill Community Primary School</name>
+        <town>Buckhurst Hill, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>9</id>
+        <name>Canon Slade School</name>
+        <town>Bolton, Greater Manchester</town>
+        <postcode></postcode>
+        <county>Greater Manchester</county>
+    </school>
+    <school>
+        <id>10</id>
+        <name>Carmel College and Sixth Form</name>
+        <town>Darlington, County Durham</town>
+        <postcode></postcode>
+        <county>County Durham</county>
+    </school>
+    <school>
+        <id>11</id>
+        <name>The Cherry Tree Academy</name>
+        <town>Colchester, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>12</id>
+        <name>Clacton County High School</name>
+        <town>Clacton, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>13</id>
+        <name>Claydon High School</name>
+        <town>Ipswich, Suffolk</town>
+        <postcode></postcode>
+        <county>Suffolk</county>
+    </school>
+    <school>
+        <id>14</id>
+        <name>Cleeve Park School</name>
+        <town>Sidcup, Kent</town>
+        <postcode></postcode>
+        <county>Kent</county>
+    </school>
+    <school>
+        <id>15</id>
+        <name>Cockermouth School</name>
+        <town>Cockermouth, Cumbria</town>
+        <postcode></postcode>
+        <county>Cumbria</county>
+    </school>
+    <school>
+        <id>16</id>
+        <name>The Coopers' Company and Coburn School</name>
+        <town>Upminster, London</town>
+        <postcode></postcode>
+        <county>London</county>
+    </school>
+    <school>
+        <id>17</id>
+        <name>Corpus Christi Catholic Primary School</name>
+        <town>Brixton, London</town>
+        <postcode></postcode>
+        <county>London</county>
+    </school>
+    <school>
+        <id>18</id>
+        <name>Cranbourne College</name>
+        <town>Basingstoke, Hampshire</town>
+        <postcode></postcode>
+        <county>Hampshire</county>
+    </school>
+    <school>
+        <id>19</id>
+        <name>Crossflatts Primary School</name>
+        <town>Bradford, West Yorkshire</town>
+        <postcode></postcode>
+        <county>West Yorkshire</county>
+    </school>
+    <school>
+        <id>20</id>
+        <name>Donnington Wood Infants School</name>
+        <town>Donnington, Shropshire</town>
+        <postcode></postcode>
+        <county>Shropshire</county>
+    </school>
+    <school>
+        <id>21</id>
+        <name>East Bergholt High School</name>
+        <town>Suffolk, Suffolk</town>
+        <postcode></postcode>
+        <county>Suffolk</county>
+    </school>
+    <school>
+        <id>22</id>
+        <name>East Tilbury Primary School</name>
+        <town>Thurrock, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>23</id>
+        <name>Eldwick Primary School</name>
+        <town>Bradford, West Yorkshire</town>
+        <postcode></postcode>
+        <county>West Yorkshire</county>
+    </school>
+    <school>
+        <id>24</id>
+        <name>The Ellen Wilkinson School</name>
+        <town>London, London</town>
+        <postcode></postcode>
+        <county>London</county>
+    </school>
+    <school>
+        <id>25</id>
+        <name>Farlingaye High School</name>
+        <town>Woodbridge, Suffolk</town>
+        <postcode></postcode>
+        <county>Suffolk</county>
+    </school>
+    <school>
+        <id>26</id>
+        <name>Ferryhill School</name>
+        <town>County Durham, County Durham</town>
+        <postcode></postcode>
+        <county>County Durham</county>
+    </school>
+    <school>
+        <id>27</id>
+        <name>The Gilberd School</name>
+        <town>Colchester, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>28</id>
+        <name>Greenway Junior School</name>
+        <town>Horsham</town>
+        <postcode></postcode>
+        <county>West Sussex</county>
+    </school>
+    <school>
+        <id>29</id>
+        <name>Hadleigh High School</name>
+        <town>Hadleigh, Suffolk</town>
+        <postcode></postcode>
+        <county>Suffolk</county>
+    </school>
+    <school>
+        <id>30</id>
+        <name>Hatfield Peverel Junior School</name>
+        <town>Chelmsford, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>31</id>
+        <name>Hockley Primary School</name>
+        <town>Hockley, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>32</id>
+        <name>Holy Trinity Catholic Academy</name>
+        <town>Newark-on-Trent, Nottinghamshire</town>
+        <postcode></postcode>
+        <county>Nottinghamshire</county>
+    </school>
+    <school>
+        <id>33</id>
+        <name>Honywood School</name>
+        <town>Colchester, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>34</id>
+        <name>Hornsey School for Girls</name>
+        <town>London, London</town>
+        <postcode></postcode>
+        <county>London</county>
+    </school>
+    <school>
+        <id>35</id>
+        <name>Jerounds Primary School</name>
+        <town>Harlow, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>36</id>
+        <name>The Link School</name>
+        <town>Beddington, London</town>
+        <postcode></postcode>
+        <county>London</county>
+    </school>
+    <school>
+        <id>37</id>
+        <name>London Oratory School</name>
+        <town>Fulham, London</town>
+        <postcode></postcode>
+        <county>London</county>
+    </school>
+    <school>
+        <id>38</id>
+        <name>Katherines Primary Academy</name>
+        <town>Harlow, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>39</id>
+        <name>Kingsdown School</name>
+        <town>Southend-on-Sea, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>40</id>
+        <name>King Ethelbert School</name>
+        <town>Birchington, Kent</town>
+        <postcode></postcode>
+        <county>Kent</county>
+    </school>
+    <school>
+        <id>41</id>
+        <name>Mayflower Primary School</name>
+        <town>Leicester, Leicestershire</town>
+        <postcode></postcode>
+        <county>Leicestershire</county>
+    </school>
+    <school>
+        <id>42</id>
+        <name>Myton School</name>
+        <town>Warwick, Warwickshire</town>
+        <postcode></postcode>
+        <county>Warwickshire</county>
+    </school>
+    <school>
+        <id>43</id>
+        <name>Northampton International Academy</name>
+        <town>Northampton, Northamptonshire</town>
+        <postcode></postcode>
+        <county>Northamptonshire</county>
+    </school>
+    <school>
+        <id>44</id>
+        <name>Our Lady's Catholic High School</name>
+        <town>Preston, Lancashire</town>
+        <postcode></postcode>
+        <county>Lancashire</county>
+    </school>
+    <school>
+        <id>45</id>
+        <name>Outwoods Primary School</name>
+        <town>Atherstone, Warwickshire</town>
+        <postcode></postcode>
+        <county>Warwickshire</county>
+    </school>
+    <school>
+        <id>46</id>
+        <name>Parks Primary</name>
+        <town>Leicester, Leicestershire</town>
+        <postcode></postcode>
+        <county>Leicestershire</county>
+    </school>
+    <school>
+        <id>47</id>
+        <name>Pershore High School</name>
+        <town>Pershore, Worcestershire</town>
+        <postcode></postcode>
+        <county>Worcestershire</county>
+    </school>
+    <school>
+        <id>48</id>
+        <name>Ramsey Academy</name>
+        <town>Halstead, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>49</id>
+        <name>Ravens Academy</name>
+        <town>Clacton-On-Sea, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>50</id>
+        <name>Roding Valley High School</name>
+        <town>Loughton, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>51</id>
+        <name>Scalby School</name>
+        <town>Scarborough, North Yorkshire</town>
+        <postcode></postcode>
+        <county>North Yorkshire</county>
+    </school>
+    <school>
+        <id>52</id>
+        <name>St Anne's Catholic Primary School</name>
+        <town>Harlow Green, Tyne and Wear</town>
+        <postcode></postcode>
+        <county>Tyne and Wear</county>
+    </school>
+    <school>
+        <id>53</id>
+        <name>St Bartholomew's Catholic Primary School</name>
+        <town>Kent, Kent</town>
+        <postcode></postcode>
+        <county>Kent</county>
+    </school>
+    <school>
+        <id>54</id>
+        <name>St Bede's Catholic School and Byron Sixth Form College</name>
+        <town>County Durham, County Durham</town>
+        <postcode></postcode>
+        <county>County Durham</county>
+    </school>
+    <school>
+        <id>55</id>
+        <name>St Benet's Catholic Primary School</name>
+        <town>Ouston, County Durham</town>
+        <postcode></postcode>
+        <county>County Durham</county>
+    </school>
+    <school>
+        <id>56</id>
+        <name>St Bernard's School</name>
+        <town>Bolton, Greater Manchester</town>
+        <postcode></postcode>
+        <county>Greater Manchester</county>
+    </school>
+    <school>
+        <id>57</id>
+        <name>St Clere's School</name>
+        <town>Stanford-le-Hope, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>58</id>
+        <name>St Edward's Catholic Voluntary Primary</name>
+        <town>Swadlincote, Derbyshire</town>
+        <postcode></postcode>
+        <county>Derbyshire</county>
+    </school>
+    <school>
+        <id>59</id>
+        <name>St Francis Catholic Primary School</name>
+        <town>Ascot, Berkshire</town>
+        <postcode></postcode>
+        <county>Berkshire</county>
+    </school>
+    <school>
+        <id>60</id>
+        <name>St Gregory's Catholic Science College</name>
+        <town>Harrow, London</town>
+        <postcode></postcode>
+        <county>London</county>
+    </school>
+    <school>
+        <id>61</id>
+        <name>St James Catholic Primary School</name>
+        <town>Hebburn, Tyne and Wear</town>
+        <postcode></postcode>
+        <county>Tyne and Wear</county>
+    </school>
+    <school>
+        <id>62</id>
+        <name>St John Bosco Catholic Primary School</name>
+        <town>Sunderland, Tyne and Wear</town>
+        <postcode></postcode>
+        <county>Tyne and Wear</county>
+    </school>
+    <school>
+        <id>63</id>
+        <name>St Leonard's School</name>
+        <town>Durham, County Durham</town>
+        <postcode></postcode>
+        <county>County Durham</county>
+    </school>
+    <school>
+        <id>64</id>
+        <name>St Teresa's Catholic Primary School</name>
+        <town>Darlington, County Durham</town>
+        <postcode></postcode>
+        <county>County Durham</county>
+    </school>
+    <school>
+        <id>65</id>
+        <name>St Thomas More Catholic Comprehensive</name>
+        <town>Eltham, London</town>
+        <postcode></postcode>
+        <county>London</county>
+    </school>
+    <school>
+        <id>66</id>
+        <name>St William of York Catholic Primary School</name>
+        <town>Bolton, Greater Manchester</town>
+        <postcode></postcode>
+        <county>Greater Manchester</county>
+    </school>
+    <school>
+        <id>67</id>
+        <name>Tendring Technology College, Frinton Campus</name>
+        <town>Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>68</id>
+        <name>Thameside Primary School</name>
+        <town>Grays, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>69</id>
+        <name>Thomas Lord Audley School</name>
+        <town>Colchester, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>70</id>
+        <name>Thurstable school and sixth form</name>
+        <town>Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>71</id>
+        <name>Waddesdon School</name>
+        <town>Buckinghamshire</town>
+        <postcode></postcode>
+        <county>Buckinghamshire</county>
+    </school>
+    <school>
+        <id>72</id>
+        <name>White Hall Academy primary</name>
+        <town>Clacton, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>73</id>
+        <name>Willowbrook Mead Primary Academy</name>
+        <town>Leicester, Leicestershire</town>
+        <postcode></postcode>
+        <county>Leicestershire</county>
+    </school>
+    <school>
+        <id>74</id>
+        <name>Winter Gardens Academy</name>
+        <town>Canvey Island, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>75</id>
+        <name>Wood Green Academy</name>
+        <town>Wednesbury, West Midlands</town>
+        <postcode></postcode>
+        <county>West Midlands</county>
+    </school>
+    <school>
+        <id>76</id>
+        <name>Woodville Primary School</name>
+        <town>South Woodham Ferrers, Chelmsford, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+    <school>
+        <id>77</id>
+        <name>Wyburns Primary School</name>
+        <town>Rayleigh, Essex</town>
+        <postcode></postcode>
+        <county>Essex</county>
+    </school>
+</schools>
