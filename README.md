@@ -1,5 +1,8 @@
 # raac-schools
 A list of all the schools along with their towns and counties affected by RAAC (Reinforced Autoclaved Aerated Concrete) in the UK.
+Available as CSV (for use with Excel), JSON and XML.
+
+Postcodes to come.
 
 [Wikipedia entry on RAAC](https://en.wikipedia.org/wiki/Reinforced_autoclaved_aerated_concrete)
 
