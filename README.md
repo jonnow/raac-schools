@@ -3,4 +3,6 @@ A list of all the schools along with their towns and counties affected by RAAC (
 
 [Wikipedia entry on RAAC](https://en.wikipedia.org/wiki/Reinforced_autoclaved_aerated_concrete)
 
-[BBC article on RAAC](https://www.bbc.co.uk/news/education-66681227)
+[BBC article about RAAC](https://www.bbc.co.uk/news/education-66669239)
+
+[BBC article on RAAC schools](https://www.bbc.co.uk/news/education-66681227)
