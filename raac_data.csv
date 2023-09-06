@@ -1,78 +1,157 @@
-id,name,town,postcode,county
-1,Abbey Lane Primary School,Sheffield,South Yorkshire
-2,The Appleton School,Essex,
-3,Arthur Bugler Primary School,Stanford-le-Hope,Thurrock
-4,Aston Manor Academy,Birmingham,
-5,Aylesford School,Warwick,
-6,The Billericay School,Billericay,Essex
-7,The Bromfords School,Wickford,Essex
-8,Buckhurst Hill Community Primary School,Essex,
-9,Canon Slade School,Bolton,Greater Manchester
-10,Carmel College and Sixth Form,Darlington,County Durham
-11,The Cherry Tree Academy,Colchester,Essex
-12,Clacton County High School,Clacton,Essex
-13,Claydon High School,Ipswich,Suffolk
-14,Cleeve Park School,Sidcup,
-15,Cockermouth School,Cockermouth,Cumbria
-16,The Coopers' Company and Coburn School,Upminster,east London
-17,Corpus Christi Catholic Primary School,Brixton,London
-18,Cranbourne College,Basingstoke,Hampshire
-19,Crossflatts Primary School,Bradford,West Yorkshire
-20,Donnington Wood Infants School,Donnington,Telford,Shropshire
-21,East Bergholt High School,Suffolk,
-22,East Tilbury Primary School,Thurrock,Essex
-23,Eldwick Primary School,Bradford,West Yorkshire
-24,The Ellen Wilkinson School,London,
-25,Farlingaye High School,Woodbridge,Suffolk
-26,Ferryhill School,a secondary in County Durham,,
-27,The Gilberd School,Colchester,Essex
-28,Greenway Junior School,Horsham,
-29,Hadleigh High School,Hadleigh,Suffolk
-30,Hatfield Peverel Junior School,Chelmsford,Essex
-31,Hockley Primary School,Hockley,Essex
-32,Holy Trinity Catholic Academy,Newark-on-Trent,Nottinghamshire
-33,Honywood School,Colchester,Essex
-34,Hornsey School for Girls,north London,
-35,Jerounds Primary School in Harlow,Essex,
-36,The Link School,Beddington,south London
-37,London Oratory School,Fulham,London
-38,Katherines Primary Academy,Harlow,Essex
-39,Kingsdown School,Southend-on-Sea,Essex
-40,King Ethelbert School,Birchington,Kent
-41,Mayflower Primary School,Leicester,Leicestershire
-42,Myton School,Warwick,Warwickshire
-43,Northampton International Academy,Northampton,Northamptonshire
-44,Our Lady's Catholic High School,Preston,Lancashire
-45,Outwoods Primary School,Atherstone,Warwickshire
-46,Parks Primary,Leicester,Leicestershire
-47,Pershore High School,Pershore,Worcestershire
-48,Ramsey Academy,Halstead,Essex
-49,Ravens Academy,Clacton-On-Sea,Essex
-50,Roding Valley High School,Loughton,Essex
-51,Scalby School,Scarborough,North Yorkshire
-52,St Anne's Catholic Primary School,Harlow Green,Tyne and Wear
-53,St Bartholomew's Catholic Primary School,Kent,Kent
-54,St Bede's Catholic School and Byron Sixth Form College,County Durham,County Durham
-55,St Benet's Catholic Primary School,Ouston,County Durham
-56,St Bernard's School,Bolton,Greater Manchester
-57,St Clere's School,Stanford-le-Hope,Essex
-58,St Edward's Catholic Voluntary Primary,Swadlincote,Derbyshire
-59,St Francis Catholic Primary School,Ascot,Berkshire
-60,St Gregory's Catholic Science College,Harrow,London
-61,St James Catholic Primary School,Hebburn,Tyne and Wear
-62,St John Bosco Catholic Primary School,Sunderland,Tyne and Wear
-63,St Leonard's School,Durham,County Durham
-64,St Teresa's Catholic Primary School,Darlington,County Durham
-65,St Thomas More Catholic Comprehensive,Eltham,London
-66,St William of York Catholic Primary School,Bolton,Greater Manchester
-67,Tendring Technology College, Frinton Campus,Essex,
-68,Thameside Primary school,Grays,Essex
-69,Thomas Lord Audley School,Colchester,Essex
-70,Thurstable school and sixth form,Essex,
-71,Waddesdon School,Buckinghamshire,
-72,White Hall Academy primary,Clacton,Essex
-73,Willowbrook Mead Primary Academy,Leicester,Leicestershire
-74,Winter Gardens Academy,Canvey Island,Essex
-75,Wood Green Academy,Wednesbury,West Midlands
-76,Woodville Primary School,South Woodham Ferrers,Chelmsford,Essex
-77,Wyburns Primary School,Rayleigh,Essex
+Setting Name,Setting mitigation at w/c 04/09/2023,Setting Phase,Type of Setting,Setting Website,URN,LAESTAB
+Myatt Garden Primary School,All pupils in face-to-face education,Primary,Community school,http://www.myattgarden.lewisham.sch.uk/,100713,2092869
+Seven Mills Primary School,All pupils in face-to-face education,Primary,Community school,www.sevenmills.towerhamlets.sch.uk/,100931,2112857
+The Ellen Wilkinson School for Girls,All pupils in face-to-face education,Secondary,Foundation school,http://www.ellenwilkinson.ealing.sch.uk,101941,3075402
+St Ignatius College,All pupils in face-to-face education,Secondary,Voluntary aided school,http://www.st-ignatius.enfield.sch.uk,102058,3085403
+Welbourne Primary School,All pupils in face-to-face education,Primary,Community school,www.welbourne.haringey.sch.uk/,102124,3092062
+St John Vianney RC Primary School,All pupils in face-to-face education,Primary,Voluntary aided school,www.st-johnvianney.haringey.sch.uk,102152,3093510
+Hornsey School for Girls,Start of Term Delayed,Secondary,Community school,http://www.hsg.haringey.sch.uk/,102153,3094029
+Brandhall Primary School,All pupils in face-to-face education,Primary,Community school,www.brandhall.sandwell.sch.uk/,103976,3332171
+St William of York Catholic Primary School,Start of Term Delayed,Primary,Voluntary aided school,www.st-williams.bolton.sch.uk,105226,3503331
+"St Andrew's CofE Primary School, Over Hulton",All pupils in face-to-face education,Primary,Voluntary aided school,www.standrewsbolton.co.uk,105236,3503348
+All Saints C of E Primary School,All pupils in face-to-face education,Primary,Voluntary aided school,www.allsaintsnh-pri.manchester.sch.uk,105505,3523301
+Abbey Lane Primary School,All pupils in face-to-face education,Primary,Community school,www.abbeylaneprimaryschool.com,106982,3732001
+Pippins School,All pupils in face-to-face education,Primary,Foundation school,www.pippins.slough.sch.uk/,110095,8715207
+Stanway Fiveways Primary School,All pupils in face-to-face education,Primary,Community school,www.stanwayfiveways.essex.sch.uk,114764,8812081
+Baynards Primary School,All pupils in face-to-face education,Primary,Community school,www.baynards.essex.sch.uk,114767,8812088
+Great Leighs Primary School,All pupils in face-to-face education,Primary,Community school,www.greatleighs.essex.sch.uk,114852,8812450
+Henham and Ugley Primary and Nursery School,All pupils in face-to-face education,Primary,Community school,http://www.henhamugley.essex.sch.uk,114975,8812740
+Bentfield Primary School and Nursery,All pupils in face-to-face education,Primary,Community school,www.bentfieldprimaryschool.co.uk,114978,8812747
+White Court School,All pupils in face-to-face education,Primary,Community school,http://www.whitecourtschool.co.uk,114988,8812767
+Beehive Lane Community Primary School,All pupils in face-to-face education,Primary,Community school,www.beehivelane.essex.sch.uk/,114996,8812789
+Eversley Primary School,All pupils in face-to-face education,Primary,Community school,http://www.eversley.essex.sch.uk/,114999,8812798
+"Holy Trinity CofE Primary School, Eight Ash Green and Aldham",All pupils in face-to-face education,Primary,Voluntary controlled school,www.holytrinityeightashgreen.co.uk/,115075,8813021
+"St Lawrence Church of England Primary School, Rowhedge",All pupils in face-to-face education,Primary,Voluntary controlled school,http://www.st-lawrence-pri.essex.sch.uk/,115077,8813023
+Great Tey Church of England Voluntary Controlled Primary School,All pupils in face-to-face education,Primary,Voluntary controlled school,www.greatteyprimary.org.uk/,115079,8813025
+Hatfield Peverel St Andrew's Junior School,Start of Term Delayed,Primary,Foundation school,www.hatfieldpeverelstandrews.co.uk,115102,8815279
+Broomfield Primary School,All pupils in face-to-face education,Primary,Foundation school,http://www.broomfield.essex.sch.uk,115292,8815252
+Mersea Island School,All pupils in face-to-face education,Primary,Foundation school,www.merseaschool.org,115311,8815271
+Cranbourne,All pupils in face-to-face education,Secondary,Community school,http://www.cranbourne.hants.sch.uk/,116432,8504164
+Markyate Village School and Nursery,All pupils in face-to-face education,Primary,Community school,http://www.markyate.herts.sch.uk/,117127,9192074
+Widford School,All pupils in face-to-face education,Primary,Community school,http://www.widford.herts.sch.uk,117176,9192145
+Palmarsh Primary School,All pupils in face-to-face education,Primary,Community school,http://www.palmarsh.kent.sch.uk,118490,8862524
+Birchington Church of England Primary School,All pupils in face-to-face education,Primary,Voluntary controlled school,www.birchington-primary.com/,118693,8863178
+St James' Church of England Voluntary Aided Primary School,All pupils in face-to-face education,Primary,Voluntary aided school,https://st-james.kent.sch.uk,118725,8863322
+"St Bartholomew's Catholic Primary School, Swanley",All pupils in face-to-face education,Primary,Voluntary aided school,http://www.st-bartholomewsrc-pri.kent.sch.uk/,118860,8865214
+Bispham Endowed Church of England Primary School,All pupils in face-to-face education,Primary,Voluntary controlled school,http://www.bisphamendowed.co.uk,119411,8903192
+Our Lady's Catholic High School,Start of Term Delayed,Secondary,Voluntary aided school,http://www.olchs.lancs.sch.uk/,119779,8884606
+Mayflower Primary School,All pupils in face-to-face education,Primary,Community school,https://www.mayflower.leicester.sch.uk/,120018,8562250
+Parks Primary School,All pupils in face-to-face education,Primary,Community school,www.parksprimary.org/,120088,8562364
+Donnington Wood Infant School and Nursery Centre,All pupils in face-to-face education,Primary,Community school,www.donningtonwoodinfants.co.uk,123364,8942041
+Thurston Community College,All pupils in face-to-face education,Secondary,Community school,http://www.thurstoncollege.org/,124802,9354024
+Shawfield Primary School,All pupils in face-to-face education,Primary,Community school,www.shawfield.surrey.sch.uk,125029,9362361
+"St Paul's Catholic Primary School, Thames Ditton",All pupils in face-to-face education,Primary,Voluntary aided school,www.stpauls-thamesditton.surrey.sch.uk/,125212,9363446
+Petroc,All pupils in face-to-face education,16 plus,Further education,http://www.petroc.ac.uk/,130646,8788001
+Park View School,All pupils in face-to-face education,Secondary,Community school,www.parkview.haringey.sch.uk,131757,3094037
+Springfield Primary School,All pupils in face-to-face education,Primary,Community school,www.springfield-pri.essex.sch.uk,134065,8812020
+Outwoods Primary School,Start of Term Delayed,Primary,Community school,www.ops.warwickshire.sch.uk,136061,9372083
+Denbigh School,All pupils in face-to-face education,Secondary,Academy converter,http://www.denbigh.net,136468,8265410
+Sale Grammar School,All pupils in face-to-face education,Secondary,Academy converter,http://www.salegrammar.co.uk/,136498,3584029
+The Appleton School,Mix of face-to-face and remote arrangements,Secondary,Academy converter,http://www.theappletonschool.org,136579,8815418
+King Ethelbert School,All pupils in face-to-face education,Secondary,Academy converter,http://www.kingethelbert.com/,136584,8864120
+Holcombe Grammar School,All pupils in face-to-face education,Secondary,Academy converter,http://www.holcombegrammar.org.uk,136594,8874068
+The Coopers' Company and Coborn School,Mix of face-to-face and remote arrangements,Secondary,Academy converter,http://www.cooperscoborn.org.uk/,136600,3115402
+Wood Green Academy,Mix of face-to-face and remote arrangements,Secondary,Academy converter,www.woodgreenacademy.co.uk,136616,3334024
+The Honywood Community Science School,Mix of face-to-face and remote arrangements,Secondary,Academy converter,http://www.honywoodschool.com,136729,8814400
+The Billericay School,Mix of face-to-face and remote arrangements,Secondary,Academy converter,http://www.billericayschool.com,136861,8815468
+Aston Manor Academy,Mix of face-to-face and remote arrangements,Secondary,Academy converter,http://www.astonmanor.bham.sch.uk/,136882,3304220
+Hadleigh High School,Start of Term Delayed,Secondary,Academy converter,http://www.hadleighhigh.net/,136918,9354017
+The Palmer Catholic Academy,All pupils in face-to-face education,Secondary,Academy converter,www.tpc.academy,137088,3174800
+The London Oratory School,Mix of face-to-face and remote arrangements,Secondary,Academy converter,http://www.london-oratory.org,137157,2055400
+Tendring Technology College,All pupils in face-to-face education,Secondary,Academy converter,http://tendringtechnologycollege.org/,137188,8815432
+East Bergholt High School,Start of Term Delayed,Secondary,Academy converter,http://www.ebhigh.org.uk,137218,9354097
+Hounsdown School,All pupils in face-to-face education,Secondary,Academy converter,http://www.hounsdown.hants.sch.uk/,137229,8504168
+Thurstable School Sports College and Sixth Form Centre,Mix of face-to-face and remote arrangements,Secondary,Academy converter,http://www.thurstable.co.uk,137241,8815413
+Corpus Christi Catholic Primary School,All pupils in face-to-face education,Primary,Academy converter,www.corpuschristischool.co.uk,137295,2085202
+Waddesdon Church of England School,Mix of face-to-face and remote arrangements,Secondary,Academy converter,www.waddesdonschool.com,137355,8255408
+Wallingford School,All pupils in face-to-face education,Secondary,Academy converter,http://www.wallingfordschool.com/,137357,9314140
+Woodkirk Academy,All pupils in face-to-face education,Secondary,Academy converter,http://www.woodkirkacademy.co.uk/,137383,3834105
+Batley Girls High School,All pupils in face-to-face education,Secondary,Academy converter,http://www.batleygirls.co.uk/,137424,3824048
+St Clere's School,Mix of face-to-face and remote arrangements,Secondary,Academy converter,http://www.st-cleres.thurrock.sch.uk/,137456,8835440
+Sandbach School,All pupils in face-to-face education,Secondary,Free schools,http://sandbachschool.org/,137491,8956010
+Carmel College,All pupils in face-to-face education,Secondary,Academy converter,http://carmel.bhcet.org.uk/,137622,8414603
+Anglo European School,All pupils in face-to-face education,Secondary,Academy converter,http://aesessex.co.uk/,137727,8815442
+"St Thomas More Catholic School, Blaydon",All pupils in face-to-face education,Secondary,Academy converter,http://www.stthomasmore.org.uk/,137851,3904606
+The Gilberd School,Mix of face-to-face and remote arrangements,Secondary,Academy converter,www.gilberd.com,137926,8815441
+The Thomas Lord Audley School,Mix of face-to-face and remote arrangements,Secondary,Academy converter,http://www.tla.essex.sch.uk,137937,8814020
+St Helena School,All pupils in face-to-face education,Secondary,Academy converter,www.st-helena.essex.sch.uk,137944,8815448
+East Tilbury Primary School,All pupils in face-to-face education,Primary,Academy converter,www.easttilburyprimary.thurrock.sch.uk/,138065,8832824
+Clacton County High School,Mix of face-to-face and remote arrangements,Secondary,Academy converter,http://www.countyhigh.org.uk/,138084,8815444
+White Hall Academy and Nursery,All pupils in face-to-face education,Primary,Academy sponsor led,http://www.whitehallacademy.co.uk/,138575,8812022
+Altrincham College,All pupils in face-to-face education,Secondary,Academy converter,http://www.altrinchamcollege.com/,138614,3584024
+Cleeve Park School,All pupils in face-to-face education,Secondary,Academy converter,www.cleevepark-tkat.org,138686,3034030
+"Joyce Frankland Academy, Newport",All pupils in face-to-face education,Secondary,Academy converter,http://www.jfan.org.uk/,138734,8815436
+Danetree Primary School,All pupils in face-to-face education,Primary,Academy converter,www.danetreeschool.org/,138764,9362092
+The Bromfords School,Mix of face-to-face and remote arrangements,Secondary,Academy converter,http://www.bromfords.essex.sch.uk/,139181,8815407
+Royal College Manchester (Seashell Trust),All pupils in face-to-face education,Not applicable,Special post 16 institution,http://www.seashelltrust.org.uk/,139218,3567900
+"The Ramsey Academy, Halstead",All pupils in face-to-face education,Secondary,Academy sponsor led,http://www.ramseyacademy.com/,139248,8814008
+Redhill School,All pupils in face-to-face education,Secondary,Academy converter,http://www.redhill.dudley.sch.uk/,139872,3324119
+Ark Boulton Academy,Start of Term Delayed,Secondary,Academy sponsor led,http://arkboulton.org/,140014,3304013
+Woodville Primary School,Start of Term Delayed,Primary,Academy converter,www.woodvilleprimaryschool.org.uk/,140447,8815213
+Holy Trinity Catholic Voluntary Academy,All pupils in face-to-face education,Primary,Academy converter,www.holytrinityacademy.co.uk,140727,8913766
+Thomas Bullock Church of England Primary and Nursery Academy,All pupils in face-to-face education,Primary,Academy sponsor led,www.thomasbullock.dneat.org/,141192,9262068
+Water Lane Primary Academy,Start of Term Delayed,Primary,Academy sponsor led,www.waterlaneprimary.co.uk/,141194,8812110
+Katherine Semar Junior School,All pupils in face-to-face education,Primary,Academy converter,www.katherinesemar.co.uk,141572,8812687
+Katherine Semar Infant School,All pupils in face-to-face education,Primary,Academy converter,www.katherinesemar.co.uk,141574,8812717
+Mistley Norman Church of England Primary School,All pupils in face-to-face education,Primary,Academy sponsor led,www.mistleynormancofe.co.uk,141658,8812123
+Hatfield Heath Primary School,All pupils in face-to-face education,Primary,Academy converter,www.hatfieldheath.essex.sch.uk/,141714,8812520
+St Thomas More Catholic Comprehensive School,All pupils in face-to-face education,Secondary,Academy converter,http://www.stmcomprehensive.org/,141716,2034716
+Godinton Primary School,All pupils in face-to-face education,Primary,Academy converter,http://www.godinton.kent.sch.uk,141754,8862625
+"St Francis Catholic Primary School, South Ascot",All pupils in face-to-face education,Primary,Academy converter,www.stfrancisprimary.org,141818,8683335
+The FitzWimarc School,All pupils in face-to-face education,Secondary,Academy converter,http://www.fitzwimarc.com,141841,8815422
+Winter Gardens Academy,All pupils in face-to-face education,Primary,Academy sponsor led,www.wintergardensacademy.org,142000,8812129
+Cherry Tree Academy,Start of Term Delayed,Primary,Academy sponsor led,https://www.cherrytree.essex.sch.uk/,142002,8812132
+Prince Albert Junior and Infant School,All pupils in face-to-face education,Primary,Academy converter,www.princealbert.bham.sch.uk,142230,3302003
+Cockermouth School,All pupils in face-to-face education,Secondary,Academy converter,http://www.cockermouthschool.org/,142306,9424103
+Northampton International Academy,All pupils in face-to-face education,All-through,Free schools,,142485,9414018
+St Gregory's Catholic Science College,Fully remote learning,Secondary,Academy converter,www.stgregorys.harrow.sch.uk,142560,3045406
+Bishop Douglass School Finchley,All pupils in face-to-face education,Secondary,Academy converter,http://www.bishopdouglass.barnet.sch.uk/,143082,3025408
+Lubbins Park Primary Academy,All pupils in face-to-face education,Primary,Academy sponsor led,https://www.lubbinspark.essex.sch.uk/,143123,8812143
+Scalby School,Mix of face-to-face and remote arrangements,Secondary,Academy converter,https://www.scalby.coastandvale.academy/,143288,8154073
+Arthur Bugler Primary School,Start of Term Delayed,Primary,Academy converter,www.arthurbugler.com,143378,8832439
+"St Leonard's Catholic School, Durham",Fully remote learning,Secondary,Academy converter,http://www.st-leonards.durham.sch.uk/,143583,8404691
+Canon Slade School,All pupils in face-to-face education,Secondary,Academy converter,http://www.canon-slade.bolton.sch.uk,144044,3505401
+Claydon High School,Start of Term Delayed,Secondary,Academy converter,www.claydonhigh.co.uk,144214,9354096
+Harlowbury Primary School,All pupils in face-to-face education,Primary,Academy converter,www.harlowbury.essex.sch.uk/,144664,8812983
+Kingsdown School,Start of Term Delayed,Not applicable,Academy special converter,www.kingsdownschool.org,144692,8827001
+Katherines Primary Academy and Nursery,All pupils in face-to-face education,Primary,Academy sponsor led,www.katherines.netacademies.net,144823,8812162
+Sir Thomas Boughey Academy,All pupils in face-to-face education,Secondary,Academy converter,www.stb.academy,145047,8604060
+Harwich and Dovercourt High School,All pupils in face-to-face education,Secondary,Academy sponsor led,www.hdhs.org.uk,145061,8814024
+Ferryhill School,Start of Term Delayed,Secondary,Academy converter,www.ferryhill.school,145253,8404150
+Wyburns Primary School,Mix of face-to-face and remote arrangements,Primary,Academy converter,http://www.wyburns.org,145349,8815262
+Jerounds Primary Academy,All pupils in face-to-face education,Primary,Academy sponsor led,http://www.netacademies.net/jerounds,145557,8812171
+Roding Valley High School,Mix of face-to-face and remote arrangements,Secondary,Academy converter,www.rodingvalley.net,145597,8814499
+Lambourne Primary School,All pupils in face-to-face education,Primary,Academy converter,www.lambourne.efspt.org,145604,8812690
+Hillhouse CofE Primary School,All pupils in face-to-face education,Primary,Academy converter,www.hillhouse.essex.sch.uk/,145992,8813256
+Barnes Farm Junior School,All pupils in face-to-face education,Primary,Academy converter,www.barnesfarmjuniors.co.uk,145998,8812839
+St Elizabeth's Catholic Voluntary Academy,All pupils in face-to-face education,Primary,Academy converter,www.stelizabethsbelper.srscmat.co.uk,146119,8303513
+Hockley Primary School,All pupils in face-to-face education,Primary,Academy converter,www.hockleyprimary.org,146181,8815247
+Chipping Ongar Primary School,All pupils in face-to-face education,Primary,Academy converter,www.chippingongar.essex.sch.uk/,146195,8812685
+Langney Primary Academy,All pupils in face-to-face education,Primary,Academy converter,www.langneyprimary.co.uk,146231,8452130
+St Teresa's Catholic Primary School,Start of Term Delayed,Primary,Academy converter,www.stteresasprimary.org.uk/,146256,8413309
+St Mary and St John Junior and Infant School,All pupils in face-to-face education,Primary,Academy sponsor led,www.stmryjon.net,146268,3302187
+St John Catholic Primary School,All pupils in face-to-face education,Primary,Academy converter,http://www.stjohns705.herts.sch.uk,146859,9193398
+"St Anne's Catholic Primary School, Harlow Green",Fully remote learning,Primary,Academy converter,www.stannesprimary.org,147135,3903322
+St Francis' Catholic Primary School,Start of Term Delayed,Primary,Academy converter,www.st-francis.newham.sch.uk,147336,3163510
+Buckhurst Hill Community Primary School,Start of Term Delayed,Primary,Academy converter,www.bhcps.efspt.org,147561,8812973
+Sunny Bank Primary School,All pupils in face-to-face education,Primary,Academy sponsor led,www.sunnybank.kent.sch.uk,147729,8862126
+"St Benet's Catholic Primary School, Ouston",Fully remote learning,Primary,Academy converter,www.st-benets.durham.sch.uk,148205,8403346
+St Bede's Catholic School and Byron Sixth Form College,Mix of face-to-face and remote arrangements,Secondary,Academy converter,http://www.st-bedes.durham.sch.uk/,148304,8404693
+St Joseph's Catholic Primary School,All pupils in face-to-face education,Primary,Academy converter,www.stjosephschalfont.school,148671,8253371
+Wells Park School,All pupils in face-to-face education,Not applicable,Academy special converter,www.beckmeadtrust.org,148708,8817022
+"St James' Catholic Primary School, Hebburn",Mix of face-to-face and remote arrangements,Primary,Academy converter,www.stjameshebburn.co.uk,148778,3933313
+"St John Bosco Catholic Primary School, Town End Farm, Sunderland",Mix of face-to-face and remote arrangements,Primary,Academy converter,www.stjohnboscosunderland.org.uk,148782,3943316
+"St Columba's Catholic Primary School, Wallsend",All pupils in face-to-face education,Primary,Academy converter,www.stcolumbasprimary.co.uk,148816,3923320
+"St John Vianney Catholic Primary School, West Denton",All pupils in face-to-face education,Primary,Academy converter,www.stjohnvianneynewcastle.org,148977,3913477
+"The Holy Family Catholic School, a Voluntary Academy",Start of Term Delayed,Secondary,Academy sponsor led,www.holyfamilyschool.uk,149299,3804094
+St Michael's Catholic School,All pupils in face-to-face education,All-through,Academy converter,www.stmichaels.bucks.sch.uk,149612,8254701
+Elmstead Primary School,All pupils in face-to-face education,Primary,Academy converter,www.elmsteadprimary.com,149972,8815220
+Not applicable,RAAC not present,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable
+Not applicable,RAAC not present,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable
+Not applicable,RAAC not present,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable
+Not applicable,RAAC not present,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable
+Not applicable,RAAC not present,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable
+Not applicable,RAAC not present,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable
+Not applicable,RAAC not present,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable
+Not applicable,RAAC not present,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable
+Not applicable,RAAC not present,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable
