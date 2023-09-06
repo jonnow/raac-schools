@@ -1,541 +1,1407 @@
-<schools>
-    <school>
-        <id>1</id>
-        <name>Abbey Lane Primary School</name>
-        <town>Sheffield, South Yorkshire</town>
-        <postcode></postcode>
-        <county>South Yorkshire</county>
-    </school>
-    <school>
-        <id>2</id>
-        <name>The Appleton School</name>
-        <town>Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>3</id>
-        <name>Arthur Bugler Primary School</name>
-        <town>Standford-le-Hope, Thurrock</town>
-        <postcode></postcode>
-        <county>Thurrock</county>
-    </school>
-    <school>
-        <id>4</id>
-        <name>Aston Manor Academy</name>
-        <town>Birmingham</town>
-        <postcode></postcode>
-        <county>West Midlands</county>
-    </school>
-    <school>
-        <id>5</id>
-        <name>Aylesford School</name>
-        <town>Warwick</town>
-        <postcode></postcode>
-        <county>Warwickshire</county>
-    </school>
-    <school>
-        <id>6</id>
-        <name>The Billericay School</name>
-        <town>Billericay, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>7</id>
-        <name>The Bromfords School</name>
-        <town>Wickford, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>8</id>
-        <name>Buckhurst Hill Community Primary School</name>
-        <town>Buckhurst Hill, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>9</id>
-        <name>Canon Slade School</name>
-        <town>Bolton, Greater Manchester</town>
-        <postcode></postcode>
-        <county>Greater Manchester</county>
-    </school>
-    <school>
-        <id>10</id>
-        <name>Carmel College and Sixth Form</name>
-        <town>Darlington, County Durham</town>
-        <postcode></postcode>
-        <county>County Durham</county>
-    </school>
-    <school>
-        <id>11</id>
-        <name>The Cherry Tree Academy</name>
-        <town>Colchester, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>12</id>
-        <name>Clacton County High School</name>
-        <town>Clacton, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>13</id>
-        <name>Claydon High School</name>
-        <town>Ipswich, Suffolk</town>
-        <postcode></postcode>
-        <county>Suffolk</county>
-    </school>
-    <school>
-        <id>14</id>
-        <name>Cleeve Park School</name>
-        <town>Sidcup, Kent</town>
-        <postcode></postcode>
-        <county>Kent</county>
-    </school>
-    <school>
-        <id>15</id>
-        <name>Cockermouth School</name>
-        <town>Cockermouth, Cumbria</town>
-        <postcode></postcode>
-        <county>Cumbria</county>
-    </school>
-    <school>
-        <id>16</id>
-        <name>The Coopers' Company and Coburn School</name>
-        <town>Upminster, London</town>
-        <postcode></postcode>
-        <county>London</county>
-    </school>
-    <school>
-        <id>17</id>
-        <name>Corpus Christi Catholic Primary School</name>
-        <town>Brixton, London</town>
-        <postcode></postcode>
-        <county>London</county>
-    </school>
-    <school>
-        <id>18</id>
-        <name>Cranbourne College</name>
-        <town>Basingstoke, Hampshire</town>
-        <postcode></postcode>
-        <county>Hampshire</county>
-    </school>
-    <school>
-        <id>19</id>
-        <name>Crossflatts Primary School</name>
-        <town>Bradford, West Yorkshire</town>
-        <postcode></postcode>
-        <county>West Yorkshire</county>
-    </school>
-    <school>
-        <id>20</id>
-        <name>Donnington Wood Infants School</name>
-        <town>Donnington, Shropshire</town>
-        <postcode></postcode>
-        <county>Shropshire</county>
-    </school>
-    <school>
-        <id>21</id>
-        <name>East Bergholt High School</name>
-        <town>Suffolk, Suffolk</town>
-        <postcode></postcode>
-        <county>Suffolk</county>
-    </school>
-    <school>
-        <id>22</id>
-        <name>East Tilbury Primary School</name>
-        <town>Thurrock, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>23</id>
-        <name>Eldwick Primary School</name>
-        <town>Bradford, West Yorkshire</town>
-        <postcode></postcode>
-        <county>West Yorkshire</county>
-    </school>
-    <school>
-        <id>24</id>
-        <name>The Ellen Wilkinson School</name>
-        <town>London, London</town>
-        <postcode></postcode>
-        <county>London</county>
-    </school>
-    <school>
-        <id>25</id>
-        <name>Farlingaye High School</name>
-        <town>Woodbridge, Suffolk</town>
-        <postcode></postcode>
-        <county>Suffolk</county>
-    </school>
-    <school>
-        <id>26</id>
-        <name>Ferryhill School</name>
-        <town>County Durham, County Durham</town>
-        <postcode></postcode>
-        <county>County Durham</county>
-    </school>
-    <school>
-        <id>27</id>
-        <name>The Gilberd School</name>
-        <town>Colchester, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>28</id>
-        <name>Greenway Junior School</name>
-        <town>Horsham</town>
-        <postcode></postcode>
-        <county>West Sussex</county>
-    </school>
-    <school>
-        <id>29</id>
-        <name>Hadleigh High School</name>
-        <town>Hadleigh, Suffolk</town>
-        <postcode></postcode>
-        <county>Suffolk</county>
-    </school>
-    <school>
-        <id>30</id>
-        <name>Hatfield Peverel Junior School</name>
-        <town>Chelmsford, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>31</id>
-        <name>Hockley Primary School</name>
-        <town>Hockley, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>32</id>
-        <name>Holy Trinity Catholic Academy</name>
-        <town>Newark-on-Trent, Nottinghamshire</town>
-        <postcode></postcode>
-        <county>Nottinghamshire</county>
-    </school>
-    <school>
-        <id>33</id>
-        <name>Honywood School</name>
-        <town>Colchester, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>34</id>
-        <name>Hornsey School for Girls</name>
-        <town>London, London</town>
-        <postcode></postcode>
-        <county>London</county>
-    </school>
-    <school>
-        <id>35</id>
-        <name>Jerounds Primary School</name>
-        <town>Harlow, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>36</id>
-        <name>The Link School</name>
-        <town>Beddington, London</town>
-        <postcode></postcode>
-        <county>London</county>
-    </school>
-    <school>
-        <id>37</id>
-        <name>London Oratory School</name>
-        <town>Fulham, London</town>
-        <postcode></postcode>
-        <county>London</county>
-    </school>
-    <school>
-        <id>38</id>
-        <name>Katherines Primary Academy</name>
-        <town>Harlow, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>39</id>
-        <name>Kingsdown School</name>
-        <town>Southend-on-Sea, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>40</id>
-        <name>King Ethelbert School</name>
-        <town>Birchington, Kent</town>
-        <postcode></postcode>
-        <county>Kent</county>
-    </school>
-    <school>
-        <id>41</id>
-        <name>Mayflower Primary School</name>
-        <town>Leicester, Leicestershire</town>
-        <postcode></postcode>
-        <county>Leicestershire</county>
-    </school>
-    <school>
-        <id>42</id>
-        <name>Myton School</name>
-        <town>Warwick, Warwickshire</town>
-        <postcode></postcode>
-        <county>Warwickshire</county>
-    </school>
-    <school>
-        <id>43</id>
-        <name>Northampton International Academy</name>
-        <town>Northampton, Northamptonshire</town>
-        <postcode></postcode>
-        <county>Northamptonshire</county>
-    </school>
-    <school>
-        <id>44</id>
-        <name>Our Lady's Catholic High School</name>
-        <town>Preston, Lancashire</town>
-        <postcode></postcode>
-        <county>Lancashire</county>
-    </school>
-    <school>
-        <id>45</id>
-        <name>Outwoods Primary School</name>
-        <town>Atherstone, Warwickshire</town>
-        <postcode></postcode>
-        <county>Warwickshire</county>
-    </school>
-    <school>
-        <id>46</id>
-        <name>Parks Primary</name>
-        <town>Leicester, Leicestershire</town>
-        <postcode></postcode>
-        <county>Leicestershire</county>
-    </school>
-    <school>
-        <id>47</id>
-        <name>Pershore High School</name>
-        <town>Pershore, Worcestershire</town>
-        <postcode></postcode>
-        <county>Worcestershire</county>
-    </school>
-    <school>
-        <id>48</id>
-        <name>Ramsey Academy</name>
-        <town>Halstead, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>49</id>
-        <name>Ravens Academy</name>
-        <town>Clacton-On-Sea, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>50</id>
-        <name>Roding Valley High School</name>
-        <town>Loughton, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>51</id>
-        <name>Scalby School</name>
-        <town>Scarborough, North Yorkshire</town>
-        <postcode></postcode>
-        <county>North Yorkshire</county>
-    </school>
-    <school>
-        <id>52</id>
-        <name>St Anne's Catholic Primary School</name>
-        <town>Harlow Green, Tyne and Wear</town>
-        <postcode></postcode>
-        <county>Tyne and Wear</county>
-    </school>
-    <school>
-        <id>53</id>
-        <name>St Bartholomew's Catholic Primary School</name>
-        <town>Kent, Kent</town>
-        <postcode></postcode>
-        <county>Kent</county>
-    </school>
-    <school>
-        <id>54</id>
-        <name>St Bede's Catholic School and Byron Sixth Form College</name>
-        <town>County Durham, County Durham</town>
-        <postcode></postcode>
-        <county>County Durham</county>
-    </school>
-    <school>
-        <id>55</id>
-        <name>St Benet's Catholic Primary School</name>
-        <town>Ouston, County Durham</town>
-        <postcode></postcode>
-        <county>County Durham</county>
-    </school>
-    <school>
-        <id>56</id>
-        <name>St Bernard's School</name>
-        <town>Bolton, Greater Manchester</town>
-        <postcode></postcode>
-        <county>Greater Manchester</county>
-    </school>
-    <school>
-        <id>57</id>
-        <name>St Clere's School</name>
-        <town>Stanford-le-Hope, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>58</id>
-        <name>St Edward's Catholic Voluntary Primary</name>
-        <town>Swadlincote, Derbyshire</town>
-        <postcode></postcode>
-        <county>Derbyshire</county>
-    </school>
-    <school>
-        <id>59</id>
-        <name>St Francis Catholic Primary School</name>
-        <town>Ascot, Berkshire</town>
-        <postcode></postcode>
-        <county>Berkshire</county>
-    </school>
-    <school>
-        <id>60</id>
-        <name>St Gregory's Catholic Science College</name>
-        <town>Harrow, London</town>
-        <postcode></postcode>
-        <county>London</county>
-    </school>
-    <school>
-        <id>61</id>
-        <name>St James Catholic Primary School</name>
-        <town>Hebburn, Tyne and Wear</town>
-        <postcode></postcode>
-        <county>Tyne and Wear</county>
-    </school>
-    <school>
-        <id>62</id>
-        <name>St John Bosco Catholic Primary School</name>
-        <town>Sunderland, Tyne and Wear</town>
-        <postcode></postcode>
-        <county>Tyne and Wear</county>
-    </school>
-    <school>
-        <id>63</id>
-        <name>St Leonard's School</name>
-        <town>Durham, County Durham</town>
-        <postcode></postcode>
-        <county>County Durham</county>
-    </school>
-    <school>
-        <id>64</id>
-        <name>St Teresa's Catholic Primary School</name>
-        <town>Darlington, County Durham</town>
-        <postcode></postcode>
-        <county>County Durham</county>
-    </school>
-    <school>
-        <id>65</id>
-        <name>St Thomas More Catholic Comprehensive</name>
-        <town>Eltham, London</town>
-        <postcode></postcode>
-        <county>London</county>
-    </school>
-    <school>
-        <id>66</id>
-        <name>St William of York Catholic Primary School</name>
-        <town>Bolton, Greater Manchester</town>
-        <postcode></postcode>
-        <county>Greater Manchester</county>
-    </school>
-    <school>
-        <id>67</id>
-        <name>Tendring Technology College, Frinton Campus</name>
-        <town>Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>68</id>
-        <name>Thameside Primary School</name>
-        <town>Grays, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>69</id>
-        <name>Thomas Lord Audley School</name>
-        <town>Colchester, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>70</id>
-        <name>Thurstable school and sixth form</name>
-        <town>Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>71</id>
-        <name>Waddesdon School</name>
-        <town>Buckinghamshire</town>
-        <postcode></postcode>
-        <county>Buckinghamshire</county>
-    </school>
-    <school>
-        <id>72</id>
-        <name>White Hall Academy primary</name>
-        <town>Clacton, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>73</id>
-        <name>Willowbrook Mead Primary Academy</name>
-        <town>Leicester, Leicestershire</town>
-        <postcode></postcode>
-        <county>Leicestershire</county>
-    </school>
-    <school>
-        <id>74</id>
-        <name>Winter Gardens Academy</name>
-        <town>Canvey Island, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>75</id>
-        <name>Wood Green Academy</name>
-        <town>Wednesbury, West Midlands</town>
-        <postcode></postcode>
-        <county>West Midlands</county>
-    </school>
-    <school>
-        <id>76</id>
-        <name>Woodville Primary School</name>
-        <town>South Woodham Ferrers, Chelmsford, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-    <school>
-        <id>77</id>
-        <name>Wyburns Primary School</name>
-        <town>Rayleigh, Essex</town>
-        <postcode></postcode>
-        <county>Essex</county>
-    </school>
-</schools>
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <URN>100713</URN>
+    <LAESTAB>2092869</LAESTAB>
+    <Setting_Name>Myatt Garden Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>http://www.myattgarden.lewisham.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>100931</URN>
+    <LAESTAB>2112857</LAESTAB>
+    <Setting_Name>Seven Mills Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>www.sevenmills.towerhamlets.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>101941</URN>
+    <LAESTAB>3075402</LAESTAB>
+    <Setting_Name>The Ellen Wilkinson School for Girls</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Foundation school</Type_of_Setting>
+    <Setting_Website>http://www.ellenwilkinson.ealing.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>102058</URN>
+    <LAESTAB>3085403</LAESTAB>
+    <Setting_Name>St Ignatius College</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Voluntary aided school</Type_of_Setting>
+    <Setting_Website>http://www.st-ignatius.enfield.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>102124</URN>
+    <LAESTAB>3092062</LAESTAB>
+    <Setting_Name>Welbourne Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>www.welbourne.haringey.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>102152</URN>
+    <LAESTAB>3093510</LAESTAB>
+    <Setting_Name>St John Vianney RC Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Voluntary aided school</Type_of_Setting>
+    <Setting_Website>www.st-johnvianney.haringey.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>102153</URN>
+    <LAESTAB>3094029</LAESTAB>
+    <Setting_Name>Hornsey School for Girls</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>http://www.hsg.haringey.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>103976</URN>
+    <LAESTAB>3332171</LAESTAB>
+    <Setting_Name>Brandhall Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>www.brandhall.sandwell.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>105226</URN>
+    <LAESTAB>3503331</LAESTAB>
+    <Setting_Name>St William of York Catholic Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Voluntary aided school</Type_of_Setting>
+    <Setting_Website>www.st-williams.bolton.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>105236</URN>
+    <LAESTAB>3503348</LAESTAB>
+    <Setting_Name>St Andrew&#x27;s CofE Primary School, Over Hulton</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Voluntary aided school</Type_of_Setting>
+    <Setting_Website>www.standrewsbolton.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>105505</URN>
+    <LAESTAB>3523301</LAESTAB>
+    <Setting_Name>All Saints C of E Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Voluntary aided school</Type_of_Setting>
+    <Setting_Website>www.allsaintsnh-pri.manchester.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>106982</URN>
+    <LAESTAB>3732001</LAESTAB>
+    <Setting_Name>Abbey Lane Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>www.abbeylaneprimaryschool.com</Setting_Website>
+  </row>
+  <row>
+    <URN>110095</URN>
+    <LAESTAB>8715207</LAESTAB>
+    <Setting_Name>Pippins School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Foundation school</Type_of_Setting>
+    <Setting_Website>www.pippins.slough.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>114764</URN>
+    <LAESTAB>8812081</LAESTAB>
+    <Setting_Name>Stanway Fiveways Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>www.stanwayfiveways.essex.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>114767</URN>
+    <LAESTAB>8812088</LAESTAB>
+    <Setting_Name>Baynards Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>www.baynards.essex.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>114852</URN>
+    <LAESTAB>8812450</LAESTAB>
+    <Setting_Name>Great Leighs Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>www.greatleighs.essex.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>114975</URN>
+    <LAESTAB>8812740</LAESTAB>
+    <Setting_Name>Henham and Ugley Primary and Nursery School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>http://www.henhamugley.essex.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>114978</URN>
+    <LAESTAB>8812747</LAESTAB>
+    <Setting_Name>Bentfield Primary School and Nursery</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>www.bentfieldprimaryschool.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>114988</URN>
+    <LAESTAB>8812767</LAESTAB>
+    <Setting_Name>White Court School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>http://www.whitecourtschool.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>114996</URN>
+    <LAESTAB>8812789</LAESTAB>
+    <Setting_Name>Beehive Lane Community Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>www.beehivelane.essex.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>114999</URN>
+    <LAESTAB>8812798</LAESTAB>
+    <Setting_Name>Eversley Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>http://www.eversley.essex.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>115075</URN>
+    <LAESTAB>8813021</LAESTAB>
+    <Setting_Name>Holy Trinity CofE Primary School, Eight Ash Green and Aldham</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Voluntary controlled school</Type_of_Setting>
+    <Setting_Website>www.holytrinityeightashgreen.co.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>115077</URN>
+    <LAESTAB>8813023</LAESTAB>
+    <Setting_Name>St Lawrence Church of England Primary School, Rowhedge</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Voluntary controlled school</Type_of_Setting>
+    <Setting_Website>http://www.st-lawrence-pri.essex.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>115079</URN>
+    <LAESTAB>8813025</LAESTAB>
+    <Setting_Name>Great Tey Church of England Voluntary Controlled Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Voluntary controlled school</Type_of_Setting>
+    <Setting_Website>www.greatteyprimary.org.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>115102</URN>
+    <LAESTAB>8815279</LAESTAB>
+    <Setting_Name>Hatfield Peverel St Andrew&#x27;s Junior School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Foundation school</Type_of_Setting>
+    <Setting_Website>www.hatfieldpeverelstandrews.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>115292</URN>
+    <LAESTAB>8815252</LAESTAB>
+    <Setting_Name>Broomfield Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Foundation school</Type_of_Setting>
+    <Setting_Website>http://www.broomfield.essex.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>115311</URN>
+    <LAESTAB>8815271</LAESTAB>
+    <Setting_Name>Mersea Island School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Foundation school</Type_of_Setting>
+    <Setting_Website>www.merseaschool.org</Setting_Website>
+  </row>
+  <row>
+    <URN>116432</URN>
+    <LAESTAB>8504164</LAESTAB>
+    <Setting_Name>Cranbourne</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>http://www.cranbourne.hants.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>117127</URN>
+    <LAESTAB>9192074</LAESTAB>
+    <Setting_Name>Markyate Village School and Nursery</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>http://www.markyate.herts.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>117176</URN>
+    <LAESTAB>9192145</LAESTAB>
+    <Setting_Name>Widford School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>http://www.widford.herts.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>118490</URN>
+    <LAESTAB>8862524</LAESTAB>
+    <Setting_Name>Palmarsh Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>http://www.palmarsh.kent.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>118693</URN>
+    <LAESTAB>8863178</LAESTAB>
+    <Setting_Name>Birchington Church of England Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Voluntary controlled school</Type_of_Setting>
+    <Setting_Website>www.birchington-primary.com/</Setting_Website>
+  </row>
+  <row>
+    <URN>118725</URN>
+    <LAESTAB>8863322</LAESTAB>
+    <Setting_Name>St James&#x27; Church of England Voluntary Aided Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Voluntary aided school</Type_of_Setting>
+    <Setting_Website>https://st-james.kent.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>118860</URN>
+    <LAESTAB>8865214</LAESTAB>
+    <Setting_Name>St Bartholomew&#x27;s Catholic Primary School, Swanley</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Voluntary aided school</Type_of_Setting>
+    <Setting_Website>http://www.st-bartholomewsrc-pri.kent.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>119411</URN>
+    <LAESTAB>8903192</LAESTAB>
+    <Setting_Name>Bispham Endowed Church of England Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Voluntary controlled school</Type_of_Setting>
+    <Setting_Website>http://www.bisphamendowed.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>119779</URN>
+    <LAESTAB>8884606</LAESTAB>
+    <Setting_Name>Our Lady&#x27;s Catholic High School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Voluntary aided school</Type_of_Setting>
+    <Setting_Website>http://www.olchs.lancs.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>120018</URN>
+    <LAESTAB>8562250</LAESTAB>
+    <Setting_Name>Mayflower Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>https://www.mayflower.leicester.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>120088</URN>
+    <LAESTAB>8562364</LAESTAB>
+    <Setting_Name>Parks Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>www.parksprimary.org/</Setting_Website>
+  </row>
+  <row>
+    <URN>123364</URN>
+    <LAESTAB>8942041</LAESTAB>
+    <Setting_Name>Donnington Wood Infant School and Nursery Centre</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>www.donningtonwoodinfants.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>124802</URN>
+    <LAESTAB>9354024</LAESTAB>
+    <Setting_Name>Thurston Community College</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>http://www.thurstoncollege.org/</Setting_Website>
+  </row>
+  <row>
+    <URN>125029</URN>
+    <LAESTAB>9362361</LAESTAB>
+    <Setting_Name>Shawfield Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>www.shawfield.surrey.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>125212</URN>
+    <LAESTAB>9363446</LAESTAB>
+    <Setting_Name>St Paul&#x27;s Catholic Primary School, Thames Ditton</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Voluntary aided school</Type_of_Setting>
+    <Setting_Website>www.stpauls-thamesditton.surrey.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>130646</URN>
+    <LAESTAB>8788001</LAESTAB>
+    <Setting_Name>Petroc</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>16 plus</Setting_Phase>
+    <Type_of_Setting>Further education</Type_of_Setting>
+    <Setting_Website>http://www.petroc.ac.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>131757</URN>
+    <LAESTAB>3094037</LAESTAB>
+    <Setting_Name>Park View School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>www.parkview.haringey.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>134065</URN>
+    <LAESTAB>8812020</LAESTAB>
+    <Setting_Name>Springfield Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>www.springfield-pri.essex.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>136061</URN>
+    <LAESTAB>9372083</LAESTAB>
+    <Setting_Name>Outwoods Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Community school</Type_of_Setting>
+    <Setting_Website>www.ops.warwickshire.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>136468</URN>
+    <LAESTAB>8265410</LAESTAB>
+    <Setting_Name>Denbigh School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.denbigh.net</Setting_Website>
+  </row>
+  <row>
+    <URN>136498</URN>
+    <LAESTAB>3584029</LAESTAB>
+    <Setting_Name>Sale Grammar School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.salegrammar.co.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>136579</URN>
+    <LAESTAB>8815418</LAESTAB>
+    <Setting_Name>The Appleton School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.theappletonschool.org</Setting_Website>
+  </row>
+  <row>
+    <URN>136584</URN>
+    <LAESTAB>8864120</LAESTAB>
+    <Setting_Name>King Ethelbert School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.kingethelbert.com/</Setting_Website>
+  </row>
+  <row>
+    <URN>136594</URN>
+    <LAESTAB>8874068</LAESTAB>
+    <Setting_Name>Holcombe Grammar School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.holcombegrammar.org.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>136600</URN>
+    <LAESTAB>3115402</LAESTAB>
+    <Setting_Name>The Coopers&#x27; Company and Coborn School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.cooperscoborn.org.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>136616</URN>
+    <LAESTAB>3334024</LAESTAB>
+    <Setting_Name>Wood Green Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.woodgreenacademy.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>136729</URN>
+    <LAESTAB>8814400</LAESTAB>
+    <Setting_Name>The Honywood Community Science School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.honywoodschool.com</Setting_Website>
+  </row>
+  <row>
+    <URN>136861</URN>
+    <LAESTAB>8815468</LAESTAB>
+    <Setting_Name>The Billericay School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.billericayschool.com</Setting_Website>
+  </row>
+  <row>
+    <URN>136882</URN>
+    <LAESTAB>3304220</LAESTAB>
+    <Setting_Name>Aston Manor Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.astonmanor.bham.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>136918</URN>
+    <LAESTAB>9354017</LAESTAB>
+    <Setting_Name>Hadleigh High School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.hadleighhigh.net/</Setting_Website>
+  </row>
+  <row>
+    <URN>137088</URN>
+    <LAESTAB>3174800</LAESTAB>
+    <Setting_Name>The Palmer Catholic Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.tpc.academy</Setting_Website>
+  </row>
+  <row>
+    <URN>137157</URN>
+    <LAESTAB>2055400</LAESTAB>
+    <Setting_Name>The London Oratory School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.london-oratory.org</Setting_Website>
+  </row>
+  <row>
+    <URN>137188</URN>
+    <LAESTAB>8815432</LAESTAB>
+    <Setting_Name>Tendring Technology College</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://tendringtechnologycollege.org/</Setting_Website>
+  </row>
+  <row>
+    <URN>137218</URN>
+    <LAESTAB>9354097</LAESTAB>
+    <Setting_Name>East Bergholt High School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.ebhigh.org.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>137229</URN>
+    <LAESTAB>8504168</LAESTAB>
+    <Setting_Name>Hounsdown School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.hounsdown.hants.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>137241</URN>
+    <LAESTAB>8815413</LAESTAB>
+    <Setting_Name>Thurstable School Sports College and Sixth Form Centre</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.thurstable.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>137295</URN>
+    <LAESTAB>2085202</LAESTAB>
+    <Setting_Name>Corpus Christi Catholic Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.corpuschristischool.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>137355</URN>
+    <LAESTAB>8255408</LAESTAB>
+    <Setting_Name>Waddesdon Church of England School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.waddesdonschool.com</Setting_Website>
+  </row>
+  <row>
+    <URN>137357</URN>
+    <LAESTAB>9314140</LAESTAB>
+    <Setting_Name>Wallingford School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.wallingfordschool.com/</Setting_Website>
+  </row>
+  <row>
+    <URN>137383</URN>
+    <LAESTAB>3834105</LAESTAB>
+    <Setting_Name>Woodkirk Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.woodkirkacademy.co.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>137424</URN>
+    <LAESTAB>3824048</LAESTAB>
+    <Setting_Name>Batley Girls High School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.batleygirls.co.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>137456</URN>
+    <LAESTAB>8835440</LAESTAB>
+    <Setting_Name>St Clere&#x27;s School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.st-cleres.thurrock.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>137491</URN>
+    <LAESTAB>8956010</LAESTAB>
+    <Setting_Name>Sandbach School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Free schools</Type_of_Setting>
+    <Setting_Website>http://sandbachschool.org/</Setting_Website>
+  </row>
+  <row>
+    <URN>137622</URN>
+    <LAESTAB>8414603</LAESTAB>
+    <Setting_Name>Carmel College</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://carmel.bhcet.org.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>137727</URN>
+    <LAESTAB>8815442</LAESTAB>
+    <Setting_Name>Anglo European School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://aesessex.co.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>137851</URN>
+    <LAESTAB>3904606</LAESTAB>
+    <Setting_Name>St Thomas More Catholic School, Blaydon</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.stthomasmore.org.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>137926</URN>
+    <LAESTAB>8815441</LAESTAB>
+    <Setting_Name>The Gilberd School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.gilberd.com</Setting_Website>
+  </row>
+  <row>
+    <URN>137937</URN>
+    <LAESTAB>8814020</LAESTAB>
+    <Setting_Name>The Thomas Lord Audley School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.tla.essex.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>137944</URN>
+    <LAESTAB>8815448</LAESTAB>
+    <Setting_Name>St Helena School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.st-helena.essex.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>138065</URN>
+    <LAESTAB>8832824</LAESTAB>
+    <Setting_Name>East Tilbury Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.easttilburyprimary.thurrock.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>138084</URN>
+    <LAESTAB>8815444</LAESTAB>
+    <Setting_Name>Clacton County High School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.countyhigh.org.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>138575</URN>
+    <LAESTAB>8812022</LAESTAB>
+    <Setting_Name>White Hall Academy and Nursery</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy sponsor led</Type_of_Setting>
+    <Setting_Website>http://www.whitehallacademy.co.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>138614</URN>
+    <LAESTAB>3584024</LAESTAB>
+    <Setting_Name>Altrincham College</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.altrinchamcollege.com/</Setting_Website>
+  </row>
+  <row>
+    <URN>138686</URN>
+    <LAESTAB>3034030</LAESTAB>
+    <Setting_Name>Cleeve Park School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.cleevepark-tkat.org</Setting_Website>
+  </row>
+  <row>
+    <URN>138734</URN>
+    <LAESTAB>8815436</LAESTAB>
+    <Setting_Name>Joyce Frankland Academy, Newport</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.jfan.org.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>138764</URN>
+    <LAESTAB>9362092</LAESTAB>
+    <Setting_Name>Danetree Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.danetreeschool.org/</Setting_Website>
+  </row>
+  <row>
+    <URN>139181</URN>
+    <LAESTAB>8815407</LAESTAB>
+    <Setting_Name>The Bromfords School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.bromfords.essex.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>139218</URN>
+    <LAESTAB>3567900</LAESTAB>
+    <Setting_Name>Royal College Manchester (Seashell Trust)</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Not applicable</Setting_Phase>
+    <Type_of_Setting>Special post 16 institution</Type_of_Setting>
+    <Setting_Website>http://www.seashelltrust.org.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>139248</URN>
+    <LAESTAB>8814008</LAESTAB>
+    <Setting_Name>The Ramsey Academy, Halstead</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy sponsor led</Type_of_Setting>
+    <Setting_Website>http://www.ramseyacademy.com/</Setting_Website>
+  </row>
+  <row>
+    <URN>139872</URN>
+    <LAESTAB>3324119</LAESTAB>
+    <Setting_Name>Redhill School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.redhill.dudley.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>140014</URN>
+    <LAESTAB>3304013</LAESTAB>
+    <Setting_Name>Ark Boulton Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy sponsor led</Type_of_Setting>
+    <Setting_Website>http://arkboulton.org/</Setting_Website>
+  </row>
+  <row>
+    <URN>140447</URN>
+    <LAESTAB>8815213</LAESTAB>
+    <Setting_Name>Woodville Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.woodvilleprimaryschool.org.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>140727</URN>
+    <LAESTAB>8913766</LAESTAB>
+    <Setting_Name>Holy Trinity Catholic Voluntary Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.holytrinityacademy.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>141192</URN>
+    <LAESTAB>9262068</LAESTAB>
+    <Setting_Name>Thomas Bullock Church of England Primary and Nursery Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy sponsor led</Type_of_Setting>
+    <Setting_Website>www.thomasbullock.dneat.org/</Setting_Website>
+  </row>
+  <row>
+    <URN>141194</URN>
+    <LAESTAB>8812110</LAESTAB>
+    <Setting_Name>Water Lane Primary Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy sponsor led</Type_of_Setting>
+    <Setting_Website>www.waterlaneprimary.co.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>141572</URN>
+    <LAESTAB>8812687</LAESTAB>
+    <Setting_Name>Katherine Semar Junior School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.katherinesemar.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>141574</URN>
+    <LAESTAB>8812717</LAESTAB>
+    <Setting_Name>Katherine Semar Infant School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.katherinesemar.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>141658</URN>
+    <LAESTAB>8812123</LAESTAB>
+    <Setting_Name>Mistley Norman Church of England Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy sponsor led</Type_of_Setting>
+    <Setting_Website>www.mistleynormancofe.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>141714</URN>
+    <LAESTAB>8812520</LAESTAB>
+    <Setting_Name>Hatfield Heath Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.hatfieldheath.essex.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>141716</URN>
+    <LAESTAB>2034716</LAESTAB>
+    <Setting_Name>St Thomas More Catholic Comprehensive School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.stmcomprehensive.org/</Setting_Website>
+  </row>
+  <row>
+    <URN>141754</URN>
+    <LAESTAB>8862625</LAESTAB>
+    <Setting_Name>Godinton Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.godinton.kent.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>141818</URN>
+    <LAESTAB>8683335</LAESTAB>
+    <Setting_Name>St Francis Catholic Primary School, South Ascot</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.stfrancisprimary.org</Setting_Website>
+  </row>
+  <row>
+    <URN>141841</URN>
+    <LAESTAB>8815422</LAESTAB>
+    <Setting_Name>The FitzWimarc School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.fitzwimarc.com</Setting_Website>
+  </row>
+  <row>
+    <URN>142000</URN>
+    <LAESTAB>8812129</LAESTAB>
+    <Setting_Name>Winter Gardens Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy sponsor led</Type_of_Setting>
+    <Setting_Website>www.wintergardensacademy.org</Setting_Website>
+  </row>
+  <row>
+    <URN>142002</URN>
+    <LAESTAB>8812132</LAESTAB>
+    <Setting_Name>Cherry Tree Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy sponsor led</Type_of_Setting>
+    <Setting_Website>https://www.cherrytree.essex.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>142230</URN>
+    <LAESTAB>3302003</LAESTAB>
+    <Setting_Name>Prince Albert Junior and Infant School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.princealbert.bham.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>142306</URN>
+    <LAESTAB>9424103</LAESTAB>
+    <Setting_Name>Cockermouth School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.cockermouthschool.org/</Setting_Website>
+  </row>
+  <row>
+    <URN>142485</URN>
+    <LAESTAB>9414018</LAESTAB>
+    <Setting_Name>Northampton International Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>All-through</Setting_Phase>
+    <Type_of_Setting>Free schools</Type_of_Setting>
+    <Setting_Website></Setting_Website>
+  </row>
+  <row>
+    <URN>142560</URN>
+    <LAESTAB>3045406</LAESTAB>
+    <Setting_Name>St Gregory&#x27;s Catholic Science College</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Fully remote learning</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.stgregorys.harrow.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>143082</URN>
+    <LAESTAB>3025408</LAESTAB>
+    <Setting_Name>Bishop Douglass School Finchley</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.bishopdouglass.barnet.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>143123</URN>
+    <LAESTAB>8812143</LAESTAB>
+    <Setting_Name>Lubbins Park Primary Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy sponsor led</Type_of_Setting>
+    <Setting_Website>https://www.lubbinspark.essex.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>143288</URN>
+    <LAESTAB>8154073</LAESTAB>
+    <Setting_Name>Scalby School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>https://www.scalby.coastandvale.academy/</Setting_Website>
+  </row>
+  <row>
+    <URN>143378</URN>
+    <LAESTAB>8832439</LAESTAB>
+    <Setting_Name>Arthur Bugler Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.arthurbugler.com</Setting_Website>
+  </row>
+  <row>
+    <URN>143583</URN>
+    <LAESTAB>8404691</LAESTAB>
+    <Setting_Name>St Leonard&#x27;s Catholic School, Durham</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Fully remote learning</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.st-leonards.durham.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>144044</URN>
+    <LAESTAB>3505401</LAESTAB>
+    <Setting_Name>Canon Slade School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.canon-slade.bolton.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>144214</URN>
+    <LAESTAB>9354096</LAESTAB>
+    <Setting_Name>Claydon High School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.claydonhigh.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>144664</URN>
+    <LAESTAB>8812983</LAESTAB>
+    <Setting_Name>Harlowbury Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.harlowbury.essex.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>144692</URN>
+    <LAESTAB>8827001</LAESTAB>
+    <Setting_Name>Kingsdown School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Not applicable</Setting_Phase>
+    <Type_of_Setting>Academy special converter</Type_of_Setting>
+    <Setting_Website>www.kingsdownschool.org</Setting_Website>
+  </row>
+  <row>
+    <URN>144823</URN>
+    <LAESTAB>8812162</LAESTAB>
+    <Setting_Name>Katherines Primary Academy and Nursery</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy sponsor led</Type_of_Setting>
+    <Setting_Website>www.katherines.netacademies.net</Setting_Website>
+  </row>
+  <row>
+    <URN>145047</URN>
+    <LAESTAB>8604060</LAESTAB>
+    <Setting_Name>Sir Thomas Boughey Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.stb.academy</Setting_Website>
+  </row>
+  <row>
+    <URN>145061</URN>
+    <LAESTAB>8814024</LAESTAB>
+    <Setting_Name>Harwich and Dovercourt High School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy sponsor led</Type_of_Setting>
+    <Setting_Website>www.hdhs.org.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>145253</URN>
+    <LAESTAB>8404150</LAESTAB>
+    <Setting_Name>Ferryhill School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.ferryhill.school</Setting_Website>
+  </row>
+  <row>
+    <URN>145349</URN>
+    <LAESTAB>8815262</LAESTAB>
+    <Setting_Name>Wyburns Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.wyburns.org</Setting_Website>
+  </row>
+  <row>
+    <URN>145557</URN>
+    <LAESTAB>8812171</LAESTAB>
+    <Setting_Name>Jerounds Primary Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy sponsor led</Type_of_Setting>
+    <Setting_Website>http://www.netacademies.net/jerounds</Setting_Website>
+  </row>
+  <row>
+    <URN>145597</URN>
+    <LAESTAB>8814499</LAESTAB>
+    <Setting_Name>Roding Valley High School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.rodingvalley.net</Setting_Website>
+  </row>
+  <row>
+    <URN>145604</URN>
+    <LAESTAB>8812690</LAESTAB>
+    <Setting_Name>Lambourne Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.lambourne.efspt.org</Setting_Website>
+  </row>
+  <row>
+    <URN>145992</URN>
+    <LAESTAB>8813256</LAESTAB>
+    <Setting_Name>Hillhouse CofE Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.hillhouse.essex.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>145998</URN>
+    <LAESTAB>8812839</LAESTAB>
+    <Setting_Name>Barnes Farm Junior School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.barnesfarmjuniors.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>146119</URN>
+    <LAESTAB>8303513</LAESTAB>
+    <Setting_Name>St Elizabeth&#x27;s Catholic Voluntary Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.stelizabethsbelper.srscmat.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>146181</URN>
+    <LAESTAB>8815247</LAESTAB>
+    <Setting_Name>Hockley Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.hockleyprimary.org</Setting_Website>
+  </row>
+  <row>
+    <URN>146195</URN>
+    <LAESTAB>8812685</LAESTAB>
+    <Setting_Name>Chipping Ongar Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.chippingongar.essex.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>146231</URN>
+    <LAESTAB>8452130</LAESTAB>
+    <Setting_Name>Langney Primary Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.langneyprimary.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>146256</URN>
+    <LAESTAB>8413309</LAESTAB>
+    <Setting_Name>St Teresa&#x27;s Catholic Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.stteresasprimary.org.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>146268</URN>
+    <LAESTAB>3302187</LAESTAB>
+    <Setting_Name>St Mary and St John Junior and Infant School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy sponsor led</Type_of_Setting>
+    <Setting_Website>www.stmryjon.net</Setting_Website>
+  </row>
+  <row>
+    <URN>146859</URN>
+    <LAESTAB>9193398</LAESTAB>
+    <Setting_Name>St John Catholic Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.stjohns705.herts.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>147135</URN>
+    <LAESTAB>3903322</LAESTAB>
+    <Setting_Name>St Anne&#x27;s Catholic Primary School, Harlow Green</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Fully remote learning</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.stannesprimary.org</Setting_Website>
+  </row>
+  <row>
+    <URN>147336</URN>
+    <LAESTAB>3163510</LAESTAB>
+    <Setting_Name>St Francis&#x27; Catholic Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.st-francis.newham.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>147561</URN>
+    <LAESTAB>8812973</LAESTAB>
+    <Setting_Name>Buckhurst Hill Community Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.bhcps.efspt.org</Setting_Website>
+  </row>
+  <row>
+    <URN>147729</URN>
+    <LAESTAB>8862126</LAESTAB>
+    <Setting_Name>Sunny Bank Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy sponsor led</Type_of_Setting>
+    <Setting_Website>www.sunnybank.kent.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>148205</URN>
+    <LAESTAB>8403346</LAESTAB>
+    <Setting_Name>St Benet&#x27;s Catholic Primary School, Ouston</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Fully remote learning</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.st-benets.durham.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>148304</URN>
+    <LAESTAB>8404693</LAESTAB>
+    <Setting_Name>St Bede&#x27;s Catholic School and Byron Sixth Form College</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>http://www.st-bedes.durham.sch.uk/</Setting_Website>
+  </row>
+  <row>
+    <URN>148671</URN>
+    <LAESTAB>8253371</LAESTAB>
+    <Setting_Name>St Joseph&#x27;s Catholic Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.stjosephschalfont.school</Setting_Website>
+  </row>
+  <row>
+    <URN>148708</URN>
+    <LAESTAB>8817022</LAESTAB>
+    <Setting_Name>Wells Park School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Not applicable</Setting_Phase>
+    <Type_of_Setting>Academy special converter</Type_of_Setting>
+    <Setting_Website>www.beckmeadtrust.org</Setting_Website>
+  </row>
+  <row>
+    <URN>148778</URN>
+    <LAESTAB>3933313</LAESTAB>
+    <Setting_Name>St James&#x27; Catholic Primary School, Hebburn</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.stjameshebburn.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>148782</URN>
+    <LAESTAB>3943316</LAESTAB>
+    <Setting_Name>St John Bosco Catholic Primary School, Town End Farm, Sunderland</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Mix of face-to-face and remote arrangements</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.stjohnboscosunderland.org.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>148816</URN>
+    <LAESTAB>3923320</LAESTAB>
+    <Setting_Name>St Columba&#x27;s Catholic Primary School, Wallsend</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.stcolumbasprimary.co.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>148977</URN>
+    <LAESTAB>3913477</LAESTAB>
+    <Setting_Name>St John Vianney Catholic Primary School, West Denton</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.stjohnvianneynewcastle.org</Setting_Website>
+  </row>
+  <row>
+    <URN>149299</URN>
+    <LAESTAB>3804094</LAESTAB>
+    <Setting_Name>The Holy Family Catholic School, a Voluntary Academy</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>Start of Term Delayed</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Secondary</Setting_Phase>
+    <Type_of_Setting>Academy sponsor led</Type_of_Setting>
+    <Setting_Website>www.holyfamilyschool.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>149612</URN>
+    <LAESTAB>8254701</LAESTAB>
+    <Setting_Name>St Michael&#x27;s Catholic School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>All-through</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.stmichaels.bucks.sch.uk</Setting_Website>
+  </row>
+  <row>
+    <URN>149972</URN>
+    <LAESTAB>8815220</LAESTAB>
+    <Setting_Name>Elmstead Primary School</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>All pupils in face-to-face education</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Primary</Setting_Phase>
+    <Type_of_Setting>Academy converter</Type_of_Setting>
+    <Setting_Website>www.elmsteadprimary.com</Setting_Website>
+  </row>
+  <row>
+    <URN>Not applicable</URN>
+    <LAESTAB>Not applicable</LAESTAB>
+    <Setting_Name>Not applicable</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>RAAC not present</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Not applicable</Setting_Phase>
+    <Type_of_Setting>Not applicable</Type_of_Setting>
+    <Setting_Website>Not applicable</Setting_Website>
+  </row>
+  <row>
+    <URN>Not applicable</URN>
+    <LAESTAB>Not applicable</LAESTAB>
+    <Setting_Name>Not applicable</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>RAAC not present</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Not applicable</Setting_Phase>
+    <Type_of_Setting>Not applicable</Type_of_Setting>
+    <Setting_Website>Not applicable</Setting_Website>
+  </row>
+  <row>
+    <URN>Not applicable</URN>
+    <LAESTAB>Not applicable</LAESTAB>
+    <Setting_Name>Not applicable</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>RAAC not present</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Not applicable</Setting_Phase>
+    <Type_of_Setting>Not applicable</Type_of_Setting>
+    <Setting_Website>Not applicable</Setting_Website>
+  </row>
+  <row>
+    <URN>Not applicable</URN>
+    <LAESTAB>Not applicable</LAESTAB>
+    <Setting_Name>Not applicable</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>RAAC not present</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Not applicable</Setting_Phase>
+    <Type_of_Setting>Not applicable</Type_of_Setting>
+    <Setting_Website>Not applicable</Setting_Website>
+  </row>
+  <row>
+    <URN>Not applicable</URN>
+    <LAESTAB>Not applicable</LAESTAB>
+    <Setting_Name>Not applicable</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>RAAC not present</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Not applicable</Setting_Phase>
+    <Type_of_Setting>Not applicable</Type_of_Setting>
+    <Setting_Website>Not applicable</Setting_Website>
+  </row>
+  <row>
+    <URN>Not applicable</URN>
+    <LAESTAB>Not applicable</LAESTAB>
+    <Setting_Name>Not applicable</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>RAAC not present</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Not applicable</Setting_Phase>
+    <Type_of_Setting>Not applicable</Type_of_Setting>
+    <Setting_Website>Not applicable</Setting_Website>
+  </row>
+  <row>
+    <URN>Not applicable</URN>
+    <LAESTAB>Not applicable</LAESTAB>
+    <Setting_Name>Not applicable</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>RAAC not present</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Not applicable</Setting_Phase>
+    <Type_of_Setting>Not applicable</Type_of_Setting>
+    <Setting_Website>Not applicable</Setting_Website>
+  </row>
+  <row>
+    <URN>Not applicable</URN>
+    <LAESTAB>Not applicable</LAESTAB>
+    <Setting_Name>Not applicable</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>RAAC not present</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Not applicable</Setting_Phase>
+    <Type_of_Setting>Not applicable</Type_of_Setting>
+    <Setting_Website>Not applicable</Setting_Website>
+  </row>
+  <row>
+    <URN>Not applicable</URN>
+    <LAESTAB>Not applicable</LAESTAB>
+    <Setting_Name>Not applicable</Setting_Name>
+    <Setting_mitigation_at_wc_20230904>RAAC not present</Setting_mitigation_at_wc_20230904>
+    <Setting_Phase>Not applicable</Setting_Phase>
+    <Type_of_Setting>Not applicable</Type_of_Setting>
+    <Setting_Website>Not applicable</Setting_Website>
+  </row>
+</root>
