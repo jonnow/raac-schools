@@ -1,541 +1,1406 @@
 [
-        {
-            "id": 1,
-            "name": "Abbey Lane Primary School",
-            "town": "Sheffield, South Yorkshire",
-            "postcode": "",
-            "county": "South Yorkshire"
-        },
-        {
-            "id": 2,
-            "name": "The Appleton School",
-            "town": "Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 3,
-            "name": "Arthur Bugler Primary School",
-            "town": "Standford-le-Hope, Thurrock",
-            "postcode": "",
-            "county": "Thurrock"
-        },
-        {
-            "id": 4,
-            "name": "Aston Manor Academy",
-            "town": "Birmingham",
-            "postcode": "",
-            "county": "Birmingham"
-        },
-        {
-            "id": 5,
-            "name": "Aylesford School",
-            "town": "Warwick",
-            "postcode": "",
-            "county": "Warwick"
-        },
-        {
-            "id": 6,
-            "name": "The Billericay School",
-            "town": "Billericay, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 7,
-            "name": "The Bromfords School",
-            "town": "Wickford, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 8,
-            "name": "Buckhurst Hill Community Primary School",
-            "town": "Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 9,
-            "name": "Canon Slade School",
-            "town": "Bolton, Greater Manchester",
-            "postcode": "",
-            "county": "Greater Manchester"
-        },
-        {
-            "id": 10,
-            "name": "Carmel College and Sixth Form",
-            "town": "Darlington, County Durham",
-            "postcode": "",
-            "county": "County Durham"
-        },
-        {
-            "id": 11,
-            "name": "The Cherry Tree Academy",
-            "town": "Colchester, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 12,
-            "name": "Clacton County High School",
-            "town": "Clacton, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 13,
-            "name": "Claydon High School",
-            "town": "Ipswich, Suffolk",
-            "postcode": "",
-            "county": "Suffolk"
-        },
-        {
-            "id": 14,
-            "name": "Cleeve Park School",
-            "town": "Sidcup",
-            "postcode": "",
-            "county": "Sidcup"
-        },
-        {
-            "id": 15,
-            "name": "Cockermouth School",
-            "town": "Cockermouth, Cumbria",
-            "postcode": "",
-            "county": "Cumbria"
-        },
-        {
-            "id": 16,
-            "name": "The Coopers' Company and Coburn School",
-            "town": "Upminster, east London",
-            "postcode": "",
-            "county": "east London"
-        },
-        {
-            "id": 17,
-            "name": "Corpus Christi Catholic Primary School",
-            "town": "Brixton, London",
-            "postcode": "",
-            "county": "London"
-        },
-        {
-            "id": 18,
-            "name": "Cranbourne College",
-            "town": "Basingstoke, Hampshire",
-            "postcode": "",
-            "county": "Hampshire"
-        },
-        {
-            "id": 19,
-            "name": "Crossflatts Primary School",
-            "town": "Bradford, West Yorkshire",
-            "postcode": "",
-            "county": "West Yorkshire"
-        },
-        {
-            "id": 20,
-            "name": "Donnington Wood Infants School",
-            "town": "Donnington, Telford, Shropshire",
-            "postcode": "",
-            "county": "Shropshire"
-        },
-        {
-            "id": 21,
-            "name": "East Bergholt High School",
-            "town": "Suffolk",
-            "postcode": "",
-            "county": "Suffolk"
-        },
-        {
-            "id": 22,
-            "name": "East Tilbury Primary School",
-            "town": "Thurrock, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 23,
-            "name": "Eldwick Primary School",
-            "town": "Bradford, West Yorkshire",
-            "postcode": "",
-            "county": "West Yorkshire"
-        },
-        {
-            "id": 24,
-            "name": "The Ellen Wilkinson School",
-            "town": "London",
-            "postcode": "",
-            "county": "London"
-        },
-        {
-            "id": 25,
-            "name": "Farlingaye High School",
-            "town": "Woodbridge, Suffolk",
-            "postcode": "",
-            "county": "Suffolk"
-        },
-        {
-            "id": 26,
-            "name": "Ferryhill School, a secondary in County Durham",
-            "town": "",
-            "postcode": "",
-            "county": "County Durham"
-        },
-        {
-            "id": 27,
-            "name": "The Gilberd School",
-            "town": "Colchester, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 28,
-            "name": "Greenway Junior School",
-            "town": "Horsham",
-            "postcode": "",
-            "county": "Horsham"
-        },
-        {
-            "id": 29,
-            "name": "Hadleigh High School",
-            "town": "Hadleigh, Suffolk",
-            "postcode": "",
-            "county": "Suffolk"
-        },
-        {
-            "id": 30,
-            "name": "Hatfield Peverel Junior School",
-            "town": "Chelmsford, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 31,
-            "name": "Hockley Primary School",
-            "town": "Hockley, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 32,
-            "name": "Holy Trinity Catholic Academy",
-            "town": "Newark-on-Trent, Nottinghamshire",
-            "postcode": "",
-            "county": "Nottinghamshire"
-        },
-        {
-            "id": 33,
-            "name": "Honywood School",
-            "town": "Colchester, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 34,
-            "name": "Hornsey School for Girls",
-            "town": "north London",
-            "postcode": "",
-            "county": "north London"
-        },
-        {
-            "id": 35,
-            "name": "Jerounds Primary School in Harlow",
-            "town": "Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 36,
-            "name": "The Link School",
-            "town": "Beddington, south London",
-            "postcode": "",
-            "county": "south London"
-        },
-        {
-            "id": 37,
-            "name": "London Oratory School",
-            "town": "Fulham, London",
-            "postcode": "",
-            "county": "London"
-        },
-        {
-            "id": 38,
-            "name": "Katherines Primary Academy",
-            "town": "Harlow, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 39,
-            "name": "Kingsdown School",
-            "town": "Southend-on-Sea, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 40,
-            "name": "King Ethelbert School",
-            "town": "Birchington, Kent",
-            "postcode": "",
-            "county": "Kent"
-        },
-        {
-            "id": 41,
-            "name": "Mayflower Primary School",
-            "town": "Leicester, Leicestershire",
-            "postcode": "",
-            "county": "Leicestershire"
-        },
-        {
-            "id": 42,
-            "name": "Myton School",
-            "town": "Warwick, Warwickshire",
-            "postcode": "",
-            "county": "Warwickshire"
-        },
-        {
-            "id": 43,
-            "name": "Northampton International Academy",
-            "town": "Northampton, Northamptonshire",
-            "postcode": "",
-            "county": "Northamptonshire"
-        },
-        {
-            "id": 44,
-            "name": "Our Lady's Catholic High School",
-            "town": "Preston, Lancashire",
-            "postcode": "",
-            "county": "Lancashire"
-        },
-        {
-            "id": 45,
-            "name": "Outwoods Primary School",
-            "town": "Atherstone, North Warwickshire",
-            "postcode": "",
-            "county": "North Warwickshire"
-        },
-        {
-            "id": 46,
-            "name": "Parks Primary",
-            "town": "Leicester, Leicestershire",
-            "postcode": "",
-            "county": "Leicestershire"
-        },
-        {
-            "id": 47,
-            "name": "Pershore High School",
-            "town": "Pershore, Worcestershire",
-            "postcode": "",
-            "county": "Worcestershire"
-        },
-        {
-            "id": 48,
-            "name": "Ramsey Academy",
-            "town": "Halstead, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 49,
-            "name": "Ravens Academy",
-            "town": "Clacton-On-Sea, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 50,
-            "name": "Roding Valley High School",
-            "town": "Loughton, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 51,
-            "name": "Scalby School",
-            "town": "Scarborough, North Yorkshire",
-            "postcode": "",
-            "county": "North Yorkshire"
-        },
-        {
-            "id": 52,
-            "name": "St Anne's Catholic Primary School",
-            "town": "Harlow Green, Tyne and Wear",
-            "postcode": "",
-            "county": "Tyne and Wear"
-        },
-        {
-            "id": 53,
-            "name": "St Bartholomew's Catholic Primary School",
-            "town": "Kent",
-            "postcode": "",
-            "county": "Kent"
-        },
-        {
-            "id": 54,
-            "name": "St Bede's Catholic School and Byron Sixth Form College",
-            "town": "County Durham, County Durham",
-            "postcode": "",
-            "county": "County Durham"
-        },
-        {
-            "id": 55,
-            "name": "St Benet's Catholic Primary School",
-            "town": "Ouston, County Durham",
-            "postcode": "",
-            "county": "County Durham"
-        },
-        {
-            "id": 56,
-            "name": "St Bernard's School",
-            "town": "Bolton, Greater Manchester",
-            "postcode": "",
-            "county": "Greater Manchester"
-        },
-        {
-            "id": 57,
-            "name": "St Clere's School",
-            "town": "Stanford-le-Hope, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 58,
-            "name": "St Edward's Catholic Voluntary Primary",
-            "town": "Swadlincote, Derbyshire",
-            "postcode": "",
-            "county": "Derbyshire"
-        },
-        {
-            "id": 59,
-            "name": "St Francis Catholic Primary School",
-            "town": "Ascot, Berkshire",
-            "postcode": "",
-            "county": "Berkshire"
-        },
-        {
-            "id": 60,
-            "name": "St Gregory's Catholic Science College",
-            "town": "Harrow, London",
-            "postcode": "",
-            "county": "London"
-        },
-        {
-            "id": 61,
-            "name": "St James Catholic Primary School",
-            "town": "Hebburn, Tyne and Wear",
-            "postcode": "",
-            "county": "Tyne and Wear"
-        },
-        {
-            "id": 62,
-            "name": "St John Bosco Catholic Primary School",
-            "town": "Sunderland, Tyne and Wear",
-            "postcode": "",
-            "county": "Tyne and Wear"
-        },
-        {
-            "id": 63,
-            "name": "St Leonard's School",
-            "town": "Durham, County Durham",
-            "postcode": "",
-            "county": "County Durham"
-        },
-        {
-            "id": 64,
-            "name": "St Teresa's Catholic Primary School",
-            "town": "Darlington, County Durham",
-            "postcode": "",
-            "county": "County Durham"
-        },
-        {
-            "id": 65,
-            "name": "St Thomas More Catholic Comprehensive",
-            "town": "Eltham, London",
-            "postcode": "",
-            "county": "London"
-        },
-        {
-            "id": 66,
-            "name": "St William of York Catholic Primary School",
-            "town": "Bolton, Greater Manchester",
-            "postcode": "",
-            "county": "Greater Manchester"
-        },
-        {
-            "id": 67,
-            "name": "Tendring Technology College, Frinton Campus",
-            "town": "Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 68,
-            "name": "Thameside Primary school",
-            "town": "Grays, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 69,
-            "name": "Thomas Lord Audley School",
-            "town": "Colchester, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 70,
-            "name": "Thurstable school and sixth form",
-            "town": "Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 71,
-            "name": "Waddesdon School",
-            "town": "Buckinghamshire",
-            "postcode": "",
-            "county": "Buckinghamshire"
-        },
-        {
-            "id": 72,
-            "name": "White Hall Academy primary",
-            "town": "Clacton, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 73,
-            "name": "Willowbrook Mead Primary Academy",
-            "town": "Leicester, Leicestershire",
-            "postcode": "",
-            "county": "Leicestershire"
-        },
-        {
-            "id": 74,
-            "name": "Winter Gardens Academy",
-            "town": "Canvey Island, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 75,
-            "name": "Wood Green Academy",
-            "town": "Wednesbury, West Midlands",
-            "postcode": "",
-            "county": "West Midlands"
-        },
-        {
-            "id": 76,
-            "name": "Woodville Primary School",
-            "town": "South Woodham Ferrers, Chelmsford, Essex",
-            "postcode": "",
-            "county": "Essex"
-        },
-        {
-            "id": 77,
-            "name": "Wyburns Primary School",
-            "town": "Rayleigh, Essex",
-            "postcode": "",
-            "county": "Essex"
-        }
-    ]
+ {
+   "Setting Name": "Myatt Garden Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "http://www.myattgarden.lewisham.sch.uk/",
+   "URN": "100713",
+   "LAESTAB": "2092869"
+},
+ {
+   "Setting Name": "Seven Mills Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "www.sevenmills.towerhamlets.sch.uk/",
+   "URN": "100931",
+   "LAESTAB": "2112857"
+},
+ {
+   "Setting Name": "The Ellen Wilkinson School for Girls",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Foundation school",
+   "Setting Website": "http://www.ellenwilkinson.ealing.sch.uk",
+   "URN": "101941",
+   "LAESTAB": "3075402"
+},
+ {
+   "Setting Name": "St Ignatius College",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Voluntary aided school",
+   "Setting Website": "http://www.st-ignatius.enfield.sch.uk",
+   "URN": "102058",
+   "LAESTAB": "3085403"
+},
+ {
+   "Setting Name": "Welbourne Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "www.welbourne.haringey.sch.uk/",
+   "URN": "102124",
+   "LAESTAB": "3092062"
+},
+ {
+   "Setting Name": "St John Vianney RC Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Voluntary aided school",
+   "Setting Website": "www.st-johnvianney.haringey.sch.uk",
+   "URN": "102152",
+   "LAESTAB": "3093510"
+},
+ {
+   "Setting Name": "Hornsey School for Girls",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Community school",
+   "Setting Website": "http://www.hsg.haringey.sch.uk/",
+   "URN": "102153",
+   "LAESTAB": "3094029"
+},
+ {
+   "Setting Name": "Brandhall Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "www.brandhall.sandwell.sch.uk/",
+   "URN": "103976",
+   "LAESTAB": "3332171"
+},
+ {
+   "Setting Name": "St William of York Catholic Primary School",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Voluntary aided school",
+   "Setting Website": "www.st-williams.bolton.sch.uk",
+   "URN": "105226",
+   "LAESTAB": "3503331"
+},
+ {
+   "Setting Name": "St Andrew's CofE Primary School, Over Hulton",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Voluntary aided school",
+   "Setting Website": "www.standrewsbolton.co.uk",
+   "URN": "105236",
+   "LAESTAB": "3503348"
+},
+ {
+   "Setting Name": "All Saints C of E Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Voluntary aided school",
+   "Setting Website": "www.allsaintsnh-pri.manchester.sch.uk",
+   "URN": "105505",
+   "LAESTAB": "3523301"
+},
+ {
+   "Setting Name": "Abbey Lane Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "www.abbeylaneprimaryschool.com",
+   "URN": "106982",
+   "LAESTAB": "3732001"
+},
+ {
+   "Setting Name": "Pippins School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Foundation school",
+   "Setting Website": "www.pippins.slough.sch.uk/",
+   "URN": "110095",
+   "LAESTAB": "8715207"
+},
+ {
+   "Setting Name": "Stanway Fiveways Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "www.stanwayfiveways.essex.sch.uk",
+   "URN": "114764",
+   "LAESTAB": "8812081"
+},
+ {
+   "Setting Name": "Baynards Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "www.baynards.essex.sch.uk",
+   "URN": "114767",
+   "LAESTAB": "8812088"
+},
+ {
+   "Setting Name": "Great Leighs Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "www.greatleighs.essex.sch.uk",
+   "URN": "114852",
+   "LAESTAB": "8812450"
+},
+ {
+   "Setting Name": "Henham and Ugley Primary and Nursery School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "http://www.henhamugley.essex.sch.uk",
+   "URN": "114975",
+   "LAESTAB": "8812740"
+},
+ {
+   "Setting Name": "Bentfield Primary School and Nursery",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "www.bentfieldprimaryschool.co.uk",
+   "URN": "114978",
+   "LAESTAB": "8812747"
+},
+ {
+   "Setting Name": "White Court School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "http://www.whitecourtschool.co.uk",
+   "URN": "114988",
+   "LAESTAB": "8812767"
+},
+ {
+   "Setting Name": "Beehive Lane Community Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "www.beehivelane.essex.sch.uk/",
+   "URN": "114996",
+   "LAESTAB": "8812789"
+},
+ {
+   "Setting Name": "Eversley Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "http://www.eversley.essex.sch.uk/",
+   "URN": "114999",
+   "LAESTAB": "8812798"
+},
+ {
+   "Setting Name": "Holy Trinity CofE Primary School, Eight Ash Green and Aldham",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Voluntary controlled school",
+   "Setting Website": "www.holytrinityeightashgreen.co.uk/",
+   "URN": "115075",
+   "LAESTAB": "8813021"
+},
+ {
+   "Setting Name": "St Lawrence Church of England Primary School, Rowhedge",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Voluntary controlled school",
+   "Setting Website": "http://www.st-lawrence-pri.essex.sch.uk/",
+   "URN": "115077",
+   "LAESTAB": "8813023"
+},
+ {
+   "Setting Name": "Great Tey Church of England Voluntary Controlled Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Voluntary controlled school",
+   "Setting Website": "www.greatteyprimary.org.uk/",
+   "URN": "115079",
+   "LAESTAB": "8813025"
+},
+ {
+   "Setting Name": "Hatfield Peverel St Andrew's Junior School",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Foundation school",
+   "Setting Website": "www.hatfieldpeverelstandrews.co.uk",
+   "URN": "115102",
+   "LAESTAB": "8815279"
+},
+ {
+   "Setting Name": "Broomfield Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Foundation school",
+   "Setting Website": "http://www.broomfield.essex.sch.uk",
+   "URN": "115292",
+   "LAESTAB": "8815252"
+},
+ {
+   "Setting Name": "Mersea Island School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Foundation school",
+   "Setting Website": "www.merseaschool.org",
+   "URN": "115311",
+   "LAESTAB": "8815271"
+},
+ {
+   "Setting Name": "Cranbourne",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Community school",
+   "Setting Website": "http://www.cranbourne.hants.sch.uk/",
+   "URN": "116432",
+   "LAESTAB": "8504164"
+},
+ {
+   "Setting Name": "Markyate Village School and Nursery",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "http://www.markyate.herts.sch.uk/",
+   "URN": "117127",
+   "LAESTAB": "9192074"
+},
+ {
+   "Setting Name": "Widford School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "http://www.widford.herts.sch.uk",
+   "URN": "117176",
+   "LAESTAB": "9192145"
+},
+ {
+   "Setting Name": "Palmarsh Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "http://www.palmarsh.kent.sch.uk",
+   "URN": "118490",
+   "LAESTAB": "8862524"
+},
+ {
+   "Setting Name": "Birchington Church of England Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Voluntary controlled school",
+   "Setting Website": "www.birchington-primary.com/",
+   "URN": "118693",
+   "LAESTAB": "8863178"
+},
+ {
+   "Setting Name": "St James' Church of England Voluntary Aided Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Voluntary aided school",
+   "Setting Website": "https://st-james.kent.sch.uk",
+   "URN": "118725",
+   "LAESTAB": "8863322"
+},
+ {
+   "Setting Name": "St Bartholomew's Catholic Primary School, Swanley",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Voluntary aided school",
+   "Setting Website": "http://www.st-bartholomewsrc-pri.kent.sch.uk/",
+   "URN": "118860",
+   "LAESTAB": "8865214"
+},
+ {
+   "Setting Name": "Bispham Endowed Church of England Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Voluntary controlled school",
+   "Setting Website": "http://www.bisphamendowed.co.uk",
+   "URN": "119411",
+   "LAESTAB": "8903192"
+},
+ {
+   "Setting Name": "Our Lady's Catholic High School",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Voluntary aided school",
+   "Setting Website": "http://www.olchs.lancs.sch.uk/",
+   "URN": "119779",
+   "LAESTAB": "8884606"
+},
+ {
+   "Setting Name": "Mayflower Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "https://www.mayflower.leicester.sch.uk/",
+   "URN": "120018",
+   "LAESTAB": "8562250"
+},
+ {
+   "Setting Name": "Parks Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "www.parksprimary.org/",
+   "URN": "120088",
+   "LAESTAB": "8562364"
+},
+ {
+   "Setting Name": "Donnington Wood Infant School and Nursery Centre",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "www.donningtonwoodinfants.co.uk",
+   "URN": "123364",
+   "LAESTAB": "8942041"
+},
+ {
+   "Setting Name": "Thurston Community College",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Community school",
+   "Setting Website": "http://www.thurstoncollege.org/",
+   "URN": "124802",
+   "LAESTAB": "9354024"
+},
+ {
+   "Setting Name": "Shawfield Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "www.shawfield.surrey.sch.uk",
+   "URN": "125029",
+   "LAESTAB": "9362361"
+},
+ {
+   "Setting Name": "St Paul's Catholic Primary School, Thames Ditton",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Voluntary aided school",
+   "Setting Website": "www.stpauls-thamesditton.surrey.sch.uk/",
+   "URN": "125212",
+   "LAESTAB": "9363446"
+},
+ {
+   "Setting Name": "Petroc",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "16 plus",
+   "Type of Setting": "Further education",
+   "Setting Website": "http://www.petroc.ac.uk/",
+   "URN": "130646",
+   "LAESTAB": "8788001"
+},
+ {
+   "Setting Name": "Park View School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Community school",
+   "Setting Website": "www.parkview.haringey.sch.uk",
+   "URN": "131757",
+   "LAESTAB": "3094037"
+},
+ {
+   "Setting Name": "Springfield Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "www.springfield-pri.essex.sch.uk",
+   "URN": "134065",
+   "LAESTAB": "8812020"
+},
+ {
+   "Setting Name": "Outwoods Primary School",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Community school",
+   "Setting Website": "www.ops.warwickshire.sch.uk",
+   "URN": "136061",
+   "LAESTAB": "9372083"
+},
+ {
+   "Setting Name": "Denbigh School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.denbigh.net",
+   "URN": "136468",
+   "LAESTAB": "8265410"
+},
+ {
+   "Setting Name": "Sale Grammar School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.salegrammar.co.uk/",
+   "URN": "136498",
+   "LAESTAB": "3584029"
+},
+ {
+   "Setting Name": "The Appleton School",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.theappletonschool.org",
+   "URN": "136579",
+   "LAESTAB": "8815418"
+},
+ {
+   "Setting Name": "King Ethelbert School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.kingethelbert.com/",
+   "URN": "136584",
+   "LAESTAB": "8864120"
+},
+ {
+   "Setting Name": "Holcombe Grammar School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.holcombegrammar.org.uk",
+   "URN": "136594",
+   "LAESTAB": "8874068"
+},
+ {
+   "Setting Name": "The Coopers' Company and Coborn School",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.cooperscoborn.org.uk/",
+   "URN": "136600",
+   "LAESTAB": "3115402"
+},
+ {
+   "Setting Name": "Wood Green Academy",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.woodgreenacademy.co.uk",
+   "URN": "136616",
+   "LAESTAB": "3334024"
+},
+ {
+   "Setting Name": "The Honywood Community Science School",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.honywoodschool.com",
+   "URN": "136729",
+   "LAESTAB": "8814400"
+},
+ {
+   "Setting Name": "The Billericay School",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.billericayschool.com",
+   "URN": "136861",
+   "LAESTAB": "8815468"
+},
+ {
+   "Setting Name": "Aston Manor Academy",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.astonmanor.bham.sch.uk/",
+   "URN": "136882",
+   "LAESTAB": "3304220"
+},
+ {
+   "Setting Name": "Hadleigh High School",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.hadleighhigh.net/",
+   "URN": "136918",
+   "LAESTAB": "9354017"
+},
+ {
+   "Setting Name": "The Palmer Catholic Academy",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.tpc.academy",
+   "URN": "137088",
+   "LAESTAB": "3174800"
+},
+ {
+   "Setting Name": "The London Oratory School",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.london-oratory.org",
+   "URN": "137157",
+   "LAESTAB": "2055400"
+},
+ {
+   "Setting Name": "Tendring Technology College",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://tendringtechnologycollege.org/",
+   "URN": "137188",
+   "LAESTAB": "8815432"
+},
+ {
+   "Setting Name": "East Bergholt High School",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.ebhigh.org.uk",
+   "URN": "137218",
+   "LAESTAB": "9354097"
+},
+ {
+   "Setting Name": "Hounsdown School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.hounsdown.hants.sch.uk/",
+   "URN": "137229",
+   "LAESTAB": "8504168"
+},
+ {
+   "Setting Name": "Thurstable School Sports College and Sixth Form Centre",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.thurstable.co.uk",
+   "URN": "137241",
+   "LAESTAB": "8815413"
+},
+ {
+   "Setting Name": "Corpus Christi Catholic Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.corpuschristischool.co.uk",
+   "URN": "137295",
+   "LAESTAB": "2085202"
+},
+ {
+   "Setting Name": "Waddesdon Church of England School",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.waddesdonschool.com",
+   "URN": "137355",
+   "LAESTAB": "8255408"
+},
+ {
+   "Setting Name": "Wallingford School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.wallingfordschool.com/",
+   "URN": "137357",
+   "LAESTAB": "9314140"
+},
+ {
+   "Setting Name": "Woodkirk Academy",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.woodkirkacademy.co.uk/",
+   "URN": "137383",
+   "LAESTAB": "3834105"
+},
+ {
+   "Setting Name": "Batley Girls High School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.batleygirls.co.uk/",
+   "URN": "137424",
+   "LAESTAB": "3824048"
+},
+ {
+   "Setting Name": "St Clere's School",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.st-cleres.thurrock.sch.uk/",
+   "URN": "137456",
+   "LAESTAB": "8835440"
+},
+ {
+   "Setting Name": "Sandbach School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Free schools",
+   "Setting Website": "http://sandbachschool.org/",
+   "URN": "137491",
+   "LAESTAB": "8956010"
+},
+ {
+   "Setting Name": "Carmel College",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://carmel.bhcet.org.uk/",
+   "URN": "137622",
+   "LAESTAB": "8414603"
+},
+ {
+   "Setting Name": "Anglo European School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://aesessex.co.uk/",
+   "URN": "137727",
+   "LAESTAB": "8815442"
+},
+ {
+   "Setting Name": "St Thomas More Catholic School, Blaydon",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.stthomasmore.org.uk/",
+   "URN": "137851",
+   "LAESTAB": "3904606"
+},
+ {
+   "Setting Name": "The Gilberd School",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.gilberd.com",
+   "URN": "137926",
+   "LAESTAB": "8815441"
+},
+ {
+   "Setting Name": "The Thomas Lord Audley School",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.tla.essex.sch.uk",
+   "URN": "137937",
+   "LAESTAB": "8814020"
+},
+ {
+   "Setting Name": "St Helena School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.st-helena.essex.sch.uk",
+   "URN": "137944",
+   "LAESTAB": "8815448"
+},
+ {
+   "Setting Name": "East Tilbury Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.easttilburyprimary.thurrock.sch.uk/",
+   "URN": "138065",
+   "LAESTAB": "8832824"
+},
+ {
+   "Setting Name": "Clacton County High School",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.countyhigh.org.uk/",
+   "URN": "138084",
+   "LAESTAB": "8815444"
+},
+ {
+   "Setting Name": "White Hall Academy and Nursery",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy sponsor led",
+   "Setting Website": "http://www.whitehallacademy.co.uk/",
+   "URN": "138575",
+   "LAESTAB": "8812022"
+},
+ {
+   "Setting Name": "Altrincham College",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.altrinchamcollege.com/",
+   "URN": "138614",
+   "LAESTAB": "3584024"
+},
+ {
+   "Setting Name": "Cleeve Park School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.cleevepark-tkat.org",
+   "URN": "138686",
+   "LAESTAB": "3034030"
+},
+ {
+   "Setting Name": "Joyce Frankland Academy, Newport",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.jfan.org.uk/",
+   "URN": "138734",
+   "LAESTAB": "8815436"
+},
+ {
+   "Setting Name": "Danetree Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.danetreeschool.org/",
+   "URN": "138764",
+   "LAESTAB": "9362092"
+},
+ {
+   "Setting Name": "The Bromfords School",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.bromfords.essex.sch.uk/",
+   "URN": "139181",
+   "LAESTAB": "8815407"
+},
+ {
+   "Setting Name": "Royal College Manchester (Seashell Trust)",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Not applicable",
+   "Type of Setting": "Special post 16 institution",
+   "Setting Website": "http://www.seashelltrust.org.uk/",
+   "URN": "139218",
+   "LAESTAB": "3567900"
+},
+ {
+   "Setting Name": "The Ramsey Academy, Halstead",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy sponsor led",
+   "Setting Website": "http://www.ramseyacademy.com/",
+   "URN": "139248",
+   "LAESTAB": "8814008"
+},
+ {
+   "Setting Name": "Redhill School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.redhill.dudley.sch.uk/",
+   "URN": "139872",
+   "LAESTAB": "3324119"
+},
+ {
+   "Setting Name": "Ark Boulton Academy",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy sponsor led",
+   "Setting Website": "http://arkboulton.org/",
+   "URN": "140014",
+   "LAESTAB": "3304013"
+},
+ {
+   "Setting Name": "Woodville Primary School",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.woodvilleprimaryschool.org.uk/",
+   "URN": "140447",
+   "LAESTAB": "8815213"
+},
+ {
+   "Setting Name": "Holy Trinity Catholic Voluntary Academy",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.holytrinityacademy.co.uk",
+   "URN": "140727",
+   "LAESTAB": "8913766"
+},
+ {
+   "Setting Name": "Thomas Bullock Church of England Primary and Nursery Academy",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy sponsor led",
+   "Setting Website": "www.thomasbullock.dneat.org/",
+   "URN": "141192",
+   "LAESTAB": "9262068"
+},
+ {
+   "Setting Name": "Water Lane Primary Academy",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy sponsor led",
+   "Setting Website": "www.waterlaneprimary.co.uk/",
+   "URN": "141194",
+   "LAESTAB": "8812110"
+},
+ {
+   "Setting Name": "Katherine Semar Junior School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.katherinesemar.co.uk",
+   "URN": "141572",
+   "LAESTAB": "8812687"
+},
+ {
+   "Setting Name": "Katherine Semar Infant School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.katherinesemar.co.uk",
+   "URN": "141574",
+   "LAESTAB": "8812717"
+},
+ {
+   "Setting Name": "Mistley Norman Church of England Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy sponsor led",
+   "Setting Website": "www.mistleynormancofe.co.uk",
+   "URN": "141658",
+   "LAESTAB": "8812123"
+},
+ {
+   "Setting Name": "Hatfield Heath Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.hatfieldheath.essex.sch.uk/",
+   "URN": "141714",
+   "LAESTAB": "8812520"
+},
+ {
+   "Setting Name": "St Thomas More Catholic Comprehensive School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.stmcomprehensive.org/",
+   "URN": "141716",
+   "LAESTAB": "2034716"
+},
+ {
+   "Setting Name": "Godinton Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.godinton.kent.sch.uk",
+   "URN": "141754",
+   "LAESTAB": "8862625"
+},
+ {
+   "Setting Name": "St Francis Catholic Primary School, South Ascot",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.stfrancisprimary.org",
+   "URN": "141818",
+   "LAESTAB": "8683335"
+},
+ {
+   "Setting Name": "The FitzWimarc School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.fitzwimarc.com",
+   "URN": "141841",
+   "LAESTAB": "8815422"
+},
+ {
+   "Setting Name": "Winter Gardens Academy",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy sponsor led",
+   "Setting Website": "www.wintergardensacademy.org",
+   "URN": "142000",
+   "LAESTAB": "8812129"
+},
+ {
+   "Setting Name": "Cherry Tree Academy",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy sponsor led",
+   "Setting Website": "https://www.cherrytree.essex.sch.uk/",
+   "URN": "142002",
+   "LAESTAB": "8812132"
+},
+ {
+   "Setting Name": "Prince Albert Junior and Infant School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.princealbert.bham.sch.uk",
+   "URN": "142230",
+   "LAESTAB": "3302003"
+},
+ {
+   "Setting Name": "Cockermouth School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.cockermouthschool.org/",
+   "URN": "142306",
+   "LAESTAB": "9424103"
+},
+ {
+   "Setting Name": "Northampton International Academy",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "All-through",
+   "Type of Setting": "Free schools",
+   "Setting Website": "",
+   "URN": "142485",
+   "LAESTAB": "9414018"
+},
+ {
+   "Setting Name": "St Gregory's Catholic Science College",
+   "Setting mitigation at w/c 04/09/2023": "Fully remote learning",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.stgregorys.harrow.sch.uk",
+   "URN": "142560",
+   "LAESTAB": "3045406"
+},
+ {
+   "Setting Name": "Bishop Douglass School Finchley",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.bishopdouglass.barnet.sch.uk/",
+   "URN": "143082",
+   "LAESTAB": "3025408"
+},
+ {
+   "Setting Name": "Lubbins Park Primary Academy",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy sponsor led",
+   "Setting Website": "https://www.lubbinspark.essex.sch.uk/",
+   "URN": "143123",
+   "LAESTAB": "8812143"
+},
+ {
+   "Setting Name": "Scalby School",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "https://www.scalby.coastandvale.academy/",
+   "URN": "143288",
+   "LAESTAB": "8154073"
+},
+ {
+   "Setting Name": "Arthur Bugler Primary School",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.arthurbugler.com",
+   "URN": "143378",
+   "LAESTAB": "8832439"
+},
+ {
+   "Setting Name": "St Leonard's Catholic School, Durham",
+   "Setting mitigation at w/c 04/09/2023": "Fully remote learning",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.st-leonards.durham.sch.uk/",
+   "URN": "143583",
+   "LAESTAB": "8404691"
+},
+ {
+   "Setting Name": "Canon Slade School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.canon-slade.bolton.sch.uk",
+   "URN": "144044",
+   "LAESTAB": "3505401"
+},
+ {
+   "Setting Name": "Claydon High School",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.claydonhigh.co.uk",
+   "URN": "144214",
+   "LAESTAB": "9354096"
+},
+ {
+   "Setting Name": "Harlowbury Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.harlowbury.essex.sch.uk/",
+   "URN": "144664",
+   "LAESTAB": "8812983"
+},
+ {
+   "Setting Name": "Kingsdown School",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Not applicable",
+   "Type of Setting": "Academy special converter",
+   "Setting Website": "www.kingsdownschool.org",
+   "URN": "144692",
+   "LAESTAB": "8827001"
+},
+ {
+   "Setting Name": "Katherines Primary Academy and Nursery",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy sponsor led",
+   "Setting Website": "www.katherines.netacademies.net",
+   "URN": "144823",
+   "LAESTAB": "8812162"
+},
+ {
+   "Setting Name": "Sir Thomas Boughey Academy",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.stb.academy",
+   "URN": "145047",
+   "LAESTAB": "8604060"
+},
+ {
+   "Setting Name": "Harwich and Dovercourt High School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy sponsor led",
+   "Setting Website": "www.hdhs.org.uk",
+   "URN": "145061",
+   "LAESTAB": "8814024"
+},
+ {
+   "Setting Name": "Ferryhill School",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.ferryhill.school",
+   "URN": "145253",
+   "LAESTAB": "8404150"
+},
+ {
+   "Setting Name": "Wyburns Primary School",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.wyburns.org",
+   "URN": "145349",
+   "LAESTAB": "8815262"
+},
+ {
+   "Setting Name": "Jerounds Primary Academy",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy sponsor led",
+   "Setting Website": "http://www.netacademies.net/jerounds",
+   "URN": "145557",
+   "LAESTAB": "8812171"
+},
+ {
+   "Setting Name": "Roding Valley High School",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.rodingvalley.net",
+   "URN": "145597",
+   "LAESTAB": "8814499"
+},
+ {
+   "Setting Name": "Lambourne Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.lambourne.efspt.org",
+   "URN": "145604",
+   "LAESTAB": "8812690"
+},
+ {
+   "Setting Name": "Hillhouse CofE Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.hillhouse.essex.sch.uk/",
+   "URN": "145992",
+   "LAESTAB": "8813256"
+},
+ {
+   "Setting Name": "Barnes Farm Junior School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.barnesfarmjuniors.co.uk",
+   "URN": "145998",
+   "LAESTAB": "8812839"
+},
+ {
+   "Setting Name": "St Elizabeth's Catholic Voluntary Academy",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.stelizabethsbelper.srscmat.co.uk",
+   "URN": "146119",
+   "LAESTAB": "8303513"
+},
+ {
+   "Setting Name": "Hockley Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.hockleyprimary.org",
+   "URN": "146181",
+   "LAESTAB": "8815247"
+},
+ {
+   "Setting Name": "Chipping Ongar Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.chippingongar.essex.sch.uk/",
+   "URN": "146195",
+   "LAESTAB": "8812685"
+},
+ {
+   "Setting Name": "Langney Primary Academy",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.langneyprimary.co.uk",
+   "URN": "146231",
+   "LAESTAB": "8452130"
+},
+ {
+   "Setting Name": "St Teresa's Catholic Primary School",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.stteresasprimary.org.uk/",
+   "URN": "146256",
+   "LAESTAB": "8413309"
+},
+ {
+   "Setting Name": "St Mary and St John Junior and Infant School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy sponsor led",
+   "Setting Website": "www.stmryjon.net",
+   "URN": "146268",
+   "LAESTAB": "3302187"
+},
+ {
+   "Setting Name": "St John Catholic Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.stjohns705.herts.sch.uk",
+   "URN": "146859",
+   "LAESTAB": "9193398"
+},
+ {
+   "Setting Name": "St Anne's Catholic Primary School, Harlow Green",
+   "Setting mitigation at w/c 04/09/2023": "Fully remote learning",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.stannesprimary.org",
+   "URN": "147135",
+   "LAESTAB": "3903322"
+},
+ {
+   "Setting Name": "St Francis' Catholic Primary School",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.st-francis.newham.sch.uk",
+   "URN": "147336",
+   "LAESTAB": "3163510"
+},
+ {
+   "Setting Name": "Buckhurst Hill Community Primary School",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.bhcps.efspt.org",
+   "URN": "147561",
+   "LAESTAB": "8812973"
+},
+ {
+   "Setting Name": "Sunny Bank Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy sponsor led",
+   "Setting Website": "www.sunnybank.kent.sch.uk",
+   "URN": "147729",
+   "LAESTAB": "8862126"
+},
+ {
+   "Setting Name": "St Benet's Catholic Primary School, Ouston",
+   "Setting mitigation at w/c 04/09/2023": "Fully remote learning",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.st-benets.durham.sch.uk",
+   "URN": "148205",
+   "LAESTAB": "8403346"
+},
+ {
+   "Setting Name": "St Bede's Catholic School and Byron Sixth Form College",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "http://www.st-bedes.durham.sch.uk/",
+   "URN": "148304",
+   "LAESTAB": "8404693"
+},
+ {
+   "Setting Name": "St Joseph's Catholic Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.stjosephschalfont.school",
+   "URN": "148671",
+   "LAESTAB": "8253371"
+},
+ {
+   "Setting Name": "Wells Park School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Not applicable",
+   "Type of Setting": "Academy special converter",
+   "Setting Website": "www.beckmeadtrust.org",
+   "URN": "148708",
+   "LAESTAB": "8817022"
+},
+ {
+   "Setting Name": "St James' Catholic Primary School, Hebburn",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.stjameshebburn.co.uk",
+   "URN": "148778",
+   "LAESTAB": "3933313"
+},
+ {
+   "Setting Name": "St John Bosco Catholic Primary School, Town End Farm, Sunderland",
+   "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.stjohnboscosunderland.org.uk",
+   "URN": "148782",
+   "LAESTAB": "3943316"
+},
+ {
+   "Setting Name": "St Columba's Catholic Primary School, Wallsend",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.stcolumbasprimary.co.uk",
+   "URN": "148816",
+   "LAESTAB": "3923320"
+},
+ {
+   "Setting Name": "St John Vianney Catholic Primary School, West Denton",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.stjohnvianneynewcastle.org",
+   "URN": "148977",
+   "LAESTAB": "3913477"
+},
+ {
+   "Setting Name": "The Holy Family Catholic School, a Voluntary Academy",
+   "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+   "Setting Phase": "Secondary",
+   "Type of Setting": "Academy sponsor led",
+   "Setting Website": "www.holyfamilyschool.uk",
+   "URN": "149299",
+   "LAESTAB": "3804094"
+},
+ {
+   "Setting Name": "St Michael's Catholic School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "All-through",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.stmichaels.bucks.sch.uk",
+   "URN": "149612",
+   "LAESTAB": "8254701"
+},
+ {
+   "Setting Name": "Elmstead Primary School",
+   "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+   "Setting Phase": "Primary",
+   "Type of Setting": "Academy converter",
+   "Setting Website": "www.elmsteadprimary.com",
+   "URN": "149972",
+   "LAESTAB": "8815220"
+},
+ {
+   "Setting Name": "Not applicable",
+   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
+   "Setting Phase": "Not applicable",
+   "Type of Setting": "Not applicable",
+   "Setting Website": "Not applicable",
+   "URN": "Not applicable",
+   "LAESTAB": "Not applicable"
+},
+ {
+   "Setting Name": "Not applicable",
+   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
+   "Setting Phase": "Not applicable",
+   "Type of Setting": "Not applicable",
+   "Setting Website": "Not applicable",
+   "URN": "Not applicable",
+   "LAESTAB": "Not applicable"
+},
+ {
+   "Setting Name": "Not applicable",
+   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
+   "Setting Phase": "Not applicable",
+   "Type of Setting": "Not applicable",
+   "Setting Website": "Not applicable",
+   "URN": "Not applicable",
+   "LAESTAB": "Not applicable"
+},
+ {
+   "Setting Name": "Not applicable",
+   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
+   "Setting Phase": "Not applicable",
+   "Type of Setting": "Not applicable",
+   "Setting Website": "Not applicable",
+   "URN": "Not applicable",
+   "LAESTAB": "Not applicable"
+},
+ {
+   "Setting Name": "Not applicable",
+   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
+   "Setting Phase": "Not applicable",
+   "Type of Setting": "Not applicable",
+   "Setting Website": "Not applicable",
+   "URN": "Not applicable",
+   "LAESTAB": "Not applicable"
+},
+ {
+   "Setting Name": "Not applicable",
+   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
+   "Setting Phase": "Not applicable",
+   "Type of Setting": "Not applicable",
+   "Setting Website": "Not applicable",
+   "URN": "Not applicable",
+   "LAESTAB": "Not applicable"
+},
+ {
+   "Setting Name": "Not applicable",
+   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
+   "Setting Phase": "Not applicable",
+   "Type of Setting": "Not applicable",
+   "Setting Website": "Not applicable",
+   "URN": "Not applicable",
+   "LAESTAB": "Not applicable"
+},
+ {
+   "Setting Name": "Not applicable",
+   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
+   "Setting Phase": "Not applicable",
+   "Type of Setting": "Not applicable",
+   "Setting Website": "Not applicable",
+   "URN": "Not applicable",
+   "LAESTAB": "Not applicable"
+},
+ {
+   "Setting Name": "Not applicable",
+   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
+   "Setting Phase": "Not applicable",
+   "Type of Setting": "Not applicable",
+   "Setting Website": "Not applicable",
+   "URN": "Not applicable",
+   "LAESTAB": "Not applicable"
+}
+]
