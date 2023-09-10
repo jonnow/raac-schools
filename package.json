@@ -23,6 +23,8 @@
   "dependencies": {
     "@fastify/static": "^6.11.0",
     "@fastify/view": "^8.0.0",
+    "convert-csv-to-json": "^2.0.0",
+    "csv-parser": "^3.0.0",
     "fastify": "^4.22.2",
     "fastify-static": "^4.7.0",
     "handlebars": "^4.7.8",

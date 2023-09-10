@@ -4,6 +4,9 @@ const fastify = require('fastify')({
 })
 const join = require('path').join
 
+const csv = require('csv-parser')
+const fs = require('fs')
+
 //const schoolsData = require('./data/raac_data.json');
 const schoolsData = [
     {
@@ -108,9 +111,47 @@ fastify.get('/update', (request, reply) => {
         console.log('Updating postcodes...')
     }
 
-    return reply.send({
-        'status': 'success'
-    })
+    if(request.query.convertCSV == 1) {
+        let fileInputName = './public/data/edubasealldata20230910.csv'; 
+        let fileOutputName = './public/data/edubasealldata20230910.json';
+        let raacSchools = require('./public/data/raac_data.json');
+        let results = [], allSchools = [];
+
+        // csvToJson.generateJsonFileFromCsv(fileInputName,fileOutputName);
+        fs.createReadStream(fileInputName).pipe(csv({}))
+        .on('data', (data) => allSchools.push(data))
+        .on('end', () => {
+            allSchools.map((school) => {
+                const foundSchool = raacSchools.find((raacSchool) => raacSchool.URN == school.URN)
+                if(foundSchool) {
+                    const newData = {
+                        ...foundSchool,
+                        ...school
+                    }
+                    results.push(newData)
+                }
+            })
+
+            let strResults = JSON.stringify(results);
+            
+            fs.writeFile(fileOutputName, strResults, (err) => {
+                let msg, status;
+                if(err) {
+                    msg = `Error writing file, no data written. Here is a readout of the data that did not write: \n${newData}`
+                    status = 'failure'
+                    console.error(`${status}: ${msg}`)
+                }
+                else {
+                    msg = `Writing new data file complete.\nData successfully written to new file ${fileOutputName}.`
+                    status = 'success'
+                    console.info(`${status}: ${msg}`)
+                }
+                return reply.send({
+                    status: msg
+                })
+            })
+        })
+    }
 })
 //https://api.ideal-postcodes.co.uk/v1/addresses?api_key=iddqd&lon=-0.12767&lat=51.503541
 /**
