@@ -1,0 +1,44 @@
+<h1>{{pageTitle}}</h1>
+<div id='map' style='width: 100%; height: 80vh;'></div>
+<script>
+    const schools = async () => {await fetch('./public/data/raac_data.json');}
+
+    const map = new maplibregl.Map({
+        container: 'map',
+        style: 'https://demotiles.maplibre.org/style.json', // stylesheet location
+        center: [-4.0527319,55.4122777], // starting position [lng, lat]
+        zoom: 5 // starting zoom
+    });
+
+    map.on('load', () => {
+        map.loadImage(
+            'https://maplibre.org/maplibre-gl-js/docs/assets/custom_marker.png',
+            (error, image) => {
+                if(error) throw error;
+                map.addImage('custom-marker', image);
+                map.addSource('schools', {
+                    'type': 'geojson',
+                    'data': {
+                        'type': 'FeatureCollection',
+                        'features': schools
+                    }
+                });
+
+                 // Add a symbol layer
+                map.addLayer({
+                    'id': 'symbols',
+                    'type': 'symbol',
+                    'source': 'schools',
+                    'layout': {
+                        'icon-image': 'custom-marker'
+                    }
+                });
+            }
+        )
+    });
+
+    map.addControl(new maplibregl.FullscreenControl({container: document.querySelector('body')}));
+
+
+   
+</script>
