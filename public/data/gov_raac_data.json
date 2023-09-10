@@ -6,7 +6,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "http://www.myattgarden.lewisham.sch.uk/",
    "URN": "100713",
-   "LAESTAB": "2092869"
+   "LAESTAB": "2092869",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Seven Mills Primary School",
@@ -15,7 +21,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "www.sevenmills.towerhamlets.sch.uk/",
    "URN": "100931",
-   "LAESTAB": "2112857"
+   "LAESTAB": "2112857",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "The Ellen Wilkinson School for Girls",
@@ -24,7 +36,13 @@
    "Type of Setting": "Foundation school",
    "Setting Website": "http://www.ellenwilkinson.ealing.sch.uk",
    "URN": "101941",
-   "LAESTAB": "3075402"
+   "LAESTAB": "3075402",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Ignatius College",
@@ -33,7 +51,13 @@
    "Type of Setting": "Voluntary aided school",
    "Setting Website": "http://www.st-ignatius.enfield.sch.uk",
    "URN": "102058",
-   "LAESTAB": "3085403"
+   "LAESTAB": "3085403",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Welbourne Primary School",
@@ -42,7 +66,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "www.welbourne.haringey.sch.uk/",
    "URN": "102124",
-   "LAESTAB": "3092062"
+   "LAESTAB": "3092062",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St John Vianney RC Primary School",
@@ -51,7 +81,13 @@
    "Type of Setting": "Voluntary aided school",
    "Setting Website": "www.st-johnvianney.haringey.sch.uk",
    "URN": "102152",
-   "LAESTAB": "3093510"
+   "LAESTAB": "3093510",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Hornsey School for Girls",
@@ -60,7 +96,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "http://www.hsg.haringey.sch.uk/",
    "URN": "102153",
-   "LAESTAB": "3094029"
+   "LAESTAB": "3094029",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Brandhall Primary School",
@@ -69,7 +111,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "www.brandhall.sandwell.sch.uk/",
    "URN": "103976",
-   "LAESTAB": "3332171"
+   "LAESTAB": "3332171",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St William of York Catholic Primary School",
@@ -78,7 +126,13 @@
    "Type of Setting": "Voluntary aided school",
    "Setting Website": "www.st-williams.bolton.sch.uk",
    "URN": "105226",
-   "LAESTAB": "3503331"
+   "LAESTAB": "3503331",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Andrew's CofE Primary School, Over Hulton",
@@ -87,7 +141,13 @@
    "Type of Setting": "Voluntary aided school",
    "Setting Website": "www.standrewsbolton.co.uk",
    "URN": "105236",
-   "LAESTAB": "3503348"
+   "LAESTAB": "3503348",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "All Saints C of E Primary School",
@@ -96,7 +156,13 @@
    "Type of Setting": "Voluntary aided school",
    "Setting Website": "www.allsaintsnh-pri.manchester.sch.uk",
    "URN": "105505",
-   "LAESTAB": "3523301"
+   "LAESTAB": "3523301",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Abbey Lane Primary School",
@@ -105,7 +171,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "www.abbeylaneprimaryschool.com",
    "URN": "106982",
-   "LAESTAB": "3732001"
+   "LAESTAB": "3732001",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Pippins School",
@@ -114,7 +186,13 @@
    "Type of Setting": "Foundation school",
    "Setting Website": "www.pippins.slough.sch.uk/",
    "URN": "110095",
-   "LAESTAB": "8715207"
+   "LAESTAB": "8715207",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Stanway Fiveways Primary School",
@@ -123,7 +201,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "www.stanwayfiveways.essex.sch.uk",
    "URN": "114764",
-   "LAESTAB": "8812081"
+   "LAESTAB": "8812081",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Baynards Primary School",
@@ -132,7 +216,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "www.baynards.essex.sch.uk",
    "URN": "114767",
-   "LAESTAB": "8812088"
+   "LAESTAB": "8812088",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Great Leighs Primary School",
@@ -141,7 +231,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "www.greatleighs.essex.sch.uk",
    "URN": "114852",
-   "LAESTAB": "8812450"
+   "LAESTAB": "8812450",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Henham and Ugley Primary and Nursery School",
@@ -150,7 +246,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "http://www.henhamugley.essex.sch.uk",
    "URN": "114975",
-   "LAESTAB": "8812740"
+   "LAESTAB": "8812740",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Bentfield Primary School and Nursery",
@@ -159,7 +261,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "www.bentfieldprimaryschool.co.uk",
    "URN": "114978",
-   "LAESTAB": "8812747"
+   "LAESTAB": "8812747",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "White Court School",
@@ -168,7 +276,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "http://www.whitecourtschool.co.uk",
    "URN": "114988",
-   "LAESTAB": "8812767"
+   "LAESTAB": "8812767",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Beehive Lane Community Primary School",
@@ -177,7 +291,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "www.beehivelane.essex.sch.uk/",
    "URN": "114996",
-   "LAESTAB": "8812789"
+   "LAESTAB": "8812789",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Eversley Primary School",
@@ -186,7 +306,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "http://www.eversley.essex.sch.uk/",
    "URN": "114999",
-   "LAESTAB": "8812798"
+   "LAESTAB": "8812798",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Holy Trinity CofE Primary School, Eight Ash Green and Aldham",
@@ -195,7 +321,13 @@
    "Type of Setting": "Voluntary controlled school",
    "Setting Website": "www.holytrinityeightashgreen.co.uk/",
    "URN": "115075",
-   "LAESTAB": "8813021"
+   "LAESTAB": "8813021",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Lawrence Church of England Primary School, Rowhedge",
@@ -204,7 +336,13 @@
    "Type of Setting": "Voluntary controlled school",
    "Setting Website": "http://www.st-lawrence-pri.essex.sch.uk/",
    "URN": "115077",
-   "LAESTAB": "8813023"
+   "LAESTAB": "8813023",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Great Tey Church of England Voluntary Controlled Primary School",
@@ -213,7 +351,13 @@
    "Type of Setting": "Voluntary controlled school",
    "Setting Website": "www.greatteyprimary.org.uk/",
    "URN": "115079",
-   "LAESTAB": "8813025"
+   "LAESTAB": "8813025",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Hatfield Peverel St Andrew's Junior School",
@@ -222,7 +366,13 @@
    "Type of Setting": "Foundation school",
    "Setting Website": "www.hatfieldpeverelstandrews.co.uk",
    "URN": "115102",
-   "LAESTAB": "8815279"
+   "LAESTAB": "8815279",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Broomfield Primary School",
@@ -231,7 +381,13 @@
    "Type of Setting": "Foundation school",
    "Setting Website": "http://www.broomfield.essex.sch.uk",
    "URN": "115292",
-   "LAESTAB": "8815252"
+   "LAESTAB": "8815252",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Mersea Island School",
@@ -240,7 +396,13 @@
    "Type of Setting": "Foundation school",
    "Setting Website": "www.merseaschool.org",
    "URN": "115311",
-   "LAESTAB": "8815271"
+   "LAESTAB": "8815271",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Cranbourne",
@@ -249,7 +411,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "http://www.cranbourne.hants.sch.uk/",
    "URN": "116432",
-   "LAESTAB": "8504164"
+   "LAESTAB": "8504164",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Markyate Village School and Nursery",
@@ -258,7 +426,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "http://www.markyate.herts.sch.uk/",
    "URN": "117127",
-   "LAESTAB": "9192074"
+   "LAESTAB": "9192074",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Widford School",
@@ -267,7 +441,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "http://www.widford.herts.sch.uk",
    "URN": "117176",
-   "LAESTAB": "9192145"
+   "LAESTAB": "9192145",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Palmarsh Primary School",
@@ -276,7 +456,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "http://www.palmarsh.kent.sch.uk",
    "URN": "118490",
-   "LAESTAB": "8862524"
+   "LAESTAB": "8862524",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Birchington Church of England Primary School",
@@ -285,7 +471,13 @@
    "Type of Setting": "Voluntary controlled school",
    "Setting Website": "www.birchington-primary.com/",
    "URN": "118693",
-   "LAESTAB": "8863178"
+   "LAESTAB": "8863178",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St James' Church of England Voluntary Aided Primary School",
@@ -294,7 +486,13 @@
    "Type of Setting": "Voluntary aided school",
    "Setting Website": "https://st-james.kent.sch.uk",
    "URN": "118725",
-   "LAESTAB": "8863322"
+   "LAESTAB": "8863322",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Bartholomew's Catholic Primary School, Swanley",
@@ -303,7 +501,13 @@
    "Type of Setting": "Voluntary aided school",
    "Setting Website": "http://www.st-bartholomewsrc-pri.kent.sch.uk/",
    "URN": "118860",
-   "LAESTAB": "8865214"
+   "LAESTAB": "8865214",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Bispham Endowed Church of England Primary School",
@@ -312,7 +516,13 @@
    "Type of Setting": "Voluntary controlled school",
    "Setting Website": "http://www.bisphamendowed.co.uk",
    "URN": "119411",
-   "LAESTAB": "8903192"
+   "LAESTAB": "8903192",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Our Lady's Catholic High School",
@@ -321,7 +531,13 @@
    "Type of Setting": "Voluntary aided school",
    "Setting Website": "http://www.olchs.lancs.sch.uk/",
    "URN": "119779",
-   "LAESTAB": "8884606"
+   "LAESTAB": "8884606",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Mayflower Primary School",
@@ -330,7 +546,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "https://www.mayflower.leicester.sch.uk/",
    "URN": "120018",
-   "LAESTAB": "8562250"
+   "LAESTAB": "8562250",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Parks Primary School",
@@ -339,7 +561,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "www.parksprimary.org/",
    "URN": "120088",
-   "LAESTAB": "8562364"
+   "LAESTAB": "8562364",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Donnington Wood Infant School and Nursery Centre",
@@ -348,7 +576,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "www.donningtonwoodinfants.co.uk",
    "URN": "123364",
-   "LAESTAB": "8942041"
+   "LAESTAB": "8942041",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Thurston Community College",
@@ -357,7 +591,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "http://www.thurstoncollege.org/",
    "URN": "124802",
-   "LAESTAB": "9354024"
+   "LAESTAB": "9354024",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Shawfield Primary School",
@@ -366,7 +606,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "www.shawfield.surrey.sch.uk",
    "URN": "125029",
-   "LAESTAB": "9362361"
+   "LAESTAB": "9362361",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Paul's Catholic Primary School, Thames Ditton",
@@ -375,7 +621,13 @@
    "Type of Setting": "Voluntary aided school",
    "Setting Website": "www.stpauls-thamesditton.surrey.sch.uk/",
    "URN": "125212",
-   "LAESTAB": "9363446"
+   "LAESTAB": "9363446",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Petroc",
@@ -384,7 +636,13 @@
    "Type of Setting": "Further education",
    "Setting Website": "http://www.petroc.ac.uk/",
    "URN": "130646",
-   "LAESTAB": "8788001"
+   "LAESTAB": "8788001",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Park View School",
@@ -393,7 +651,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "www.parkview.haringey.sch.uk",
    "URN": "131757",
-   "LAESTAB": "3094037"
+   "LAESTAB": "3094037",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Springfield Primary School",
@@ -402,7 +666,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "www.springfield-pri.essex.sch.uk",
    "URN": "134065",
-   "LAESTAB": "8812020"
+   "LAESTAB": "8812020",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Outwoods Primary School",
@@ -411,7 +681,13 @@
    "Type of Setting": "Community school",
    "Setting Website": "www.ops.warwickshire.sch.uk",
    "URN": "136061",
-   "LAESTAB": "9372083"
+   "LAESTAB": "9372083",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Denbigh School",
@@ -420,7 +696,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.denbigh.net",
    "URN": "136468",
-   "LAESTAB": "8265410"
+   "LAESTAB": "8265410",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Sale Grammar School",
@@ -429,7 +711,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.salegrammar.co.uk/",
    "URN": "136498",
-   "LAESTAB": "3584029"
+   "LAESTAB": "3584029",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "The Appleton School",
@@ -438,7 +726,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.theappletonschool.org",
    "URN": "136579",
-   "LAESTAB": "8815418"
+   "LAESTAB": "8815418",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "King Ethelbert School",
@@ -447,7 +741,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.kingethelbert.com/",
    "URN": "136584",
-   "LAESTAB": "8864120"
+   "LAESTAB": "8864120",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Holcombe Grammar School",
@@ -456,7 +756,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.holcombegrammar.org.uk",
    "URN": "136594",
-   "LAESTAB": "8874068"
+   "LAESTAB": "8874068",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "The Coopers' Company and Coborn School",
@@ -465,7 +771,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.cooperscoborn.org.uk/",
    "URN": "136600",
-   "LAESTAB": "3115402"
+   "LAESTAB": "3115402",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Wood Green Academy",
@@ -474,7 +786,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.woodgreenacademy.co.uk",
    "URN": "136616",
-   "LAESTAB": "3334024"
+   "LAESTAB": "3334024",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "The Honywood Community Science School",
@@ -483,7 +801,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.honywoodschool.com",
    "URN": "136729",
-   "LAESTAB": "8814400"
+   "LAESTAB": "8814400",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "The Billericay School",
@@ -492,7 +816,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.billericayschool.com",
    "URN": "136861",
-   "LAESTAB": "8815468"
+   "LAESTAB": "8815468",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Aston Manor Academy",
@@ -501,7 +831,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.astonmanor.bham.sch.uk/",
    "URN": "136882",
-   "LAESTAB": "3304220"
+   "LAESTAB": "3304220",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Hadleigh High School",
@@ -510,7 +846,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.hadleighhigh.net/",
    "URN": "136918",
-   "LAESTAB": "9354017"
+   "LAESTAB": "9354017",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "The Palmer Catholic Academy",
@@ -519,7 +861,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.tpc.academy",
    "URN": "137088",
-   "LAESTAB": "3174800"
+   "LAESTAB": "3174800",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "The London Oratory School",
@@ -528,7 +876,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.london-oratory.org",
    "URN": "137157",
-   "LAESTAB": "2055400"
+   "LAESTAB": "2055400",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Tendring Technology College",
@@ -537,7 +891,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://tendringtechnologycollege.org/",
    "URN": "137188",
-   "LAESTAB": "8815432"
+   "LAESTAB": "8815432",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "East Bergholt High School",
@@ -546,7 +906,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.ebhigh.org.uk",
    "URN": "137218",
-   "LAESTAB": "9354097"
+   "LAESTAB": "9354097",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Hounsdown School",
@@ -555,7 +921,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.hounsdown.hants.sch.uk/",
    "URN": "137229",
-   "LAESTAB": "8504168"
+   "LAESTAB": "8504168",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Thurstable School Sports College and Sixth Form Centre",
@@ -564,7 +936,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.thurstable.co.uk",
    "URN": "137241",
-   "LAESTAB": "8815413"
+   "LAESTAB": "8815413",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Corpus Christi Catholic Primary School",
@@ -573,7 +951,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.corpuschristischool.co.uk",
    "URN": "137295",
-   "LAESTAB": "2085202"
+   "LAESTAB": "2085202",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Waddesdon Church of England School",
@@ -582,7 +966,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.waddesdonschool.com",
    "URN": "137355",
-   "LAESTAB": "8255408"
+   "LAESTAB": "8255408",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Wallingford School",
@@ -591,7 +981,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.wallingfordschool.com/",
    "URN": "137357",
-   "LAESTAB": "9314140"
+   "LAESTAB": "9314140",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Woodkirk Academy",
@@ -600,7 +996,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.woodkirkacademy.co.uk/",
    "URN": "137383",
-   "LAESTAB": "3834105"
+   "LAESTAB": "3834105",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Batley Girls High School",
@@ -609,7 +1011,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.batleygirls.co.uk/",
    "URN": "137424",
-   "LAESTAB": "3824048"
+   "LAESTAB": "3824048",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Clere's School",
@@ -618,7 +1026,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.st-cleres.thurrock.sch.uk/",
    "URN": "137456",
-   "LAESTAB": "8835440"
+   "LAESTAB": "8835440",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Sandbach School",
@@ -627,7 +1041,13 @@
    "Type of Setting": "Free schools",
    "Setting Website": "http://sandbachschool.org/",
    "URN": "137491",
-   "LAESTAB": "8956010"
+   "LAESTAB": "8956010",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Carmel College",
@@ -636,7 +1056,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://carmel.bhcet.org.uk/",
    "URN": "137622",
-   "LAESTAB": "8414603"
+   "LAESTAB": "8414603",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Anglo European School",
@@ -645,7 +1071,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://aesessex.co.uk/",
    "URN": "137727",
-   "LAESTAB": "8815442"
+   "LAESTAB": "8815442",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Thomas More Catholic School, Blaydon",
@@ -654,7 +1086,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.stthomasmore.org.uk/",
    "URN": "137851",
-   "LAESTAB": "3904606"
+   "LAESTAB": "3904606",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "The Gilberd School",
@@ -663,7 +1101,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.gilberd.com",
    "URN": "137926",
-   "LAESTAB": "8815441"
+   "LAESTAB": "8815441",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "The Thomas Lord Audley School",
@@ -672,7 +1116,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.tla.essex.sch.uk",
    "URN": "137937",
-   "LAESTAB": "8814020"
+   "LAESTAB": "8814020",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Helena School",
@@ -681,7 +1131,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.st-helena.essex.sch.uk",
    "URN": "137944",
-   "LAESTAB": "8815448"
+   "LAESTAB": "8815448",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "East Tilbury Primary School",
@@ -690,7 +1146,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.easttilburyprimary.thurrock.sch.uk/",
    "URN": "138065",
-   "LAESTAB": "8832824"
+   "LAESTAB": "8832824",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Clacton County High School",
@@ -699,7 +1161,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.countyhigh.org.uk/",
    "URN": "138084",
-   "LAESTAB": "8815444"
+   "LAESTAB": "8815444",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "White Hall Academy and Nursery",
@@ -708,7 +1176,13 @@
    "Type of Setting": "Academy sponsor led",
    "Setting Website": "http://www.whitehallacademy.co.uk/",
    "URN": "138575",
-   "LAESTAB": "8812022"
+   "LAESTAB": "8812022",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Altrincham College",
@@ -717,7 +1191,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.altrinchamcollege.com/",
    "URN": "138614",
-   "LAESTAB": "3584024"
+   "LAESTAB": "3584024",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Cleeve Park School",
@@ -726,7 +1206,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.cleevepark-tkat.org",
    "URN": "138686",
-   "LAESTAB": "3034030"
+   "LAESTAB": "3034030",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Joyce Frankland Academy, Newport",
@@ -735,7 +1221,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.jfan.org.uk/",
    "URN": "138734",
-   "LAESTAB": "8815436"
+   "LAESTAB": "8815436",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Danetree Primary School",
@@ -744,7 +1236,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.danetreeschool.org/",
    "URN": "138764",
-   "LAESTAB": "9362092"
+   "LAESTAB": "9362092",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "The Bromfords School",
@@ -753,7 +1251,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.bromfords.essex.sch.uk/",
    "URN": "139181",
-   "LAESTAB": "8815407"
+   "LAESTAB": "8815407",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Royal College Manchester (Seashell Trust)",
@@ -762,7 +1266,13 @@
    "Type of Setting": "Special post 16 institution",
    "Setting Website": "http://www.seashelltrust.org.uk/",
    "URN": "139218",
-   "LAESTAB": "3567900"
+   "LAESTAB": "3567900",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "The Ramsey Academy, Halstead",
@@ -771,7 +1281,13 @@
    "Type of Setting": "Academy sponsor led",
    "Setting Website": "http://www.ramseyacademy.com/",
    "URN": "139248",
-   "LAESTAB": "8814008"
+   "LAESTAB": "8814008",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Redhill School",
@@ -780,7 +1296,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.redhill.dudley.sch.uk/",
    "URN": "139872",
-   "LAESTAB": "3324119"
+   "LAESTAB": "3324119",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Ark Boulton Academy",
@@ -789,7 +1311,13 @@
    "Type of Setting": "Academy sponsor led",
    "Setting Website": "http://arkboulton.org/",
    "URN": "140014",
-   "LAESTAB": "3304013"
+   "LAESTAB": "3304013",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Woodville Primary School",
@@ -798,7 +1326,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.woodvilleprimaryschool.org.uk/",
    "URN": "140447",
-   "LAESTAB": "8815213"
+   "LAESTAB": "8815213",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Holy Trinity Catholic Voluntary Academy",
@@ -807,7 +1341,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.holytrinityacademy.co.uk",
    "URN": "140727",
-   "LAESTAB": "8913766"
+   "LAESTAB": "8913766",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Thomas Bullock Church of England Primary and Nursery Academy",
@@ -816,7 +1356,13 @@
    "Type of Setting": "Academy sponsor led",
    "Setting Website": "www.thomasbullock.dneat.org/",
    "URN": "141192",
-   "LAESTAB": "9262068"
+   "LAESTAB": "9262068",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Water Lane Primary Academy",
@@ -825,7 +1371,13 @@
    "Type of Setting": "Academy sponsor led",
    "Setting Website": "www.waterlaneprimary.co.uk/",
    "URN": "141194",
-   "LAESTAB": "8812110"
+   "LAESTAB": "8812110",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Katherine Semar Junior School",
@@ -834,7 +1386,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.katherinesemar.co.uk",
    "URN": "141572",
-   "LAESTAB": "8812687"
+   "LAESTAB": "8812687",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Katherine Semar Infant School",
@@ -843,7 +1401,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.katherinesemar.co.uk",
    "URN": "141574",
-   "LAESTAB": "8812717"
+   "LAESTAB": "8812717",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Mistley Norman Church of England Primary School",
@@ -852,7 +1416,13 @@
    "Type of Setting": "Academy sponsor led",
    "Setting Website": "www.mistleynormancofe.co.uk",
    "URN": "141658",
-   "LAESTAB": "8812123"
+   "LAESTAB": "8812123",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Hatfield Heath Primary School",
@@ -861,7 +1431,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.hatfieldheath.essex.sch.uk/",
    "URN": "141714",
-   "LAESTAB": "8812520"
+   "LAESTAB": "8812520",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Thomas More Catholic Comprehensive School",
@@ -870,7 +1446,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.stmcomprehensive.org/",
    "URN": "141716",
-   "LAESTAB": "2034716"
+   "LAESTAB": "2034716",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Godinton Primary School",
@@ -879,7 +1461,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.godinton.kent.sch.uk",
    "URN": "141754",
-   "LAESTAB": "8862625"
+   "LAESTAB": "8862625",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Francis Catholic Primary School, South Ascot",
@@ -888,7 +1476,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.stfrancisprimary.org",
    "URN": "141818",
-   "LAESTAB": "8683335"
+   "LAESTAB": "8683335",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "The FitzWimarc School",
@@ -897,7 +1491,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.fitzwimarc.com",
    "URN": "141841",
-   "LAESTAB": "8815422"
+   "LAESTAB": "8815422",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Winter Gardens Academy",
@@ -906,7 +1506,13 @@
    "Type of Setting": "Academy sponsor led",
    "Setting Website": "www.wintergardensacademy.org",
    "URN": "142000",
-   "LAESTAB": "8812129"
+   "LAESTAB": "8812129",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Cherry Tree Academy",
@@ -915,7 +1521,13 @@
    "Type of Setting": "Academy sponsor led",
    "Setting Website": "https://www.cherrytree.essex.sch.uk/",
    "URN": "142002",
-   "LAESTAB": "8812132"
+   "LAESTAB": "8812132",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Prince Albert Junior and Infant School",
@@ -924,7 +1536,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.princealbert.bham.sch.uk",
    "URN": "142230",
-   "LAESTAB": "3302003"
+   "LAESTAB": "3302003",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Cockermouth School",
@@ -933,7 +1551,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.cockermouthschool.org/",
    "URN": "142306",
-   "LAESTAB": "9424103"
+   "LAESTAB": "9424103",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Northampton International Academy",
@@ -942,7 +1566,13 @@
    "Type of Setting": "Free schools",
    "Setting Website": "",
    "URN": "142485",
-   "LAESTAB": "9414018"
+   "LAESTAB": "9414018",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Gregory's Catholic Science College",
@@ -951,7 +1581,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.stgregorys.harrow.sch.uk",
    "URN": "142560",
-   "LAESTAB": "3045406"
+   "LAESTAB": "3045406",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Bishop Douglass School Finchley",
@@ -960,7 +1596,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.bishopdouglass.barnet.sch.uk/",
    "URN": "143082",
-   "LAESTAB": "3025408"
+   "LAESTAB": "3025408",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Lubbins Park Primary Academy",
@@ -969,7 +1611,13 @@
    "Type of Setting": "Academy sponsor led",
    "Setting Website": "https://www.lubbinspark.essex.sch.uk/",
    "URN": "143123",
-   "LAESTAB": "8812143"
+   "LAESTAB": "8812143",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Scalby School",
@@ -978,7 +1626,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "https://www.scalby.coastandvale.academy/",
    "URN": "143288",
-   "LAESTAB": "8154073"
+   "LAESTAB": "8154073",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Arthur Bugler Primary School",
@@ -987,7 +1641,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.arthurbugler.com",
    "URN": "143378",
-   "LAESTAB": "8832439"
+   "LAESTAB": "8832439",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Leonard's Catholic School, Durham",
@@ -996,7 +1656,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.st-leonards.durham.sch.uk/",
    "URN": "143583",
-   "LAESTAB": "8404691"
+   "LAESTAB": "8404691",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Canon Slade School",
@@ -1005,7 +1671,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.canon-slade.bolton.sch.uk",
    "URN": "144044",
-   "LAESTAB": "3505401"
+   "LAESTAB": "3505401",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Claydon High School",
@@ -1014,7 +1686,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.claydonhigh.co.uk",
    "URN": "144214",
-   "LAESTAB": "9354096"
+   "LAESTAB": "9354096",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Harlowbury Primary School",
@@ -1023,7 +1701,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.harlowbury.essex.sch.uk/",
    "URN": "144664",
-   "LAESTAB": "8812983"
+   "LAESTAB": "8812983",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Kingsdown School",
@@ -1032,7 +1716,13 @@
    "Type of Setting": "Academy special converter",
    "Setting Website": "www.kingsdownschool.org",
    "URN": "144692",
-   "LAESTAB": "8827001"
+   "LAESTAB": "8827001",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Katherines Primary Academy and Nursery",
@@ -1041,7 +1731,13 @@
    "Type of Setting": "Academy sponsor led",
    "Setting Website": "www.katherines.netacademies.net",
    "URN": "144823",
-   "LAESTAB": "8812162"
+   "LAESTAB": "8812162",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Sir Thomas Boughey Academy",
@@ -1050,7 +1746,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.stb.academy",
    "URN": "145047",
-   "LAESTAB": "8604060"
+   "LAESTAB": "8604060",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Harwich and Dovercourt High School",
@@ -1059,7 +1761,13 @@
    "Type of Setting": "Academy sponsor led",
    "Setting Website": "www.hdhs.org.uk",
    "URN": "145061",
-   "LAESTAB": "8814024"
+   "LAESTAB": "8814024",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Ferryhill School",
@@ -1068,7 +1776,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.ferryhill.school",
    "URN": "145253",
-   "LAESTAB": "8404150"
+   "LAESTAB": "8404150",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Wyburns Primary School",
@@ -1077,7 +1791,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.wyburns.org",
    "URN": "145349",
-   "LAESTAB": "8815262"
+   "LAESTAB": "8815262",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Jerounds Primary Academy",
@@ -1086,7 +1806,13 @@
    "Type of Setting": "Academy sponsor led",
    "Setting Website": "http://www.netacademies.net/jerounds",
    "URN": "145557",
-   "LAESTAB": "8812171"
+   "LAESTAB": "8812171",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Roding Valley High School",
@@ -1095,7 +1821,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.rodingvalley.net",
    "URN": "145597",
-   "LAESTAB": "8814499"
+   "LAESTAB": "8814499",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Lambourne Primary School",
@@ -1104,7 +1836,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.lambourne.efspt.org",
    "URN": "145604",
-   "LAESTAB": "8812690"
+   "LAESTAB": "8812690",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Hillhouse CofE Primary School",
@@ -1113,7 +1851,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.hillhouse.essex.sch.uk/",
    "URN": "145992",
-   "LAESTAB": "8813256"
+   "LAESTAB": "8813256",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Barnes Farm Junior School",
@@ -1122,7 +1866,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.barnesfarmjuniors.co.uk",
    "URN": "145998",
-   "LAESTAB": "8812839"
+   "LAESTAB": "8812839",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Elizabeth's Catholic Voluntary Academy",
@@ -1131,7 +1881,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.stelizabethsbelper.srscmat.co.uk",
    "URN": "146119",
-   "LAESTAB": "8303513"
+   "LAESTAB": "8303513",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Hockley Primary School",
@@ -1140,7 +1896,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.hockleyprimary.org",
    "URN": "146181",
-   "LAESTAB": "8815247"
+   "LAESTAB": "8815247",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Chipping Ongar Primary School",
@@ -1149,7 +1911,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.chippingongar.essex.sch.uk/",
    "URN": "146195",
-   "LAESTAB": "8812685"
+   "LAESTAB": "8812685",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Langney Primary Academy",
@@ -1158,7 +1926,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.langneyprimary.co.uk",
    "URN": "146231",
-   "LAESTAB": "8452130"
+   "LAESTAB": "8452130",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Teresa's Catholic Primary School",
@@ -1167,7 +1941,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.stteresasprimary.org.uk/",
    "URN": "146256",
-   "LAESTAB": "8413309"
+   "LAESTAB": "8413309",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Mary and St John Junior and Infant School",
@@ -1176,7 +1956,13 @@
    "Type of Setting": "Academy sponsor led",
    "Setting Website": "www.stmryjon.net",
    "URN": "146268",
-   "LAESTAB": "3302187"
+   "LAESTAB": "3302187",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St John Catholic Primary School",
@@ -1185,7 +1971,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.stjohns705.herts.sch.uk",
    "URN": "146859",
-   "LAESTAB": "9193398"
+   "LAESTAB": "9193398",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Anne's Catholic Primary School, Harlow Green",
@@ -1194,7 +1986,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.stannesprimary.org",
    "URN": "147135",
-   "LAESTAB": "3903322"
+   "LAESTAB": "3903322",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Francis' Catholic Primary School",
@@ -1203,7 +2001,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.st-francis.newham.sch.uk",
    "URN": "147336",
-   "LAESTAB": "3163510"
+   "LAESTAB": "3163510",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Buckhurst Hill Community Primary School",
@@ -1212,7 +2016,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.bhcps.efspt.org",
    "URN": "147561",
-   "LAESTAB": "8812973"
+   "LAESTAB": "8812973",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Sunny Bank Primary School",
@@ -1221,7 +2031,13 @@
    "Type of Setting": "Academy sponsor led",
    "Setting Website": "www.sunnybank.kent.sch.uk",
    "URN": "147729",
-   "LAESTAB": "8862126"
+   "LAESTAB": "8862126",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Benet's Catholic Primary School, Ouston",
@@ -1230,7 +2046,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.st-benets.durham.sch.uk",
    "URN": "148205",
-   "LAESTAB": "8403346"
+   "LAESTAB": "8403346",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Bede's Catholic School and Byron Sixth Form College",
@@ -1239,7 +2061,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "http://www.st-bedes.durham.sch.uk/",
    "URN": "148304",
-   "LAESTAB": "8404693"
+   "LAESTAB": "8404693",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Joseph's Catholic Primary School",
@@ -1248,7 +2076,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.stjosephschalfont.school",
    "URN": "148671",
-   "LAESTAB": "8253371"
+   "LAESTAB": "8253371",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Wells Park School",
@@ -1257,7 +2091,13 @@
    "Type of Setting": "Academy special converter",
    "Setting Website": "www.beckmeadtrust.org",
    "URN": "148708",
-   "LAESTAB": "8817022"
+   "LAESTAB": "8817022",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St James' Catholic Primary School, Hebburn",
@@ -1266,7 +2106,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.stjameshebburn.co.uk",
    "URN": "148778",
-   "LAESTAB": "3933313"
+   "LAESTAB": "3933313",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St John Bosco Catholic Primary School, Town End Farm, Sunderland",
@@ -1275,7 +2121,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.stjohnboscosunderland.org.uk",
    "URN": "148782",
-   "LAESTAB": "3943316"
+   "LAESTAB": "3943316",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Columba's Catholic Primary School, Wallsend",
@@ -1284,7 +2136,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.stcolumbasprimary.co.uk",
    "URN": "148816",
-   "LAESTAB": "3923320"
+   "LAESTAB": "3923320",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St John Vianney Catholic Primary School, West Denton",
@@ -1293,7 +2151,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.stjohnvianneynewcastle.org",
    "URN": "148977",
-   "LAESTAB": "3913477"
+   "LAESTAB": "3913477",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "The Holy Family Catholic School, a Voluntary Academy",
@@ -1302,7 +2166,13 @@
    "Type of Setting": "Academy sponsor led",
    "Setting Website": "www.holyfamilyschool.uk",
    "URN": "149299",
-   "LAESTAB": "3804094"
+   "LAESTAB": "3804094",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "St Michael's Catholic School",
@@ -1311,7 +2181,13 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.stmichaels.bucks.sch.uk",
    "URN": "149612",
-   "LAESTAB": "8254701"
+   "LAESTAB": "8254701",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 },
  {
    "Setting Name": "Elmstead Primary School",
@@ -1320,87 +2196,12 @@
    "Type of Setting": "Academy converter",
    "Setting Website": "www.elmsteadprimary.com",
    "URN": "149972",
-   "LAESTAB": "8815220"
-},
- {
-   "Setting Name": "Not applicable",
-   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
-   "Setting Phase": "Not applicable",
-   "Type of Setting": "Not applicable",
-   "Setting Website": "Not applicable",
-   "URN": "Not applicable",
-   "LAESTAB": "Not applicable"
-},
- {
-   "Setting Name": "Not applicable",
-   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
-   "Setting Phase": "Not applicable",
-   "Type of Setting": "Not applicable",
-   "Setting Website": "Not applicable",
-   "URN": "Not applicable",
-   "LAESTAB": "Not applicable"
-},
- {
-   "Setting Name": "Not applicable",
-   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
-   "Setting Phase": "Not applicable",
-   "Type of Setting": "Not applicable",
-   "Setting Website": "Not applicable",
-   "URN": "Not applicable",
-   "LAESTAB": "Not applicable"
-},
- {
-   "Setting Name": "Not applicable",
-   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
-   "Setting Phase": "Not applicable",
-   "Type of Setting": "Not applicable",
-   "Setting Website": "Not applicable",
-   "URN": "Not applicable",
-   "LAESTAB": "Not applicable"
-},
- {
-   "Setting Name": "Not applicable",
-   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
-   "Setting Phase": "Not applicable",
-   "Type of Setting": "Not applicable",
-   "Setting Website": "Not applicable",
-   "URN": "Not applicable",
-   "LAESTAB": "Not applicable"
-},
- {
-   "Setting Name": "Not applicable",
-   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
-   "Setting Phase": "Not applicable",
-   "Type of Setting": "Not applicable",
-   "Setting Website": "Not applicable",
-   "URN": "Not applicable",
-   "LAESTAB": "Not applicable"
-},
- {
-   "Setting Name": "Not applicable",
-   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
-   "Setting Phase": "Not applicable",
-   "Type of Setting": "Not applicable",
-   "Setting Website": "Not applicable",
-   "URN": "Not applicable",
-   "LAESTAB": "Not applicable"
-},
- {
-   "Setting Name": "Not applicable",
-   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
-   "Setting Phase": "Not applicable",
-   "Type of Setting": "Not applicable",
-   "Setting Website": "Not applicable",
-   "URN": "Not applicable",
-   "LAESTAB": "Not applicable"
-},
- {
-   "Setting Name": "Not applicable",
-   "Setting mitigation at w/c 04/09/2023": "RAAC not present",
-   "Setting Phase": "Not applicable",
-   "Type of Setting": "Not applicable",
-   "Setting Website": "Not applicable",
-   "URN": "Not applicable",
-   "LAESTAB": "Not applicable"
+   "LAESTAB": "8815220",
+   "Address": {
+
+   },
+   "Geolocation": [
+    
+   ]
 }
 ]
