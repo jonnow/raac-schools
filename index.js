@@ -152,6 +152,44 @@ fastify.get('/update', (request, reply) => {
             })
         })
     }
+
+    if(request.query.addLonLat == 1) {
+        const fileInputName = './public/data/full_raac_data.json'
+        const fileOutputName = './public/data/fuller_raac_data.json'
+
+        const dataFile = fs.readFile(fileInputName, (err, data) => {
+            const lonLatDataFile = fs.readFileSync('./private/lonlatdata.json')
+            const lonLatData = JSON.parse(lonLatDataFile)
+            const jsonData = JSON.parse(data)
+            jsonData.map(school => {
+                const result = lonLatData.find(el=>el.UPRN == school.UPRN)
+                try {
+                    school.coordinates = [result.Latitude, result.Longitude]
+                    
+                } catch (error) {
+                    debugger
+                }
+            })
+            
+            const strData = JSON.stringify(jsonData)
+            fs.writeFile(fileOutputName, strData, (err) => {
+                let msg, status;
+                if(err) {
+                    msg = `Error writing file, no data written. Here is a readout of the data that did not write: \n${newData}`
+                    status = 'failure'
+                    console.error(`${status}: ${msg}`)
+                }
+                else {
+                    msg = `Writing new data file complete.\nData successfully written to new file ${fileOutputName}.`
+                    status = 'success'
+                    console.info(`${status}: ${msg}`)
+                }
+                return reply.send({
+                    status: msg
+                })
+            })
+        })
+    }
 })
 //https://api.ideal-postcodes.co.uk/v1/addresses?api_key=iddqd&lon=-0.12767&lat=51.503541
 /**

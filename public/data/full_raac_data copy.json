@@ -15,7 +15,7 @@
             "County (name)": "",
             "Postcode": "SE4 1DF"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "209",
         "LA (name)": "Lewisham",
         "EstablishmentNumber": "2869",
@@ -166,7 +166,7 @@
             "County (name)": "",
             "Postcode": "E14 8LY"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "211",
         "LA (name)": "Tower Hamlets",
         "EstablishmentNumber": "2857",
@@ -317,7 +317,7 @@
             "County (name)": "",
             "Postcode": "W3 0HW"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "307",
         "LA (name)": "Ealing",
         "EstablishmentNumber": "5402",
@@ -468,7 +468,7 @@
             "County (name)": "",
             "Postcode": "EN1 4NP"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "308",
         "LA (name)": "Enfield",
         "EstablishmentNumber": "5403",
@@ -619,7 +619,7 @@
             "County (name)": "",
             "Postcode": "N15 4EA"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "309",
         "LA (name)": "Haringey",
         "EstablishmentNumber": "2062",
@@ -770,7 +770,7 @@
             "County (name)": "",
             "Postcode": "N15 3HD"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "309",
         "LA (name)": "Haringey",
         "EstablishmentNumber": "3510",
@@ -921,7 +921,7 @@
             "County (name)": "",
             "Postcode": "N8 9JF"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "309",
         "LA (name)": "Haringey",
         "EstablishmentNumber": "4029",
@@ -1072,7 +1072,7 @@
             "County (name)": "West Midlands",
             "Postcode": "B68 0SH"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "333",
         "LA (name)": "Sandwell",
         "EstablishmentNumber": "2171",
@@ -1223,7 +1223,7 @@
             "County (name)": "Lancashire",
             "Postcode": "BL3 3DE"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "350",
         "LA (name)": "Bolton",
         "EstablishmentNumber": "3331",
@@ -1374,7 +1374,7 @@
             "County (name)": "Lancashire",
             "Postcode": "BL5 1EN"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "350",
         "LA (name)": "Bolton",
         "EstablishmentNumber": "3348",
@@ -1525,7 +1525,7 @@
             "County (name)": "",
             "Postcode": "M40 1LS"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "352",
         "LA (name)": "Manchester",
         "EstablishmentNumber": "3301",
@@ -1676,7 +1676,7 @@
             "County (name)": "South Yorkshire",
             "Postcode": "S8 0BN"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "373",
         "LA (name)": "Sheffield",
         "EstablishmentNumber": "2001",
@@ -1827,7 +1827,7 @@
             "County (name)": "Berkshire",
             "Postcode": "SL3 0PR"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "871",
         "LA (name)": "Slough",
         "EstablishmentNumber": "5207",
@@ -1978,7 +1978,7 @@
             "County (name)": "Essex",
             "Postcode": "CO3 0QG"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2081",
@@ -2129,7 +2129,7 @@
             "County (name)": "Essex",
             "Postcode": "CO5 0ND"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2088",
@@ -2280,7 +2280,7 @@
             "County (name)": "Essex",
             "Postcode": "CM3 1RP"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2450",
@@ -2431,7 +2431,7 @@
             "County (name)": "Hertfordshire",
             "Postcode": "CM22 6BP"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2740",
@@ -2582,7 +2582,7 @@
             "County (name)": "Essex",
             "Postcode": "CM24 8DX"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2747",
@@ -2733,7 +2733,7 @@
             "County (name)": "Essex",
             "Postcode": "CM77 7UE"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2767",
@@ -2884,7 +2884,7 @@
             "County (name)": "Essex",
             "Postcode": "CM2 9SR"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2789",
@@ -3035,7 +3035,7 @@
             "County (name)": "Essex",
             "Postcode": "SS13 2EF"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2798",
@@ -3186,7 +3186,7 @@
             "County (name)": "Essex",
             "Postcode": "CO3 9UE"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "3021",
@@ -3337,7 +3337,7 @@
             "County (name)": "Essex",
             "Postcode": "CO5 7HR"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "3023",
@@ -3488,7 +3488,7 @@
             "County (name)": "Essex",
             "Postcode": "CO6 1AZ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "3025",
@@ -3639,7 +3639,7 @@
             "County (name)": "Essex",
             "Postcode": "CM3 2JX"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5279",
@@ -3790,7 +3790,7 @@
             "County (name)": "Essex",
             "Postcode": "CM1 7DN"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5252",
@@ -3941,7 +3941,7 @@
             "County (name)": "Essex",
             "Postcode": "CO5 8QX"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5271",
@@ -4092,7 +4092,7 @@
             "County (name)": "Hampshire",
             "Postcode": "RG21 3NP"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "850",
         "LA (name)": "Hampshire",
         "EstablishmentNumber": "4164",
@@ -4243,7 +4243,7 @@
             "County (name)": "Hertfordshire",
             "Postcode": "AL3 8PT"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "919",
         "LA (name)": "Hertfordshire",
         "EstablishmentNumber": "2074",
@@ -4394,7 +4394,7 @@
             "County (name)": "Hertfordshire",
             "Postcode": "SG12 8RE"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "919",
         "LA (name)": "Hertfordshire",
         "EstablishmentNumber": "2145",
@@ -4545,7 +4545,7 @@
             "County (name)": "Kent",
             "Postcode": "CT21 6NE"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "886",
         "LA (name)": "Kent",
         "EstablishmentNumber": "2524",
@@ -4696,7 +4696,7 @@
             "County (name)": "Kent",
             "Postcode": "CT7 0AS"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "886",
         "LA (name)": "Kent",
         "EstablishmentNumber": "3178",
@@ -4847,7 +4847,7 @@
             "County (name)": "Kent",
             "Postcode": "TN2 3PR"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "886",
         "LA (name)": "Kent",
         "EstablishmentNumber": "3322",
@@ -4998,7 +4998,7 @@
             "County (name)": "Kent",
             "Postcode": "BR8 7AY"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "886",
         "LA (name)": "Kent",
         "EstablishmentNumber": "5214",
@@ -5149,7 +5149,7 @@
             "County (name)": "Lancashire",
             "Postcode": "FY2 0HH"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "890",
         "LA (name)": "Blackpool",
         "EstablishmentNumber": "3192",
@@ -5300,7 +5300,7 @@
             "County (name)": "Lancashire",
             "Postcode": "PR2 3SQ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "888",
         "LA (name)": "Lancashire",
         "EstablishmentNumber": "4606",
@@ -5451,7 +5451,7 @@
             "County (name)": "Leicestershire",
             "Postcode": "LE5 5PH"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "856",
         "LA (name)": "Leicester",
         "EstablishmentNumber": "2250",
@@ -5602,7 +5602,7 @@
             "County (name)": "Leicestershire",
             "Postcode": "LE3 9NZ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "856",
         "LA (name)": "Leicester",
         "EstablishmentNumber": "2364",
@@ -5753,7 +5753,7 @@
             "County (name)": "Shropshire",
             "Postcode": "TF2 8EP"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "894",
         "LA (name)": "Telford and Wrekin",
         "EstablishmentNumber": "2041",
@@ -5904,7 +5904,7 @@
             "County (name)": "Suffolk",
             "Postcode": "IP31 3PB"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "935",
         "LA (name)": "Suffolk",
         "EstablishmentNumber": "4024",
@@ -6055,7 +6055,7 @@
             "County (name)": "Surrey",
             "Postcode": "GU12 6SX"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "936",
         "LA (name)": "Surrey",
         "EstablishmentNumber": "2361",
@@ -6206,7 +6206,7 @@
             "County (name)": "Surrey",
             "Postcode": "KT7 0LP"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "936",
         "LA (name)": "Surrey",
         "EstablishmentNumber": "3446",
@@ -6357,7 +6357,7 @@
             "County (name)": "Devon",
             "Postcode": "EX31 2BQ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "878",
         "LA (name)": "Devon",
         "EstablishmentNumber": "8001",
@@ -6508,7 +6508,7 @@
             "County (name)": "",
             "Postcode": "N15 3QR"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "309",
         "LA (name)": "Haringey",
         "EstablishmentNumber": "4037",
@@ -6659,7 +6659,7 @@
             "County (name)": "Essex",
             "Postcode": "CM1 6XW"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2020",
@@ -6810,7 +6810,7 @@
             "County (name)": "Warwickshire",
             "Postcode": "CV9 1EH"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "937",
         "LA (name)": "Warwickshire",
         "EstablishmentNumber": "2083",
@@ -6961,7 +6961,7 @@
             "County (name)": "Buckinghamshire",
             "Postcode": "MK5 6EX"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "826",
         "LA (name)": "Milton Keynes",
         "EstablishmentNumber": "5410",
@@ -7112,7 +7112,7 @@
             "County (name)": "Cheshire",
             "Postcode": "M33 3NH"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "358",
         "LA (name)": "Trafford",
         "EstablishmentNumber": "4029",
@@ -7263,7 +7263,7 @@
             "County (name)": "Essex",
             "Postcode": "SS7 5RN"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5418",
@@ -7414,7 +7414,7 @@
             "County (name)": "Kent",
             "Postcode": "CT7 9BL"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "886",
         "LA (name)": "Kent",
         "EstablishmentNumber": "4120",
@@ -7565,7 +7565,7 @@
             "County (name)": "Kent",
             "Postcode": "ME4 6JB"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "887",
         "LA (name)": "Medway",
         "EstablishmentNumber": "4068",
@@ -7716,7 +7716,7 @@
             "County (name)": "Essex",
             "Postcode": "RM14 3HS"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "311",
         "LA (name)": "Havering",
         "EstablishmentNumber": "5402",
@@ -7867,7 +7867,7 @@
             "County (name)": "West Midlands",
             "Postcode": "WS10 9QU"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "333",
         "LA (name)": "Sandwell",
         "EstablishmentNumber": "4024",
@@ -8018,7 +8018,7 @@
             "County (name)": "Essex",
             "Postcode": "CO6 1PZ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "4400",
@@ -8169,7 +8169,7 @@
             "County (name)": "Essex",
             "Postcode": "CM12 9LH"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5468",
@@ -8320,7 +8320,7 @@
             "County (name)": "West Midlands",
             "Postcode": "B6 4PZ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "330",
         "LA (name)": "Birmingham",
         "EstablishmentNumber": "4220",
@@ -8471,7 +8471,7 @@
             "County (name)": "Suffolk",
             "Postcode": "IP7 5HU"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "935",
         "LA (name)": "Suffolk",
         "EstablishmentNumber": "4017",
@@ -8622,7 +8622,7 @@
             "County (name)": "Essex",
             "Postcode": "IG3 8EU"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "317",
         "LA (name)": "Redbridge",
         "EstablishmentNumber": "4800",
@@ -8773,7 +8773,7 @@
             "County (name)": "",
             "Postcode": "SW6 1RX"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "205",
         "LA (name)": "Hammersmith and Fulham",
         "EstablishmentNumber": "5400",
@@ -8924,7 +8924,7 @@
             "County (name)": "Essex",
             "Postcode": "CO13 0AZ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5432",
@@ -9075,7 +9075,7 @@
             "County (name)": "",
             "Postcode": "CO7 6RJ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "935",
         "LA (name)": "Suffolk",
         "EstablishmentNumber": "4097",
@@ -9226,7 +9226,7 @@
             "County (name)": "Hampshire",
             "Postcode": "SO40 9FT"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "850",
         "LA (name)": "Hampshire",
         "EstablishmentNumber": "4168",
@@ -9377,7 +9377,7 @@
             "County (name)": "Essex",
             "Postcode": "CO5 0EW"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5413",
@@ -9528,7 +9528,7 @@
             "County (name)": "",
             "Postcode": "SW2 5BL"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "208",
         "LA (name)": "Lambeth",
         "EstablishmentNumber": "5202",
@@ -9679,7 +9679,7 @@
             "County (name)": "Buckinghamshire",
             "Postcode": "HP18 0LQ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "825",
         "LA (name)": "Buckinghamshire",
         "EstablishmentNumber": "5408",
@@ -9830,7 +9830,7 @@
             "County (name)": "Oxfordshire",
             "Postcode": "OX10 8HH"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "931",
         "LA (name)": "Oxfordshire",
         "EstablishmentNumber": "4140",
@@ -9981,7 +9981,7 @@
             "County (name)": "West Yorkshire",
             "Postcode": "WF3 1JQ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "383",
         "LA (name)": "Leeds",
         "EstablishmentNumber": "4105",
@@ -10132,7 +10132,7 @@
             "County (name)": "West Yorkshire",
             "Postcode": "WF17 0LD"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "382",
         "LA (name)": "Kirklees",
         "EstablishmentNumber": "4048",
@@ -10283,7 +10283,7 @@
             "County (name)": "Essex",
             "Postcode": "SS17 0NW"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "883",
         "LA (name)": "Thurrock",
         "EstablishmentNumber": "5440",
@@ -10434,7 +10434,7 @@
             "County (name)": "Cheshire",
             "Postcode": "CW11 3NS"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "895",
         "LA (name)": "Cheshire East",
         "EstablishmentNumber": "6010",
@@ -10585,7 +10585,7 @@
             "County (name)": "County Durham",
             "Postcode": "DL3 8RW"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "841",
         "LA (name)": "Darlington",
         "EstablishmentNumber": "4603",
@@ -10736,7 +10736,7 @@
             "County (name)": "Essex",
             "Postcode": "CM4 0DJ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5442",
@@ -10887,7 +10887,7 @@
             "County (name)": "Tyne and Wear",
             "Postcode": "NE21 4BQ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "390",
         "LA (name)": "Gateshead",
         "EstablishmentNumber": "4606",
@@ -11038,7 +11038,7 @@
             "County (name)": "Essex",
             "Postcode": "CO4 9PU"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5441",
@@ -11189,7 +11189,7 @@
             "County (name)": "Essex",
             "Postcode": "CO2 8NJ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "4020",
@@ -11340,7 +11340,7 @@
             "County (name)": "Essex",
             "Postcode": "CO3 3LE"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5448",
@@ -11491,7 +11491,7 @@
             "County (name)": "Essex",
             "Postcode": "RM18 8SB"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "883",
         "LA (name)": "Thurrock",
         "EstablishmentNumber": "2824",
@@ -11642,7 +11642,7 @@
             "County (name)": "Essex",
             "Postcode": "CO15 6DZ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5444",
@@ -11793,7 +11793,7 @@
             "County (name)": "Essex",
             "Postcode": "CO15 3SP"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2022",
@@ -11944,7 +11944,7 @@
             "County (name)": "Cheshire",
             "Postcode": "WA15 8QW"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "358",
         "LA (name)": "Trafford",
         "EstablishmentNumber": "4024",
@@ -12095,7 +12095,7 @@
             "County (name)": "Kent",
             "Postcode": "DA14 4JN"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "303",
         "LA (name)": "Bexley",
         "EstablishmentNumber": "4030",
@@ -12246,7 +12246,7 @@
             "County (name)": "Essex",
             "Postcode": "CB11 3TR"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5436",
@@ -12397,7 +12397,7 @@
             "County (name)": "Surrey",
             "Postcode": "KT19 9SE"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "936",
         "LA (name)": "Surrey",
         "EstablishmentNumber": "2092",
@@ -12519,7 +12519,7 @@
         "OfstedRating (name)": "Outstanding",
         "RSCRegion (name)": "South-East England and South London",
         "Country (name)": "",
-        "UPRN": "100062366895",
+        "UPRN": "",
         "SiteName": "",
         "QABName (code)": "0",
         "QABName (name)": "Not applicable",
@@ -12548,7 +12548,7 @@
             "County (name)": "Essex",
             "Postcode": "SS12 0LZ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5407",
@@ -12699,7 +12699,7 @@
             "County (name)": "Cheshire",
             "Postcode": "SK8 6RQ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "356",
         "LA (name)": "Stockport",
         "EstablishmentNumber": "7900",
@@ -12850,7 +12850,7 @@
             "County (name)": "Essex",
             "Postcode": "CO9 2HR"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "4008",
@@ -13001,7 +13001,7 @@
             "County (name)": "West Midlands",
             "Postcode": "DY8 1JX"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "332",
         "LA (name)": "Dudley",
         "EstablishmentNumber": "4119",
@@ -13152,7 +13152,7 @@
             "County (name)": "West Midlands",
             "Postcode": "B11 2QG"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "330",
         "LA (name)": "Birmingham",
         "EstablishmentNumber": "4013",
@@ -13303,7 +13303,7 @@
             "County (name)": "Essex",
             "Postcode": "CM3 5SE"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5213",
@@ -13454,7 +13454,7 @@
             "County (name)": "Nottinghamshire",
             "Postcode": "NG24 4AU"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "891",
         "LA (name)": "Nottinghamshire",
         "EstablishmentNumber": "3766",
@@ -13605,7 +13605,7 @@
             "County (name)": "Norfolk",
             "Postcode": "IP25 7LF"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "926",
         "LA (name)": "Norfolk",
         "EstablishmentNumber": "2068",
@@ -13756,7 +13756,7 @@
             "County (name)": "Essex",
             "Postcode": "CM19 5RD"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2110",
@@ -13907,7 +13907,7 @@
             "County (name)": "Essex",
             "Postcode": "CB11 4DU"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2687",
@@ -14058,7 +14058,7 @@
             "County (name)": "Essex",
             "Postcode": "CB11 4DU"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2717",
@@ -14209,7 +14209,7 @@
             "County (name)": "Essex",
             "Postcode": "CO11 1LS"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2123",
@@ -14360,7 +14360,7 @@
             "County (name)": "Hertfordshire",
             "Postcode": "CM22 7EA"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2520",
@@ -14511,7 +14511,7 @@
             "County (name)": "",
             "Postcode": "SE9 2SU"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "203",
         "LA (name)": "Greenwich",
         "EstablishmentNumber": "4716",
@@ -14662,7 +14662,7 @@
             "County (name)": "Kent",
             "Postcode": "TN23 3JR"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "886",
         "LA (name)": "Kent",
         "EstablishmentNumber": "2625",
@@ -14813,7 +14813,7 @@
             "County (name)": "Berkshire",
             "Postcode": "SL5 9HG"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "868",
         "LA (name)": "Windsor and Maidenhead",
         "EstablishmentNumber": "3335",
@@ -14964,7 +14964,7 @@
             "County (name)": "Essex",
             "Postcode": "SS6 8EB"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5422",
@@ -15115,7 +15115,7 @@
             "County (name)": "Essex",
             "Postcode": "SS8 9QA"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2129",
@@ -15266,7 +15266,7 @@
             "County (name)": "Essex",
             "Postcode": "CO2 0BG"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2132",
@@ -15417,7 +15417,7 @@
             "County (name)": "West Midlands",
             "Postcode": "B6 5NH"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "330",
         "LA (name)": "Birmingham",
         "EstablishmentNumber": "2003",
@@ -15568,7 +15568,7 @@
             "County (name)": "Cumbria",
             "Postcode": "CA13 9HF"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "942",
         "LA (name)": "Cumberland",
         "EstablishmentNumber": "4103",
@@ -15719,7 +15719,7 @@
             "County (name)": "Northamptonshire",
             "Postcode": "NN1 1AA"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "941",
         "LA (name)": "West Northamptonshire",
         "EstablishmentNumber": "4018",
@@ -15870,7 +15870,7 @@
             "County (name)": "",
             "Postcode": "HA3 0NB"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "304",
         "LA (name)": "Brent",
         "EstablishmentNumber": "5406",
@@ -16021,7 +16021,7 @@
             "County (name)": "",
             "Postcode": "N2 0SQ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "302",
         "LA (name)": "Barnet",
         "EstablishmentNumber": "5408",
@@ -16172,7 +16172,7 @@
             "County (name)": "Essex",
             "Postcode": "SS8 7HF"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2143",
@@ -16323,7 +16323,7 @@
             "County (name)": "North Yorkshire",
             "Postcode": "YO12 6TH"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "815",
         "LA (name)": "North Yorkshire",
         "EstablishmentNumber": "4073",
@@ -16474,7 +16474,7 @@
             "County (name)": "Essex",
             "Postcode": "SS17 7BQ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "883",
         "LA (name)": "Thurrock",
         "EstablishmentNumber": "2439",
@@ -16625,7 +16625,7 @@
             "County (name)": "",
             "Postcode": "DH1 4NG"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "840",
         "LA (name)": "County Durham",
         "EstablishmentNumber": "4691",
@@ -16776,7 +16776,7 @@
             "County (name)": "Lancashire",
             "Postcode": "BL2 3BP"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "350",
         "LA (name)": "Bolton",
         "EstablishmentNumber": "5401",
@@ -16927,7 +16927,7 @@
             "County (name)": "Suffolk",
             "Postcode": "IP6 0EG"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "935",
         "LA (name)": "Suffolk",
         "EstablishmentNumber": "4096",
@@ -17078,7 +17078,7 @@
             "County (name)": "Essex",
             "Postcode": "CM17 0DX"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2983",
@@ -17229,7 +17229,7 @@
             "County (name)": "Essex",
             "Postcode": "SS2 6XT"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "882",
         "LA (name)": "Southend-on-Sea",
         "EstablishmentNumber": "7001",
@@ -17380,7 +17380,7 @@
             "County (name)": "Essex",
             "Postcode": "CM19 5NJ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2162",
@@ -17531,7 +17531,7 @@
             "County (name)": "Staffordshire",
             "Postcode": "ST7 8AP"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "860",
         "LA (name)": "Staffordshire",
         "EstablishmentNumber": "4060",
@@ -17682,7 +17682,7 @@
             "County (name)": "Essex",
             "Postcode": "CO12 3TG"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "4024",
@@ -17833,7 +17833,7 @@
             "County (name)": "County Durham",
             "Postcode": "DL17 8RW"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "840",
         "LA (name)": "County Durham",
         "EstablishmentNumber": "4150",
@@ -17984,7 +17984,7 @@
             "County (name)": "Essex",
             "Postcode": "SS6 7PE"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5262",
@@ -18135,7 +18135,7 @@
             "County (name)": "Essex",
             "Postcode": "CM19 4PH"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2171",
@@ -18286,7 +18286,7 @@
             "County (name)": "Essex",
             "Postcode": "IG10 3JA"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "4499",
@@ -18437,7 +18437,7 @@
             "County (name)": "Essex",
             "Postcode": "RM4 1AU"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2690",
@@ -18588,7 +18588,7 @@
             "County (name)": "Essex",
             "Postcode": "EN9 3EL"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "3256",
@@ -18739,7 +18739,7 @@
             "County (name)": "Essex",
             "Postcode": "CM2 6QH"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2839",
@@ -18890,7 +18890,7 @@
             "County (name)": "Derbyshire",
             "Postcode": "DE56 2JD"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "830",
         "LA (name)": "Derbyshire",
         "EstablishmentNumber": "3513",
@@ -19041,7 +19041,7 @@
             "County (name)": "Essex",
             "Postcode": "SS5 4UR"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5247",
@@ -19192,7 +19192,7 @@
             "County (name)": "Essex",
             "Postcode": "CM5 9LA"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2685",
@@ -19343,7 +19343,7 @@
             "County (name)": "East Sussex",
             "Postcode": "BN23 7EA"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "845",
         "LA (name)": "East Sussex",
         "EstablishmentNumber": "2130",
@@ -19494,7 +19494,7 @@
             "County (name)": "County Durham",
             "Postcode": "DL1 4NL"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "841",
         "LA (name)": "Darlington",
         "EstablishmentNumber": "3309",
@@ -19645,7 +19645,7 @@
             "County (name)": "",
             "Postcode": "B23 7NB"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "330",
         "LA (name)": "Birmingham",
         "EstablishmentNumber": "2187",
@@ -19796,7 +19796,7 @@
             "County (name)": "Hertfordshire",
             "Postcode": "WD3 7HG"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "919",
         "LA (name)": "Hertfordshire",
         "EstablishmentNumber": "3398",
@@ -19947,7 +19947,7 @@
             "County (name)": "Tyne and Wear",
             "Postcode": "NE9 7HX"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "390",
         "LA (name)": "Gateshead",
         "EstablishmentNumber": "3322",
@@ -20098,7 +20098,7 @@
             "County (name)": "",
             "Postcode": "E15 1HD"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "316",
         "LA (name)": "Newham",
         "EstablishmentNumber": "3510",
@@ -20249,7 +20249,7 @@
             "County (name)": "Essex",
             "Postcode": "IG9 6DS"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "2973",
@@ -20400,7 +20400,7 @@
             "County (name)": "Kent",
             "Postcode": "ME10 3QN"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "886",
         "LA (name)": "Kent",
         "EstablishmentNumber": "2126",
@@ -20551,7 +20551,7 @@
             "County (name)": "County Durham",
             "Postcode": "DH2 1QX"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "840",
         "LA (name)": "County Durham",
         "EstablishmentNumber": "3346",
@@ -20702,7 +20702,7 @@
             "County (name)": "County Durham",
             "Postcode": "SR8 1D"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "840",
         "LA (name)": "County Durham",
         "EstablishmentNumber": "4693",
@@ -20853,7 +20853,7 @@
             "County (name)": "Buckinghamshire",
             "Postcode": "SL9 8SB"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "825",
         "LA (name)": "Buckinghamshire",
         "EstablishmentNumber": "3371",
@@ -21004,7 +21004,7 @@
             "County (name)": "Essex",
             "Postcode": "IG7 6NN"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "7022",
@@ -21155,7 +21155,7 @@
             "County (name)": "Tyne and Wear",
             "Postcode": "NE31 2BP"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "393",
         "LA (name)": "South Tyneside",
         "EstablishmentNumber": "3313",
@@ -21306,7 +21306,7 @@
             "County (name)": "Tyne and Wear",
             "Postcode": "SR5 4JW"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "394",
         "LA (name)": "Sunderland",
         "EstablishmentNumber": "3316",
@@ -21457,7 +21457,7 @@
             "County (name)": "Tyne and Wear",
             "Postcode": "NE28 8EN"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "392",
         "LA (name)": "North Tyneside",
         "EstablishmentNumber": "3320",
@@ -21608,7 +21608,7 @@
             "County (name)": "Tyne and Wear",
             "Postcode": "NE5 1DN"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "391",
         "LA (name)": "Newcastle upon Tyne",
         "EstablishmentNumber": "3477",
@@ -21759,7 +21759,7 @@
             "County (name)": "West Yorkshire",
             "Postcode": "BD20 6LH"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "380",
         "LA (name)": "Bradford",
         "EstablishmentNumber": "4094",
@@ -21910,7 +21910,7 @@
             "County (name)": "Buckinghamshire",
             "Postcode": "HP11 1PW"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "825",
         "LA (name)": "Buckinghamshire",
         "EstablishmentNumber": "4701",
@@ -22061,7 +22061,7 @@
             "County (name)": "Essex",
             "Postcode": "CO7 7YQ"
         },
-        "coordinates": [],
+        "Geolocation": [],
         "LA (code)": "881",
         "LA (name)": "Essex",
         "EstablishmentNumber": "5220",
