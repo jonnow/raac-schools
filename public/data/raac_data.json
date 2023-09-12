@@ -1,0 +1,3971 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Myatt Garden Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "http://www.myattgarden.lewisham.sch.uk/",
+            "URN": "100713",
+            "LAESTAB": "2092869",
+            "Address": {
+                "Street": "Rokeby Road",
+                "Locality": "Brockley",
+                "Address3": "",
+                "Town": "London",
+                "County (name)": "",
+                "Postcode": "SE4 1DF"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.0318388,
+                51.4699928
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Seven Mills Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "www.sevenmills.towerhamlets.sch.uk/",
+            "URN": "100931",
+            "LAESTAB": "2112857",
+            "Address": {
+                "Street": "Malabar Street",
+                "Locality": "Isle of Dogs",
+                "Address3": "",
+                "Town": "London",
+                "County (name)": "",
+                "Postcode": "E14 8LY"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.0240979,
+                51.4981633
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "The Ellen Wilkinson School for Girls",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Foundation school",
+            "Setting Website": "http://www.ellenwilkinson.ealing.sch.uk",
+            "URN": "101941",
+            "LAESTAB": "3075402",
+            "Address": {
+                "Street": "Queen's Drive",
+                "Locality": "Acton",
+                "Address3": "",
+                "Town": "London",
+                "County (name)": "",
+                "Postcode": "W3 0HW"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.2867368,
+                51.518004
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Ignatius College",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Voluntary aided school",
+            "Setting Website": "http://www.st-ignatius.enfield.sch.uk",
+            "URN": "102058",
+            "LAESTAB": "3085403",
+            "Address": {
+                "Street": "Turkey Street",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Enfield",
+                "County (name)": "",
+                "Postcode": "EN1 4NP"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.0558702,
+                51.6729079
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Welbourne Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "www.welbourne.haringey.sch.uk/",
+            "URN": "102124",
+            "LAESTAB": "3092062",
+            "Address": {
+                "Street": "Stainby Road",
+                "Locality": "Tottenham",
+                "Address3": "",
+                "Town": "London",
+                "County (name)": "",
+                "Postcode": "N15 4EA"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.0660923,
+                51.5884211
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St John Vianney RC Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Voluntary aided school",
+            "Setting Website": "www.st-johnvianney.haringey.sch.uk",
+            "URN": "102152",
+            "LAESTAB": "3093510",
+            "Address": {
+                "Street": "Stanley Road",
+                "Locality": "Tottenham",
+                "Address3": "",
+                "Town": "London",
+                "County (name)": "",
+                "Postcode": "N15 3HD"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.0969987,
+                51.5856716
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Hornsey School for Girls",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Community school",
+            "Setting Website": "http://www.hsg.haringey.sch.uk/",
+            "URN": "102153",
+            "LAESTAB": "3094029",
+            "Address": {
+                "Street": "Inderwick Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "London",
+                "County (name)": "",
+                "Postcode": "N8 9JF"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.1148965,
+                51.5818692
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Brandhall Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "www.brandhall.sandwell.sch.uk/",
+            "URN": "103976",
+            "LAESTAB": "3332171",
+            "Address": {
+                "Street": "Brennand Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Oldbury",
+                "County (name)": "West Midlands",
+                "Postcode": "B68 0SH"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.0043518,
+                52.4721829
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St William of York Catholic Primary School",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Voluntary aided school",
+            "Setting Website": "www.st-williams.bolton.sch.uk",
+            "URN": "105226",
+            "LAESTAB": "3503331",
+            "Address": {
+                "Street": "Nugent Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Bolton",
+                "County (name)": "Lancashire",
+                "Postcode": "BL3 3DE"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.4334609,
+                53.5620588
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Andrew's CofE Primary School, Over Hulton",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Voluntary aided school",
+            "Setting Website": "www.standrewsbolton.co.uk",
+            "URN": "105236",
+            "LAESTAB": "3503348",
+            "Address": {
+                "Street": "Crescent Avenue",
+                "Locality": "Over Hulton",
+                "Address3": "",
+                "Town": "Bolton",
+                "County (name)": "Lancashire",
+                "Postcode": "BL5 1EN"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.468595,
+                53.5458288
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "All Saints C of E Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Voluntary aided school",
+            "Setting Website": "www.allsaintsnh-pri.manchester.sch.uk",
+            "URN": "105505",
+            "LAESTAB": "3523301",
+            "Address": {
+                "Street": "Culcheth Lane",
+                "Locality": "Newton Heath",
+                "Address3": "",
+                "Town": "Manchester",
+                "County (name)": "",
+                "Postcode": "M40 1LS"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.1769265,
+                53.499078
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Abbey Lane Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "www.abbeylaneprimaryschool.com",
+            "URN": "106982",
+            "LAESTAB": "3732001",
+            "Address": {
+                "Street": "Abbey Lane",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Sheffield",
+                "County (name)": "South Yorkshire",
+                "Postcode": "S8 0BN"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.4850174,
+                53.3386402
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Pippins School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Foundation school",
+            "Setting Website": "www.pippins.slough.sch.uk/",
+            "URN": "110095",
+            "LAESTAB": "8715207",
+            "Address": {
+                "Street": "Raymond Close",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Colnbrook",
+                "County (name)": "Berkshire",
+                "Postcode": "SL3 0PR"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.5100678,
+                51.4810021
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Stanway Fiveways Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "www.stanwayfiveways.essex.sch.uk",
+            "URN": "114764",
+            "LAESTAB": "8812081",
+            "Address": {
+                "Street": "Winstree Road",
+                "Locality": "Stanway",
+                "Address3": "",
+                "Town": "Colchester",
+                "County (name)": "Essex",
+                "Postcode": "CO3 0QG"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.8425648,
+                51.8803597
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Baynards Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "www.baynards.essex.sch.uk",
+            "URN": "114767",
+            "LAESTAB": "8812088",
+            "Address": {
+                "Street": "Townsend Road",
+                "Locality": "Tiptree",
+                "Address3": "",
+                "Town": "Colchester",
+                "County (name)": "Essex",
+                "Postcode": "CO5 0ND"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.7407136,
+                51.8201636
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Great Leighs Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "www.greatleighs.essex.sch.uk",
+            "URN": "114852",
+            "LAESTAB": "8812450",
+            "Address": {
+                "Street": "Aragon Road",
+                "Locality": "Great Leighs",
+                "Address3": "",
+                "Town": "Chelmsford",
+                "County (name)": "Essex",
+                "Postcode": "CM3 1RP"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.5103035,
+                51.8270356
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Henham and Ugley Primary and Nursery School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "http://www.henhamugley.essex.sch.uk",
+            "URN": "114975",
+            "LAESTAB": "8812740",
+            "Address": {
+                "Street": "School Lane",
+                "Locality": "Henham",
+                "Address3": "",
+                "Town": "Bishop's Stortford",
+                "County (name)": "Hertfordshire",
+                "Postcode": "CM22 6BP"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.2495934,
+                51.9293063
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Bentfield Primary School and Nursery",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "www.bentfieldprimaryschool.co.uk",
+            "URN": "114978",
+            "LAESTAB": "8812747",
+            "Address": {
+                "Street": "Rainsford Road",
+                "Locality": "Stansted Mountfitchet",
+                "Address3": "",
+                "Town": "Stansted",
+                "County (name)": "Essex",
+                "Postcode": "CM24 8DX"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.2007195,
+                51.9083201
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "White Court School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "http://www.whitecourtschool.co.uk",
+            "URN": "114988",
+            "LAESTAB": "8812767",
+            "Address": {
+                "Street": "Ennerdale Avenue",
+                "Locality": "Great Notley",
+                "Address3": "",
+                "Town": "Braintree",
+                "County (name)": "Essex",
+                "Postcode": "CM77 7UE"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.5279143,
+                51.8584851
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Beehive Lane Community Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "www.beehivelane.essex.sch.uk/",
+            "URN": "114996",
+            "LAESTAB": "8812789",
+            "Address": {
+                "Street": "Beehive Lane",
+                "Locality": "Great Baddow",
+                "Address3": "",
+                "Town": "Chelmsford",
+                "County (name)": "Essex",
+                "Postcode": "CM2 9SR"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.4811793,
+                51.7122261
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Eversley Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "http://www.eversley.essex.sch.uk/",
+            "URN": "114999",
+            "LAESTAB": "8812798",
+            "Address": {
+                "Street": "Crest Avenue",
+                "Locality": "Pitsea",
+                "Address3": "",
+                "Town": "Basildon",
+                "County (name)": "Essex",
+                "Postcode": "SS13 2EF"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.516163,
+                51.5716347
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Holy Trinity CofE Primary School, Eight Ash Green and Aldham",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Voluntary controlled school",
+            "Setting Website": "www.holytrinityeightashgreen.co.uk/",
+            "URN": "115075",
+            "LAESTAB": "8813021",
+            "Address": {
+                "Street": "Fiddlers Folley",
+                "Locality": "Fordham Heath",
+                "Address3": "",
+                "Town": "Colchester",
+                "County (name)": "Essex",
+                "Postcode": "CO3 9UE"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.8118237,
+                51.9023597
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Lawrence Church of England Primary School, Rowhedge",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Voluntary controlled school",
+            "Setting Website": "http://www.st-lawrence-pri.essex.sch.uk/",
+            "URN": "115077",
+            "LAESTAB": "8813023",
+            "Address": {
+                "Street": "Rectory Road",
+                "Locality": "Rowhedge",
+                "Address3": "",
+                "Town": "Colchester",
+                "County (name)": "Essex",
+                "Postcode": "CO5 7HR"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.9428878,
+                51.8562522
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Great Tey Church of England Voluntary Controlled Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Voluntary controlled school",
+            "Setting Website": "www.greatteyprimary.org.uk/",
+            "URN": "115079",
+            "LAESTAB": "8813025",
+            "Address": {
+                "Street": "Chrismund Way",
+                "Locality": "Great Tey",
+                "Address3": "",
+                "Town": "Colchester",
+                "County (name)": "Essex",
+                "Postcode": "CO6 1AZ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.747549,
+                51.901414
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Hatfield Peverel St Andrew's Junior School",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Foundation school",
+            "Setting Website": "www.hatfieldpeverelstandrews.co.uk",
+            "URN": "115102",
+            "LAESTAB": "8815279",
+            "Address": {
+                "Street": "Church Road",
+                "Locality": "Hatfield Peverel",
+                "Address3": "",
+                "Town": "Chelmsford",
+                "County (name)": "Essex",
+                "Postcode": "CM3 2JX"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.6038021,
+                51.7719774
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Broomfield Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Foundation school",
+            "Setting Website": "http://www.broomfield.essex.sch.uk",
+            "URN": "115292",
+            "LAESTAB": "8815252",
+            "Address": {
+                "Street": "School Lane",
+                "Locality": "Broomfield",
+                "Address3": "",
+                "Town": "Chelmsford",
+                "County (name)": "Essex",
+                "Postcode": "CM1 7DN"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.4701307,
+                51.7633969
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Mersea Island School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Foundation school",
+            "Setting Website": "www.merseaschool.org",
+            "URN": "115311",
+            "LAESTAB": "8815271",
+            "Address": {
+                "Street": "Barfield Road",
+                "Locality": "West Mersea",
+                "Address3": "",
+                "Town": "Colchester",
+                "County (name)": "Essex",
+                "Postcode": "CO5 8QX"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.9180918,
+                51.7769595
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Cranbourne",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Community school",
+            "Setting Website": "http://www.cranbourne.hants.sch.uk/",
+            "URN": "116432",
+            "LAESTAB": "8504164",
+            "Address": {
+                "Street": "Wessex Close",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Basingstoke",
+                "County (name)": "Hampshire",
+                "Postcode": "RG21 3NP"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.09932,
+                51.2556258
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Markyate Village School and Nursery",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "http://www.markyate.herts.sch.uk/",
+            "URN": "117127",
+            "LAESTAB": "9192074",
+            "Address": {
+                "Street": "Cavendish Road",
+                "Locality": "Markyate",
+                "Address3": "",
+                "Town": "St Albans",
+                "County (name)": "Hertfordshire",
+                "Postcode": "AL3 8PT"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.4671772,
+                51.8379136
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Widford School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "http://www.widford.herts.sch.uk",
+            "URN": "117176",
+            "LAESTAB": "9192145",
+            "Address": {
+                "Street": "Ware Road",
+                "Locality": "Widford",
+                "Address3": "",
+                "Town": "Ware",
+                "County (name)": "Hertfordshire",
+                "Postcode": "SG12 8RE"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0573464,
+                51.8232439
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Palmarsh Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "http://www.palmarsh.kent.sch.uk",
+            "URN": "118490",
+            "LAESTAB": "8862524",
+            "Address": {
+                "Street": "St George's Place",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Hythe",
+                "County (name)": "Kent",
+                "Postcode": "CT21 6NE"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.0498402,
+                51.0629139
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Birchington Church of England Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Voluntary controlled school",
+            "Setting Website": "www.birchington-primary.com/",
+            "URN": "118693",
+            "LAESTAB": "8863178",
+            "Address": {
+                "Street": "Park Lane",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Birchington",
+                "County (name)": "Kent",
+                "Postcode": "CT7 0AS"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.3085075,
+                51.3703239
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St James' Church of England Voluntary Aided Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Voluntary aided school",
+            "Setting Website": "https://st-james.kent.sch.uk",
+            "URN": "118725",
+            "LAESTAB": "8863322",
+            "Address": {
+                "Street": "Sandrock Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Tunbridge Wells",
+                "County (name)": "Kent",
+                "Postcode": "TN2 3PR"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.2916118,
+                51.1602836
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Bartholomew's Catholic Primary School, Swanley",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Voluntary aided school",
+            "Setting Website": "http://www.st-bartholomewsrc-pri.kent.sch.uk/",
+            "URN": "118860",
+            "LAESTAB": "8865214",
+            "Address": {
+                "Street": "Sycamore Drive",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Swanley",
+                "County (name)": "Kent",
+                "Postcode": "BR8 7AY"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.1743215,
+                51.3987494
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Bispham Endowed Church of England Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Voluntary controlled school",
+            "Setting Website": "http://www.bisphamendowed.co.uk",
+            "URN": "119411",
+            "LAESTAB": "8903192",
+            "Address": {
+                "Street": "Bispham Road",
+                "Locality": "Bispham",
+                "Address3": "Bispham Rd",
+                "Town": "Blackpool",
+                "County (name)": "Lancashire",
+                "Postcode": "FY2 0HH"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3.0394572,
+                53.8489779
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Our Lady's Catholic High School",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Voluntary aided school",
+            "Setting Website": "http://www.olchs.lancs.sch.uk/",
+            "URN": "119779",
+            "LAESTAB": "8884606",
+            "Address": {
+                "Street": "St Anthony's Drive",
+                "Locality": "Fulwood",
+                "Address3": "",
+                "Town": "Preston",
+                "County (name)": "Lancashire",
+                "Postcode": "PR2 3SQ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.7255986,
+                53.7815585
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Mayflower Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "https://www.mayflower.leicester.sch.uk/",
+            "URN": "120018",
+            "LAESTAB": "8562250",
+            "Address": {
+                "Street": "Evington Drive",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Leicester",
+                "County (name)": "Leicestershire",
+                "Postcode": "LE5 5PH"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.09103,
+                52.6258531
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Parks Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "www.parksprimary.org/",
+            "URN": "120088",
+            "LAESTAB": "8562364",
+            "Address": {
+                "Street": "New Parks Crescent",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Leicester",
+                "County (name)": "Leicestershire",
+                "Postcode": "LE3 9NZ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.1663834,
+                52.6456997
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Donnington Wood Infant School and Nursery Centre",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "www.donningtonwoodinfants.co.uk",
+            "URN": "123364",
+            "LAESTAB": "8942041",
+            "Address": {
+                "Street": "Baldwin Webb Avenue",
+                "Locality": "Donnington",
+                "Address3": "",
+                "Town": "Telford",
+                "County (name)": "Shropshire",
+                "Postcode": "TF2 8EP"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.4376647,
+                52.7189798
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Thurston Community College",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Community school",
+            "Setting Website": "http://www.thurstoncollege.org/",
+            "URN": "124802",
+            "LAESTAB": "9354024",
+            "Address": {
+                "Street": "Norton Road",
+                "Locality": "Thurston",
+                "Address3": "",
+                "Town": "Bury St Edmunds",
+                "County (name)": "Suffolk",
+                "Postcode": "IP31 3PB"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.8095563,
+                52.2546941
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Shawfield Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "www.shawfield.surrey.sch.uk",
+            "URN": "125029",
+            "LAESTAB": "9362361",
+            "Address": {
+                "Street": "Winchester Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Ash",
+                "County (name)": "Surrey",
+                "Postcode": "GU12 6SX"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.7221389,
+                51.2549293
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Paul's Catholic Primary School, Thames Ditton",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Voluntary aided school",
+            "Setting Website": "www.stpauls-thamesditton.surrey.sch.uk/",
+            "URN": "125212",
+            "LAESTAB": "9363446",
+            "Address": {
+                "Street": "Hampton Court Way",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Thames Ditton",
+                "County (name)": "Surrey",
+                "Postcode": "KT7 0LP"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.3468697,
+                51.3880976
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Petroc",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "16 plus",
+            "Type of Setting": "Further education",
+            "Setting Website": "http://www.petroc.ac.uk/",
+            "URN": "130646",
+            "LAESTAB": "8788001",
+            "Address": {
+                "Street": "Old Sticklepath Hill",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Barnstaple",
+                "County (name)": "Devon",
+                "Postcode": "EX31 2BQ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -4.0694964,
+                51.0724491
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Park View School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Community school",
+            "Setting Website": "www.parkview.haringey.sch.uk",
+            "URN": "131757",
+            "LAESTAB": "3094037",
+            "Address": {
+                "Street": "252 West Green Road",
+                "Locality": "Tottenham",
+                "Address3": "",
+                "Town": "London",
+                "County (name)": "",
+                "Postcode": "N15 3QR"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.0905403,
+                51.5871942
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Springfield Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "www.springfield-pri.essex.sch.uk",
+            "URN": "134065",
+            "LAESTAB": "8812020",
+            "Address": {
+                "Street": "Forsythia Close",
+                "Locality": "Springfield",
+                "Address3": "",
+                "Town": "Chelmsford",
+                "County (name)": "Essex",
+                "Postcode": "CM1 6XW"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.4953866,
+                51.7535916
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Outwoods Primary School",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Community school",
+            "Setting Website": "www.ops.warwickshire.sch.uk",
+            "URN": "136061",
+            "LAESTAB": "9372083",
+            "Address": {
+                "Street": "Southlands",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Atherstone",
+                "County (name)": "Warwickshire",
+                "Postcode": "CV9 1EH"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.5421084,
+                52.5728064
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Denbigh School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.denbigh.net",
+            "URN": "136468",
+            "LAESTAB": "8265410",
+            "Address": {
+                "Street": "Burchard Crescent",
+                "Locality": "Shenley Church End",
+                "Address3": "",
+                "Town": "Milton Keynes",
+                "County (name)": "Buckinghamshire",
+                "Postcode": "MK5 6EX"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.7901485,
+                52.0250754
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Sale Grammar School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.salegrammar.co.uk/",
+            "URN": "136498",
+            "LAESTAB": "3584029",
+            "Address": {
+                "Street": "Marsland Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Sale",
+                "County (name)": "Cheshire",
+                "Postcode": "M33 3NH"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.3150284,
+                53.4181292
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "The Appleton School",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.theappletonschool.org",
+            "URN": "136579",
+            "LAESTAB": "8815418",
+            "Address": {
+                "Street": "Croft Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Benfleet",
+                "County (name)": "Essex",
+                "Postcode": "SS7 5RN"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.5529809,
+                51.5634559
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "King Ethelbert School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.kingethelbert.com/",
+            "URN": "136584",
+            "LAESTAB": "8864120",
+            "Address": {
+                "Street": "Canterbury Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Birchington",
+                "County (name)": "Kent",
+                "Postcode": "CT7 9BL"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.3222032,
+                51.3770802
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Holcombe Grammar School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.holcombegrammar.org.uk",
+            "URN": "136594",
+            "LAESTAB": "8874068",
+            "Address": {
+                "Street": "Holcombe",
+                "Locality": "Maidstone Road",
+                "Address3": "",
+                "Town": "Chatham",
+                "County (name)": "Kent",
+                "Postcode": "ME4 6JB"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.5195283,
+                51.3662652
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "The Coopers' Company and Coborn School",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.cooperscoborn.org.uk/",
+            "URN": "136600",
+            "LAESTAB": "3115402",
+            "Address": {
+                "Street": "St Mary's Lane",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Upminster",
+                "County (name)": "Essex",
+                "Postcode": "RM14 3HS"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.2600369,
+                51.5561645
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Wood Green Academy",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.woodgreenacademy.co.uk",
+            "URN": "136616",
+            "LAESTAB": "3334024",
+            "Address": {
+                "Street": "Wood Green Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Wednesbury",
+                "County (name)": "West Midlands",
+                "Postcode": "WS10 9QU"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.0036835,
+                52.5636287
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "The Honywood Community Science School",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.honywoodschool.com",
+            "URN": "136729",
+            "LAESTAB": "8814400",
+            "Address": {
+                "Street": "Westfield Drive",
+                "Locality": "Coggeshall",
+                "Address3": "",
+                "Town": "Colchester",
+                "County (name)": "Essex",
+                "Postcode": "CO6 1PZ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.6891863,
+                51.8784265
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "The Billericay School",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.billericayschool.com",
+            "URN": "136861",
+            "LAESTAB": "8815468",
+            "Address": {
+                "Street": "School Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Billericay",
+                "County (name)": "Essex",
+                "Postcode": "CM12 9LH"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.4196811,
+                51.6182341
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Aston Manor Academy",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.astonmanor.bham.sch.uk/",
+            "URN": "136882",
+            "LAESTAB": "3304220",
+            "Address": {
+                "Street": "Phillips Street",
+                "Locality": "Aston",
+                "Address3": "",
+                "Town": "Birmingham",
+                "County (name)": "West Midlands",
+                "Postcode": "B6 4PZ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.8897496,
+                52.4961019
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Hadleigh High School",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.hadleighhigh.net/",
+            "URN": "136918",
+            "LAESTAB": "9354017",
+            "Address": {
+                "Street": "Highlands Road",
+                "Locality": "Hadleigh",
+                "Address3": "",
+                "Town": "Ipswich",
+                "County (name)": "Suffolk",
+                "Postcode": "IP7 5HU"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.9652334,
+                52.0424119
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "The Palmer Catholic Academy",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.tpc.academy",
+            "URN": "137088",
+            "LAESTAB": "3174800",
+            "Address": {
+                "Street": "Aldborough Road South",
+                "Locality": "Seven Kings",
+                "Address3": "",
+                "Town": "Ilford",
+                "County (name)": "Essex",
+                "Postcode": "IG3 8EU"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0925718,
+                51.5647202
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "The London Oratory School",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.london-oratory.org",
+            "URN": "137157",
+            "LAESTAB": "2055400",
+            "Address": {
+                "Street": "Seagrave Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "London",
+                "County (name)": "",
+                "Postcode": "SW6 1RX"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.193827,
+                51.481926
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Tendring Technology College",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://tendringtechnologycollege.org/",
+            "URN": "137188",
+            "LAESTAB": "8815432",
+            "Address": {
+                "Street": "Rochford Way",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Frinton-on-Sea",
+                "County (name)": "Essex",
+                "Postcode": "CO13 0AZ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.2515355,
+                51.8429399
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "East Bergholt High School",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.ebhigh.org.uk",
+            "URN": "137218",
+            "LAESTAB": "9354097",
+            "Address": {
+                "Street": "Heath Road",
+                "Locality": "East Bergholt",
+                "Address3": "",
+                "Town": "Colchester",
+                "County (name)": "",
+                "Postcode": "CO7 6RJ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.0266152,
+                51.9785162
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Hounsdown School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.hounsdown.hants.sch.uk/",
+            "URN": "137229",
+            "LAESTAB": "8504168",
+            "Address": {
+                "Street": "Jacobs Gutter Lane",
+                "Locality": "Totton",
+                "Address3": "",
+                "Town": "Southampton",
+                "County (name)": "Hampshire",
+                "Postcode": "SO40 9FT"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.4925027,
+                50.9046554
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Thurstable School Sports College and Sixth Form Centre",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.thurstable.co.uk",
+            "URN": "137241",
+            "LAESTAB": "8815413",
+            "Address": {
+                "Street": "Maypole Road",
+                "Locality": "Tiptree",
+                "Address3": "",
+                "Town": "Colchester",
+                "County (name)": "Essex",
+                "Postcode": "CO5 0EW"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.7403986,
+                51.7996745
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Corpus Christi Catholic Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.corpuschristischool.co.uk",
+            "URN": "137295",
+            "LAESTAB": "2085202",
+            "Address": {
+                "Street": "Trent Road",
+                "Locality": "Lambeth",
+                "Address3": "Corpus Christi Primary School",
+                "Town": "London",
+                "County (name)": "",
+                "Postcode": "SW2 5BL"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.1201222,
+                51.4561815
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Waddesdon Church of England School",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.waddesdonschool.com",
+            "URN": "137355",
+            "LAESTAB": "8255408",
+            "Address": {
+                "Street": "Baker Street",
+                "Locality": "Waddesdon",
+                "Address3": "",
+                "Town": "Aylesbury",
+                "County (name)": "Buckinghamshire",
+                "Postcode": "HP18 0LQ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.92037,
+                51.8427912
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Wallingford School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.wallingfordschool.com/",
+            "URN": "137357",
+            "LAESTAB": "9314140",
+            "Address": {
+                "Street": "St George's Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Wallingford",
+                "County (name)": "Oxfordshire",
+                "Postcode": "OX10 8HH"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.1276867,
+                51.6049595
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Woodkirk Academy",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.woodkirkacademy.co.uk/",
+            "URN": "137383",
+            "LAESTAB": "3834105",
+            "Address": {
+                "Street": "Rein Road",
+                "Locality": "Tingley",
+                "Address3": "",
+                "Town": "Wakefield",
+                "County (name)": "West Yorkshire",
+                "Postcode": "WF3 1JQ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.5862353,
+                53.7296619
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Batley Girls High School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.batleygirls.co.uk/",
+            "URN": "137424",
+            "LAESTAB": "3824048",
+            "Address": {
+                "Street": "Windmill Lane",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Batley",
+                "County (name)": "West Yorkshire",
+                "Postcode": "WF17 0LD"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.6444858,
+                53.7439332
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Clere's School",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.st-cleres.thurrock.sch.uk/",
+            "URN": "137456",
+            "LAESTAB": "8835440",
+            "Address": {
+                "Street": "Butts Lane",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Stanford-le-Hope",
+                "County (name)": "Essex",
+                "Postcode": "SS17 0NW"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.4195367,
+                51.5103082
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Sandbach School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Free schools",
+            "Setting Website": "http://sandbachschool.org/",
+            "URN": "137491",
+            "LAESTAB": "8956010",
+            "Address": {
+                "Street": "Crewe Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Sandbach",
+                "County (name)": "Cheshire",
+                "Postcode": "CW11 3NS"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.3707892,
+                53.1428674
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Carmel College",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://carmel.bhcet.org.uk/",
+            "URN": "137622",
+            "LAESTAB": "8414603",
+            "Address": {
+                "Street": "The Headlands",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Darlington",
+                "County (name)": "County Durham",
+                "Postcode": "DL3 8RW"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.5859167,
+                54.5241903
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Anglo European School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://aesessex.co.uk/",
+            "URN": "137727",
+            "LAESTAB": "8815442",
+            "Address": {
+                "Street": "Willow Green",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Ingatestone",
+                "County (name)": "Essex",
+                "Postcode": "CM4 0DJ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.3905853,
+                51.6614347
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Thomas More Catholic School, Blaydon",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.stthomasmore.org.uk/",
+            "URN": "137851",
+            "LAESTAB": "3904606",
+            "Address": {
+                "Street": "Croftdale Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Blaydon-on-Tyne",
+                "County (name)": "Tyne and Wear",
+                "Postcode": "NE21 4BQ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.7153564,
+                54.9660341
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "The Gilberd School",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.gilberd.com",
+            "URN": "137926",
+            "LAESTAB": "8815441",
+            "Address": {
+                "Street": "Brinkley Lane",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Colchester",
+                "County (name)": "Essex",
+                "Postcode": "CO4 9PU"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.9343173,
+                51.9204392
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "The Thomas Lord Audley School",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.tla.essex.sch.uk",
+            "URN": "137937",
+            "LAESTAB": "8814020",
+            "Address": {
+                "Street": "Monkwick Avenue",
+                "Locality": "Monkwick",
+                "Address3": "",
+                "Town": "Colchester",
+                "County (name)": "Essex",
+                "Postcode": "CO2 8NJ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.9029446,
+                51.8688563
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Helena School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.st-helena.essex.sch.uk",
+            "URN": "137944",
+            "LAESTAB": "8815448",
+            "Address": {
+                "Street": "Sheepen Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Colchester",
+                "County (name)": "Essex",
+                "Postcode": "CO3 3LE"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.8902366,
+                51.8958534
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "East Tilbury Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.easttilburyprimary.thurrock.sch.uk/",
+            "URN": "138065",
+            "LAESTAB": "8832824",
+            "Address": {
+                "Street": "Princess Margaret Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "East Tilbury",
+                "County (name)": "Essex",
+                "Postcode": "RM18 8SB"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.421017,
+                51.4789806
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Clacton County High School",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.countyhigh.org.uk/",
+            "URN": "138084",
+            "LAESTAB": "8815444",
+            "Address": {
+                "Street": "Walton Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Clacton-on-Sea",
+                "County (name)": "Essex",
+                "Postcode": "CO15 6DZ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.1608158,
+                51.7965756
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "White Hall Academy and Nursery",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy sponsor led",
+            "Setting Website": "http://www.whitehallacademy.co.uk/",
+            "URN": "138575",
+            "LAESTAB": "8812022",
+            "Address": {
+                "Street": "Melbourne Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Clacton-on-Sea",
+                "County (name)": "Essex",
+                "Postcode": "CO15 3SP"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.1466362,
+                51.8010398
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Altrincham College",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.altrinchamcollege.com/",
+            "URN": "138614",
+            "LAESTAB": "3584024",
+            "Address": {
+                "Street": "Green Lane",
+                "Locality": "Timperley",
+                "Address3": "",
+                "Town": "Altrincham",
+                "County (name)": "Cheshire",
+                "Postcode": "WA15 8QW"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.3240813,
+                53.3840472
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Cleeve Park School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.cleevepark-tkat.org",
+            "URN": "138686",
+            "LAESTAB": "3034030",
+            "Address": {
+                "Street": "Bexley Lane",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Sidcup",
+                "County (name)": "Kent",
+                "Postcode": "DA14 4JN"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.1196425,
+                51.4287991
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Joyce Frankland Academy, Newport",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.jfan.org.uk/",
+            "URN": "138734",
+            "LAESTAB": "8815436",
+            "Address": {
+                "Street": "Bury Water Lane",
+                "Locality": "Newport",
+                "Address3": "",
+                "Town": "Saffron Walden",
+                "County (name)": "Essex",
+                "Postcode": "CB11 3TR"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.2123664,
+                51.9874742
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Danetree Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.danetreeschool.org/",
+            "URN": "138764",
+            "LAESTAB": "9362092",
+            "Address": {
+                "Street": "Danetree Road",
+                "Locality": "West Ewell",
+                "Address3": "",
+                "Town": "Epsom",
+                "County (name)": "Surrey",
+                "Postcode": "KT19 9SE"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.2713575,
+                51.3569115
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "The Bromfords School",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.bromfords.essex.sch.uk/",
+            "URN": "139181",
+            "LAESTAB": "8815407",
+            "Address": {
+                "Street": "Grange Avenue",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Wickford",
+                "County (name)": "Essex",
+                "Postcode": "SS12 0LZ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.508388,
+                51.6049593
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Royal College Manchester (Seashell Trust)",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Not applicable",
+            "Type of Setting": "Special post 16 institution",
+            "Setting Website": "http://www.seashelltrust.org.uk/",
+            "URN": "139218",
+            "LAESTAB": "3567900",
+            "Address": {
+                "Street": "Stanley Road",
+                "Locality": "",
+                "Address3": "Cheadle Hulme",
+                "Town": "Cheadle",
+                "County (name)": "Cheshire",
+                "Postcode": "SK8 6RQ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.1959481,
+                53.368444
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "The Ramsey Academy, Halstead",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy sponsor led",
+            "Setting Website": "http://www.ramseyacademy.com/",
+            "URN": "139248",
+            "LAESTAB": "8814008",
+            "Address": {
+                "Street": "Colne Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Halstead",
+                "County (name)": "Essex",
+                "Postcode": "CO9 2HR"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.646512,
+                51.9468966
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Redhill School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.redhill.dudley.sch.uk/",
+            "URN": "139872",
+            "LAESTAB": "3324119",
+            "Address": {
+                "Street": "Junction Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Stourbridge",
+                "County (name)": "West Midlands",
+                "Postcode": "DY8 1JX"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.1396291,
+                52.4540836
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Ark Boulton Academy",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy sponsor led",
+            "Setting Website": "http://arkboulton.org/",
+            "URN": "140014",
+            "LAESTAB": "3304013",
+            "Address": {
+                "Street": "Golden Hillock Road",
+                "Locality": "Sparkhill",
+                "Address3": "",
+                "Town": "Birmingham",
+                "County (name)": "West Midlands",
+                "Postcode": "B11 2QG"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.8642506,
+                52.4500119
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Woodville Primary School",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.woodvilleprimaryschool.org.uk/",
+            "URN": "140447",
+            "LAESTAB": "8815213",
+            "Address": {
+                "Street": "Brent Avenue",
+                "Locality": "South Woodham Ferrers",
+                "Address3": "",
+                "Town": "Chelmsford",
+                "County (name)": "Essex",
+                "Postcode": "CM3 5SE"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.6093992,
+                51.6528064
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Holy Trinity Catholic Voluntary Academy",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.holytrinityacademy.co.uk",
+            "URN": "140727",
+            "LAESTAB": "8913766",
+            "Address": {
+                "Street": "Boundary Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Newark",
+                "County (name)": "Nottinghamshire",
+                "Postcode": "NG24 4AU"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.8173158,
+                53.070427
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Thomas Bullock Church of England Primary and Nursery Academy",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy sponsor led",
+            "Setting Website": "www.thomasbullock.dneat.org/",
+            "URN": "141192",
+            "LAESTAB": "9262068",
+            "Address": {
+                "Street": "Pound Green",
+                "Locality": "Shipdham",
+                "Address3": "",
+                "Town": "Thetford",
+                "County (name)": "Norfolk",
+                "Postcode": "IP25 7LF"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.9022819,
+                52.6283595
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Water Lane Primary Academy",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy sponsor led",
+            "Setting Website": "www.waterlaneprimary.co.uk/",
+            "URN": "141194",
+            "LAESTAB": "8812110",
+            "Address": {
+                "Street": "Broadley Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Harlow",
+                "County (name)": "Essex",
+                "Postcode": "CM19 5RD"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0713787,
+                51.7487002
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Katherine Semar Junior School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.katherinesemar.co.uk",
+            "URN": "141572",
+            "LAESTAB": "8812687",
+            "Address": {
+                "Street": "Ross Close",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Saffron Walden",
+                "County (name)": "Essex",
+                "Postcode": "CB11 4DU"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.2465614,
+                52.0092184
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Katherine Semar Infant School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.katherinesemar.co.uk",
+            "URN": "141574",
+            "LAESTAB": "8812717",
+            "Address": {
+                "Street": "Ross Close",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Saffron Walden",
+                "County (name)": "Essex",
+                "Postcode": "CB11 4DU"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.2470381,
+                52.0094251
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Mistley Norman Church of England Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy sponsor led",
+            "Setting Website": "www.mistleynormancofe.co.uk",
+            "URN": "141658",
+            "LAESTAB": "8812123",
+            "Address": {
+                "Street": "Remercie Road",
+                "Locality": "Mistley",
+                "Address3": "",
+                "Town": "Manningtree",
+                "County (name)": "Essex",
+                "Postcode": "CO11 1LS"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.0884812,
+                51.9420536
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Hatfield Heath Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.hatfieldheath.essex.sch.uk/",
+            "URN": "141714",
+            "LAESTAB": "8812520",
+            "Address": {
+                "Street": "Hatfield Heath",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Bishop's Stortford",
+                "County (name)": "Hertfordshire",
+                "Postcode": "CM22 7EA"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.2064361,
+                51.8134397
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Thomas More Catholic Comprehensive School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.stmcomprehensive.org/",
+            "URN": "141716",
+            "LAESTAB": "2034716",
+            "Address": {
+                "Street": "Footscray Road",
+                "Locality": "Eltham",
+                "Address3": "",
+                "Town": "London",
+                "County (name)": "",
+                "Postcode": "SE9 2SU"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0614781,
+                51.4481728
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Godinton Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.godinton.kent.sch.uk",
+            "URN": "141754",
+            "LAESTAB": "8862625",
+            "Address": {
+                "Street": "Lockholt Close",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Ashford",
+                "County (name)": "Kent",
+                "Postcode": "TN23 3JR"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.8439871,
+                51.1534522
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Francis Catholic Primary School, South Ascot",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.stfrancisprimary.org",
+            "URN": "141818",
+            "LAESTAB": "8683335",
+            "Address": {
+                "Street": "Coronation Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Ascot",
+                "County (name)": "Berkshire",
+                "Postcode": "SL5 9HG"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.6722322,
+                51.3974164
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "The FitzWimarc School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.fitzwimarc.com",
+            "URN": "141841",
+            "LAESTAB": "8815422",
+            "Address": {
+                "Street": "Hockley Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Rayleigh",
+                "County (name)": "Essex",
+                "Postcode": "SS6 8EB"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.6123931,
+                51.5904696
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Winter Gardens Academy",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy sponsor led",
+            "Setting Website": "www.wintergardensacademy.org",
+            "URN": "142000",
+            "LAESTAB": "8812129",
+            "Address": {
+                "Street": "Hilton Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Canvey Island",
+                "County (name)": "Essex",
+                "Postcode": "SS8 9QA"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                null,
+                null
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Cherry Tree Academy",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy sponsor led",
+            "Setting Website": "https://www.cherrytree.essex.sch.uk/",
+            "URN": "142002",
+            "LAESTAB": "8812132",
+            "Address": {
+                "Street": "Holt Drive",
+                "Locality": "Mersea Road",
+                "Address3": "",
+                "Town": "Colchester",
+                "County (name)": "Essex",
+                "Postcode": "CO2 0BG"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.9096117,
+                51.8564599
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Prince Albert Junior and Infant School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.princealbert.bham.sch.uk",
+            "URN": "142230",
+            "LAESTAB": "3302003",
+            "Address": {
+                "Street": "Albert Road",
+                "Locality": "Aston",
+                "Address3": "",
+                "Town": "Birmingham",
+                "County (name)": "West Midlands",
+                "Postcode": "B6 5NH"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.8932021,
+                52.5042109
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Cockermouth School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.cockermouthschool.org/",
+            "URN": "142306",
+            "LAESTAB": "9424103",
+            "Address": {
+                "Street": "Castlegate Drive",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Cockermouth",
+                "County (name)": "Cumbria",
+                "Postcode": "CA13 9HF"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -3.3509718,
+                54.667465
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Northampton International Academy",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "All-through",
+            "Type of Setting": "Free schools",
+            "Setting Website": "",
+            "URN": "142485",
+            "LAESTAB": "9414018",
+            "Address": {
+                "Street": "Barrack Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Northampton",
+                "County (name)": "Northamptonshire",
+                "Postcode": "NN1 1AA"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.8983137,
+                52.2478479
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Gregory's Catholic Science College",
+            "Setting mitigation at w/c 04/09/2023": "Fully remote learning",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.stgregorys.harrow.sch.uk",
+            "URN": "142560",
+            "LAESTAB": "3045406",
+            "Address": {
+                "Street": "Donnington Road",
+                "Locality": "Kenton",
+                "Address3": "",
+                "Town": "Harrow",
+                "County (name)": "",
+                "Postcode": "HA3 0NB"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.3047684,
+                51.5835597
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Bishop Douglass School Finchley",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.bishopdouglass.barnet.sch.uk/",
+            "URN": "143082",
+            "LAESTAB": "3025408",
+            "Address": {
+                "Street": "Hamilton Road",
+                "Locality": "East Finchley",
+                "Address3": "",
+                "Town": "London",
+                "County (name)": "",
+                "Postcode": "N2 0SQ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.1782943,
+                51.5940677
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Lubbins Park Primary Academy",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy sponsor led",
+            "Setting Website": "https://www.lubbinspark.essex.sch.uk/",
+            "URN": "143123",
+            "LAESTAB": "8812143",
+            "Address": {
+                "Street": "May Avenue",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Canvey Island",
+                "County (name)": "Essex",
+                "Postcode": "SS8 7HF"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.5989859,
+                51.5136841
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Scalby School",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "https://www.scalby.coastandvale.academy/",
+            "URN": "143288",
+            "LAESTAB": "8154073",
+            "Address": {
+                "Street": "Fieldstead Crescent",
+                "Locality": "Newby",
+                "Address3": "",
+                "Town": "Scarborough",
+                "County (name)": "North Yorkshire",
+                "Postcode": "YO12 6TH"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.4347423,
+                54.2937959
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Arthur Bugler Primary School",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.arthurbugler.com",
+            "URN": "143378",
+            "LAESTAB": "8832439",
+            "Address": {
+                "Street": "St James Avenue East",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Stanford-le-Hope",
+                "County (name)": "Essex",
+                "Postcode": "SS17 7BQ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.4408913,
+                51.5237066
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Leonard's Catholic School, Durham",
+            "Setting mitigation at w/c 04/09/2023": "Fully remote learning",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.st-leonards.durham.sch.uk/",
+            "URN": "143583",
+            "LAESTAB": "8404691",
+            "Address": {
+                "Street": "North End",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Durham",
+                "County (name)": "",
+                "Postcode": "DH1 4NG"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.5824807,
+                54.7715015
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Canon Slade School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.canon-slade.bolton.sch.uk",
+            "URN": "144044",
+            "LAESTAB": "3505401",
+            "Address": {
+                "Street": "Bradshaw Brow",
+                "Locality": "Bradshaw",
+                "Address3": "",
+                "Town": "Bolton",
+                "County (name)": "Lancashire",
+                "Postcode": "BL2 3BP"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.4091037,
+                53.6021428
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Claydon High School",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.claydonhigh.co.uk",
+            "URN": "144214",
+            "LAESTAB": "9354096",
+            "Address": {
+                "Street": "Church Lane",
+                "Locality": "Claydon",
+                "Address3": "",
+                "Town": "Ipswich",
+                "County (name)": "Suffolk",
+                "Postcode": "IP6 0EG"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.1155251,
+                52.1065996
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Harlowbury Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.harlowbury.essex.sch.uk/",
+            "URN": "144664",
+            "LAESTAB": "8812983",
+            "Address": {
+                "Street": "Watlington Road",
+                "Locality": "Old Harlow",
+                "Address3": "",
+                "Town": "Harlow",
+                "County (name)": "Essex",
+                "Postcode": "CM17 0DX"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.1340661,
+                51.7840438
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Kingsdown School",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Not applicable",
+            "Type of Setting": "Academy special converter",
+            "Setting Website": "www.kingsdownschool.org",
+            "URN": "144692",
+            "LAESTAB": "8827001",
+            "Address": {
+                "Street": "Snakes Lane",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Southend-on-Sea",
+                "County (name)": "Essex",
+                "Postcode": "SS2 6XT"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.693218,
+                51.5678802
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Katherines Primary Academy and Nursery",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy sponsor led",
+            "Setting Website": "www.katherines.netacademies.net",
+            "URN": "144823",
+            "LAESTAB": "8812162",
+            "Address": {
+                "Street": "Brookside",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Harlow",
+                "County (name)": "Essex",
+                "Postcode": "CM19 5NJ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0718397,
+                51.7575047
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Sir Thomas Boughey Academy",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.stb.academy",
+            "URN": "145047",
+            "LAESTAB": "8604060",
+            "Address": {
+                "Street": "Station Road",
+                "Locality": "Halmer End",
+                "Address3": "",
+                "Town": "Stoke-on-Trent",
+                "County (name)": "Staffordshire",
+                "Postcode": "ST7 8AP"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -2.3046113,
+                53.0399775
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Harwich and Dovercourt High School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy sponsor led",
+            "Setting Website": "www.hdhs.org.uk",
+            "URN": "145061",
+            "LAESTAB": "8814024",
+            "Address": {
+                "Street": "Hall Lane",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Harwich",
+                "County (name)": "Essex",
+                "Postcode": "CO12 3TG"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                1.2618179,
+                51.9296227
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Ferryhill School",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.ferryhill.school",
+            "URN": "145253",
+            "LAESTAB": "8404150",
+            "Address": {
+                "Street": "Merrington Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Ferryhill",
+                "County (name)": "County Durham",
+                "Postcode": "DL17 8RW"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.5754827,
+                54.6841453
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Wyburns Primary School",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.wyburns.org",
+            "URN": "145349",
+            "LAESTAB": "8815262",
+            "Address": {
+                "Street": "Nevern Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Rayleigh",
+                "County (name)": "Essex",
+                "Postcode": "SS6 7PE"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.6202418,
+                51.5768129
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Jerounds Primary Academy",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy sponsor led",
+            "Setting Website": "http://www.netacademies.net/jerounds",
+            "URN": "145557",
+            "LAESTAB": "8812171",
+            "Address": {
+                "Street": "Pyenest Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Harlow",
+                "County (name)": "Essex",
+                "Postcode": "CM19 4PH"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0831251,
+                51.756468
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Roding Valley High School",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.rodingvalley.net",
+            "URN": "145597",
+            "LAESTAB": "8814499",
+            "Address": {
+                "Street": "Alderton Hill",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Loughton",
+                "County (name)": "Essex",
+                "Postcode": "IG10 3JA"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0560521,
+                51.6433758
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Lambourne Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.lambourne.efspt.org",
+            "URN": "145604",
+            "LAESTAB": "8812690",
+            "Address": {
+                "Street": "Hoe Lane",
+                "Locality": "Abridge",
+                "Address3": "",
+                "Town": "Romford",
+                "County (name)": "Essex",
+                "Postcode": "RM4 1AU"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.1192221,
+                51.6497262
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Hillhouse CofE Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.hillhouse.essex.sch.uk/",
+            "URN": "145992",
+            "LAESTAB": "8813256",
+            "Address": {
+                "Street": "Ninefields Estate",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Waltham Abbey",
+                "County (name)": "Essex",
+                "Postcode": "EN9 3EL"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.022635,
+                51.6870938
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Barnes Farm Junior School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.barnesfarmjuniors.co.uk",
+            "URN": "145998",
+            "LAESTAB": "8812839",
+            "Address": {
+                "Street": "Henniker Gate",
+                "Locality": "Chelmer Village",
+                "Address3": "",
+                "Town": "Chelmsford",
+                "County (name)": "Essex",
+                "Postcode": "CM2 6QH"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.5051762,
+                51.7356931
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Elizabeth's Catholic Voluntary Academy",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.stelizabethsbelper.srscmat.co.uk",
+            "URN": "146119",
+            "LAESTAB": "8303513",
+            "Address": {
+                "Street": "Matlock Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Belper",
+                "County (name)": "Derbyshire",
+                "Postcode": "DE56 2JD"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.481694,
+                53.0307655
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Hockley Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.hockleyprimary.org",
+            "URN": "146181",
+            "LAESTAB": "8815247",
+            "Address": {
+                "Street": "Chevening Gardens",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Hockley",
+                "County (name)": "Essex",
+                "Postcode": "SS5 4UR"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.6459577,
+                51.6040533
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Chipping Ongar Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.chippingongar.essex.sch.uk/",
+            "URN": "146195",
+            "LAESTAB": "8812685",
+            "Address": {
+                "Street": "Greensted Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Ongar",
+                "County (name)": "Essex",
+                "Postcode": "CM5 9LA"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.2361812,
+                51.6995457
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Langney Primary Academy",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.langneyprimary.co.uk",
+            "URN": "146231",
+            "LAESTAB": "8452130",
+            "Address": {
+                "Street": "Chailey Close",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Eastbourne",
+                "County (name)": "East Sussex",
+                "Postcode": "BN23 7EA"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.3146244,
+                50.7984752
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Teresa's Catholic Primary School",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.stteresasprimary.org.uk/",
+            "URN": "146256",
+            "LAESTAB": "8413309",
+            "Address": {
+                "Street": "Harris Street",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Darlington",
+                "County (name)": "County Durham",
+                "Postcode": "DL1 4NL"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.5263515,
+                54.5193078
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Mary and St John Junior and Infant School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy sponsor led",
+            "Setting Website": "www.stmryjon.net",
+            "URN": "146268",
+            "LAESTAB": "3302187",
+            "Address": {
+                "Street": "Beaufort Road",
+                "Locality": "Erdington",
+                "Address3": "",
+                "Town": "Birmingham",
+                "County (name)": "",
+                "Postcode": "B23 7NB"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.850323,
+                52.5171003
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St John Catholic Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.stjohns705.herts.sch.uk",
+            "URN": "146859",
+            "LAESTAB": "9193398",
+            "Address": {
+                "Street": "Berry Lane",
+                "Locality": "Mill End",
+                "Address3": "",
+                "Town": "Rickmansworth",
+                "County (name)": "Hertfordshire",
+                "Postcode": "WD3 7HG"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.4905497,
+                51.637945
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Anne's Catholic Primary School, Harlow Green",
+            "Setting mitigation at w/c 04/09/2023": "Fully remote learning",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.stannesprimary.org",
+            "URN": "147135",
+            "LAESTAB": "3903322",
+            "Address": {
+                "Street": "Off Pickering Green",
+                "Locality": "Harlow Green",
+                "Address3": "",
+                "Town": "Gateshead",
+                "County (name)": "Tyne and Wear",
+                "Postcode": "NE9 7HX"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.5857631,
+                54.9220074
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Francis' Catholic Primary School",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.st-francis.newham.sch.uk",
+            "URN": "147336",
+            "LAESTAB": "3163510",
+            "Address": {
+                "Street": "Maryland Park",
+                "Locality": "Stratford",
+                "Address3": "Main Entrance in Bow Street",
+                "Town": "London",
+                "County (name)": "",
+                "Postcode": "E15 1HD"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0065206,
+                51.5480482
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Buckhurst Hill Community Primary School",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.bhcps.efspt.org",
+            "URN": "147561",
+            "LAESTAB": "8812973",
+            "Address": {
+                "Street": "Lower Queen's Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Buckhurst Hill",
+                "County (name)": "Essex",
+                "Postcode": "IG9 6DS"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.0522564,
+                51.6249353
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Sunny Bank Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy sponsor led",
+            "Setting Website": "www.sunnybank.kent.sch.uk",
+            "URN": "147729",
+            "LAESTAB": "8862126",
+            "Address": {
+                "Street": "Sunny Bank",
+                "Locality": "Murston",
+                "Address3": "",
+                "Town": "Sittingbourne",
+                "County (name)": "Kent",
+                "Postcode": "ME10 3QN"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.7544421,
+                51.3433378
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Benet's Catholic Primary School, Ouston",
+            "Setting mitigation at w/c 04/09/2023": "Fully remote learning",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.st-benets.durham.sch.uk",
+            "URN": "148205",
+            "LAESTAB": "8403346",
+            "Address": {
+                "Street": "St Benet's Way",
+                "Locality": "Ouston",
+                "Address3": "",
+                "Town": "Chester le Street",
+                "County (name)": "County Durham",
+                "Postcode": "DH2 1QX"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.5984074,
+                54.8821325
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Bede's Catholic School and Byron Sixth Form College",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "http://www.st-bedes.durham.sch.uk/",
+            "URN": "148304",
+            "LAESTAB": "8404693",
+            "Address": {
+                "Street": "Westway",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Peterlee",
+                "County (name)": "County Durham",
+                "Postcode": "SR8 1D"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.3471712,
+                54.7573077
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Joseph's Catholic Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.stjosephschalfont.school",
+            "URN": "148671",
+            "LAESTAB": "8253371",
+            "Address": {
+                "Street": "Priory Road",
+                "Locality": "Chalfont St Peter",
+                "Address3": "",
+                "Town": "Gerrards Cross",
+                "County (name)": "Buckinghamshire",
+                "Postcode": "SL9 8SB"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.5566592,
+                51.606207
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Wells Park School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Not applicable",
+            "Type of Setting": "Academy special converter",
+            "Setting Website": "www.beckmeadtrust.org",
+            "URN": "148708",
+            "LAESTAB": "8817022",
+            "Address": {
+                "Street": "School Lane",
+                "Locality": "Lambourne Road",
+                "Address3": "",
+                "Town": "Chigwell",
+                "County (name)": "Essex",
+                "Postcode": "IG7 6NN"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.1017957,
+                51.6148685
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St James' Catholic Primary School, Hebburn",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.stjameshebburn.co.uk",
+            "URN": "148778",
+            "LAESTAB": "3933313",
+            "Address": {
+                "Street": "Solway Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "HEBBURN",
+                "County (name)": "Tyne and Wear",
+                "Postcode": "NE31 2BP"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.5089642,
+                54.9673809
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St John Bosco Catholic Primary School, Town End Farm, Sunderland",
+            "Setting mitigation at w/c 04/09/2023": "Mix of face-to-face and remote arrangements",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.stjohnboscosunderland.org.uk",
+            "URN": "148782",
+            "LAESTAB": "3943316",
+            "Address": {
+                "Street": "Bradford Avenue",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Sunderland",
+                "County (name)": "Tyne and Wear",
+                "Postcode": "SR5 4JW"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.4523322,
+                54.9314188
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Columba's Catholic Primary School, Wallsend",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.stcolumbasprimary.co.uk",
+            "URN": "148816",
+            "LAESTAB": "3923320",
+            "Address": {
+                "Street": "Station Road",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Wallsend",
+                "County (name)": "Tyne and Wear",
+                "Postcode": "NE28 8EN"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.5416604,
+                54.9959317
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St John Vianney Catholic Primary School, West Denton",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.stjohnvianneynewcastle.org",
+            "URN": "148977",
+            "LAESTAB": "3913477",
+            "Address": {
+                "Street": "Hillhead Road",
+                "Locality": "West Denton",
+                "Address3": "",
+                "Town": "Newcastle-upon-Tyne",
+                "County (name)": "Tyne and Wear",
+                "Postcode": "NE5 1DN"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.7081758,
+                54.991556
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "The Holy Family Catholic School, a Voluntary Academy",
+            "Setting mitigation at w/c 04/09/2023": "Start of Term Delayed",
+            "Setting Phase": "Secondary",
+            "Type of Setting": "Academy sponsor led",
+            "Setting Website": "www.holyfamilyschool.uk",
+            "URN": "149299",
+            "LAESTAB": "3804094",
+            "Address": {
+                "Street": "Spring Gardens Lane",
+                "Locality": "",
+                "Address3": "",
+                "Town": "Keighley",
+                "County (name)": "West Yorkshire",
+                "Postcode": "BD20 6LH"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -1.9175746,
+                53.8756271
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "St Michael's Catholic School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "All-through",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.stmichaels.bucks.sch.uk",
+            "URN": "149612",
+            "LAESTAB": "8254701",
+            "Address": {
+                "Street": "Daws Hill Lane",
+                "Locality": "",
+                "Address3": "",
+                "Town": "High Wycombe",
+                "County (name)": "Buckinghamshire",
+                "Postcode": "HP11 1PW"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                -0.7541077,
+                51.6172628
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "Setting Name": "Elmstead Primary School",
+            "Setting mitigation at w/c 04/09/2023": "All pupils in face-to-face education",
+            "Setting Phase": "Primary",
+            "Type of Setting": "Academy converter",
+            "Setting Website": "www.elmsteadprimary.com",
+            "URN": "149972",
+            "LAESTAB": "8815220",
+            "Address": {
+                "Street": "Elmcroft, Holly Way",
+                "Locality": "Elmstead Market",
+                "Address3": "",
+                "Town": "Colchester",
+                "County (name)": "Essex",
+                "Postcode": "CO7 7YQ"
+            }
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                0.9919912,
+                51.8850797
+            ]
+        }
+    }
+]

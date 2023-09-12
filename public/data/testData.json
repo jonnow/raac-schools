@@ -1,0 +1,72 @@
+[
+    {
+        'type': 'Feature',
+        'properties': {
+            'id': 1,
+            'name': 'test',
+        },
+        'geometry': {
+            'type': 'Point',
+            'coordinates': [
+                -4.0527319,
+                51.728138
+            ]
+        }
+    },  
+    {
+        'type': 'Feature',
+        'properties': {
+            'id': 2,
+            'name': 'test',
+        },
+        'geometry': {
+            'type': 'Point',
+            'coordinates': [
+                -4.0527319,
+                53.728138, 
+            ],
+        }
+    },  
+    {
+        'type': 'Feature',
+        'properties': {
+            'id': 3,
+            'name': 'test',
+        },
+        'geometry': {
+            'type': 'Point',
+            'coordinates': [
+                -4.0527319,
+                54.728138, 
+            ],
+        }
+    },  
+    {
+        'type': 'Feature',
+        'properties': {
+            'id': 4,
+            'name': 'test',
+        },
+        'geometry': {
+            'type': 'Point',
+            'coordinates': [
+                -4.0527319,
+                55.728138, 
+            ],
+        }
+    },  
+    {
+        'type': 'Feature',
+        'properties': {
+            'id': 5,
+            'name': 'test',
+        },
+        'geometry': {
+            'type': 'Point',
+            'coordinates': [
+               -4.0527319,
+                56.728138, 
+            ],
+        }
+    },    
+]
