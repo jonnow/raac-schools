@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "sass -w public/css/sass/style.scss public/css/style.css & nodemon index.js"
+    "dev": "sass -w public/css/sass/style.scss public/css/style.css & nodemon index.js",
+    "start": "node index.js"
   },
   "engines": {
     "node": "20.x"
