@@ -3,12 +3,7 @@ const fastify = require('fastify')({
   logger: true
 })
 const join = require('path').join
-const sass = require('sass');
-const result = sass.compile('./public/css/sass/style.scss');
-console.log(result)
 
-const csv = require('csv-parser')
-const fs = require('fs');
 const { GetSchoolCoords } = require('./controllers/schoolData');
 
 fastify.register(require("@fastify/view"), {
@@ -129,6 +124,7 @@ fastify.get('/getSchools', async(request, reply) => {
 //     }
 // })
 //https://api.ideal-postcodes.co.uk/v1/addresses?api_key=iddqd&lon=-0.12767&lat=51.503541
+
 /**
  * Run the server!
  */
