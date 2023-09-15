@@ -1,28 +1,45 @@
-<h1>{{pageTitle}}</h1>
-<div id='map' style='width: 100%; height: 80vh;'></div>
+<section>
+    <div class="wrapper">
+        <ul class="nav">
+            <li>Home</li>
+        </ul>
+        <p>A map of all the schools along with their towns and counties affected by RAAC (Reinforced Autoclaved Aerated Concrete) in the UK.</p>
+    </div>
+
+    <div id='map' style='width: 100%; height: 80vh;'></div>
+
+    <ul class="tags">
+        <li class="version">Version 1.0</li>
+        <li class="updated">Last updated <date>13/09/2023</date></li>
+    </ul>
+</section>
 <script>
     async function getSchools() {
         const response = await fetch('/getSchools')
         const data = await response.json();
         return data.schools
     }
+    const apiKey = 'tY9Fij3wlMS7wj2t4WdAuYGi4Tgbe6Hu'
+    
+    //const osMapsBase = 'https://api.os.uk/maps/vector/v1/vts/resources/styles?key='
+    const osStyle = 'OS_VTS_3857_Light.json'
+    const customStyleJson = 'https://raw.githubusercontent.com/OrdnanceSurvey/OS-Vector-Tile-API-Stylesheets/master/' + osStyle;
     const map = new maplibregl.Map({    
         //style: 'https://demotiles.maplibre.org/style.json', // stylesheet location
         container: 'map',
         maxZoom: 18,
-        style: 'https://api.os.uk/maps/vector/v1/vts/resources/styles?key=tY9Fij3wlMS7wj2t4WdAuYGi4Tgbe6Hu',
+        style: customStyleJson,
         maxBounds: [
             [ -15.76418, 49.528423 ],
             [ 5.9134116, 61.331151 ]
         ],
-        center: [ -2.968, 54.425 ],
-        zoom: 5,
+        //center: [ -2.968, 54.425 ],
+        center: [-1.596363,53.000728],
+        zoom: 7,
         transformRequest: url => {
-            const osUrl = url.split('https://api.os.uk')
-            if(osUrl.length > 1) {
-                return {
-                    url: url + '&srs=3857'
-                }
+            if(! /[?&]key=/.test(url) ) url += '?key=' + apiKey
+            return {
+                url: url + '&srs=3857'
             }
             return { url: url }
         }
@@ -32,7 +49,7 @@
         const schools = await getSchools()
 
         map.loadImage(
-            'https://maplibre.org/maplibre-gl-js/docs/assets/custom_marker.png',
+            '/public/pin2.png',
             (error, image) => {
                 if(error) throw error;
                 map.addImage('custom-marker', image);
@@ -50,7 +67,7 @@
                     'source': 'schools',
                     'layout': {
                         'icon-image': 'custom-marker',
-                        'icon-size': 0.4,
+                        'icon-size': 0.6,
                         'icon-allow-overlap': true
                     }
                 });

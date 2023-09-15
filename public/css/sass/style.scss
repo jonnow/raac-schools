@@ -1,7 +1,44 @@
-body {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+@import 'reset';
+@import 'fonts';
+@import 'base';
+
+h2 {
+    margin-top: 2.5rem;
 }
 
-h1 {
-    text-align: center;
+ul {
+    &.nav, &.tags {
+        padding-left: 0;
+        li {
+            display: inline-block;
+            margin-right: 1rem;
+        }
+    }
+    &.nav {
+        li {
+            font-family: var(--font-family-serif);
+            font-weight: 600;
+            letter-spacing: .75px;
+            &:not(:last-child)::after {
+                content: '/';
+                display: inline-block;
+                margin-left: 1rem;
+            }
+        }
+    }
+    &.tags {
+        justify-self: end;
+        margin-bottom: auto;
+        li {
+            display:inline-block;
+            color: var(--col-offBlack);
+            background-color: var(--col-gold);
+            padding: .5rem;
+            border-radius: 2px;
+            border: 1px solid var(--col-gold-dark);
+        }
+    }
+    li {
+        margin-bottom: .5rem;
+    }   
 }

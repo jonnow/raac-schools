@@ -1,0 +1,94 @@
+@import 'root';
+
+body {
+    font-family: var(--font-family-sansSerif);
+    // background-color: var(--col-yellow);
+    border:1px solid var(--col-offBlack);
+    padding: 1rem;
+    margin: 1rem;
+    @media screen and (min-width:768px) {
+        padding: 2rem;
+        margin: 2rem;
+    }
+    color: var(--col-offBlack);
+    letter-spacing: .3px;
+    min-height: 95vh;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: var(--font-family-serif);
+    font-weight: 400;
+    font-style: normal;
+    color: var(--col-offBlack);
+}
+
+a {
+    color: var(--col-orange);
+    &:hover {
+        color: var(--col-burnish);
+    }
+}
+
+
+
+@import 'header';
+
+.wrapper {
+    max-width: 1080px;
+    width: 90%;
+    @media screen and (min-width: 960px) {
+        
+        width: 80%;
+    }
+    @media screen and (min-width: 1180px) {
+        
+        width: 70%;
+    }
+}
+
+main {
+    & h1 {
+        font-size: 4rem;
+        letter-spacing: 1px;
+        margin-top: 2rem;
+    }
+    & h2 {
+        font-size: 2rem;
+    }
+    & ul li {
+        list-style-type: circle;
+    }
+
+    & section {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        & .row {
+
+            & h1, h2 {
+                margin-bottom: 0;
+            }
+            @media screen and (min-width: 768px) {
+                display: flex;
+                justify-content: space-between;
+                margin-bottom: 2rem;
+                h1, h2 {
+                    width: 30%;
+                    margin: 0;
+                }
+                &:not(:first-of-type) .copy {
+                    padding-top: .63rem;
+                }
+                &:first-of-type .copy {
+                    padding-top: 2.3rem;
+                }
+                & .copy {
+                    width: 60%;
+                    & p {
+                        margin-top: 0;
+                    }
+                }
+            }
+        }
+    }
+}

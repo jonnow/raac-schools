@@ -38,6 +38,10 @@ fastify.get('/getSchools', async(request, reply) => {
     return reply.send({schools: schoolsData})
 })
 
+fastify.get('/about', (request, reply) => {
+    return reply.view('about', {pageTitle: 'About the RAAC Schools map'})
+})
+
 // fastify.get('/update', (request, reply) => {
 //     if(request.query.postcodes == 1) {
 //         console.log('Updating postcodes...')
