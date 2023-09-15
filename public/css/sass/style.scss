@@ -28,6 +28,7 @@ ul {
     }
     &.tags {
         justify-self: end;
+        align-self: end;
         margin-bottom: auto;
         li {
             display:inline-block;
@@ -36,6 +37,9 @@ ul {
             padding: .5rem;
             border-radius: 2px;
             border: 1px solid var(--col-gold-dark);
+            &:last-child {
+                margin-right: 0;
+            }
         }
     }
     li {

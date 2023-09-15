@@ -26,6 +26,13 @@ fastify.register(require("@fastify/static"), {
     prefix: '/public/',
 })
 
+fastify.decorate('notFound', (request, reply) => {
+  reply.code(404).view('404', {pageTitle: '404 - Page not found'})
+})
+
+fastify.setNotFoundHandler(fastify.notFound)
+
+
 
 fastify.get('/', async (request, reply) => {
     
@@ -40,6 +47,10 @@ fastify.get('/getSchools', async(request, reply) => {
 
 fastify.get('/about', (request, reply) => {
     return reply.view('about', {pageTitle: 'About the RAAC Schools map'})
+})
+
+fastify.get('/data', (request, reply) => {
+  return reply.view('data', {pageTitle: 'Data used by this website'})
 })
 
 // fastify.get('/update', (request, reply) => {

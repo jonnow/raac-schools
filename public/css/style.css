@@ -93,6 +93,7 @@ header nav {
   font-size: var(--font-size-l);
   display: flex;
   align-items: center;
+  gap: 1rem;
 }
 header a {
   text-decoration: none;
@@ -194,6 +195,7 @@ ul.nav li:not(:last-child)::after {
 }
 ul.tags {
   justify-self: end;
+  align-self: end;
   margin-bottom: auto;
 }
 ul.tags li {
@@ -203,6 +205,9 @@ ul.tags li {
   padding: 0.5rem;
   border-radius: 2px;
   border: 1px solid var(--col-gold-dark);
+}
+ul.tags li:last-child {
+  margin-right: 0;
 }
 ul li {
   margin-bottom: 0.5rem;
