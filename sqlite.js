@@ -24,7 +24,7 @@ dbWrapper
         try {
             if (!exists) {
                 await db.run(
-                    "CREATE TABLE Analytics (id INTEGER PRIMARY KEY AUTOINCREMENT, method TEXT, url TEXT, lang TEXT, userAgent TEXT)"
+                    "CREATE TABLE Analytics (id INTEGER PRIMARY KEY AUTOINCREMENT, method TEXT, url TEXT, lang TEXT, userAgent TEXT, timestamp TEXT)"
                 );
             }
             //console.log(await db.all("SELECT * from Analytics"));
@@ -38,7 +38,7 @@ module.exports = {
     addVisit: async user => {
         let success = false;
         try {
-            success = await db.run(`INSERT INTO Analytics (method, url, lang, userAgent) VALUES ('${user.method}', '${user.url}', '${user.lang}', '${user.userAgent}')`);
+            success = await db.run(`INSERT INTO Analytics (method, url, lang, userAgent, timestamp) VALUES ('${user.method}', '${user.url}', '${user.lang}', '${user.userAgent}', '${user.timestamp}')`);
         } catch (dbError) {
             console.error(dbError);
         }

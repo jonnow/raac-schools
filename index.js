@@ -75,11 +75,13 @@ start()
 
 const logVisit = (req) => {
   const userHeaders = req.headers
+  const timestamp = Date.now()
   const user = {
     method: req.method,
     url: req.url,
     lang: userHeaders['accept-language'],
-    userAgent: userHeaders['user-agent']
+    userAgent: userHeaders['user-agent'],
+    timestamp: timestamp
   }
   db.addVisit(user);
 }
