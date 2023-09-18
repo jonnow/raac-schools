@@ -4,7 +4,7 @@
             <li>Home</li>
         </ul>
         <div class="row">
-            <h1></h1>
+            <h1>Map</h1>
             <div class="copy">
                 <p>A map of all the schools along with their towns and counties affected by RAAC (Reinforced Autoclaved Aerated Concrete) in the UK.</p>
             </div>
@@ -54,7 +54,7 @@
         const schools = await getSchools()
 
         map.loadImage(
-            '/public/pin2.png',
+            '/public/pin.png',
             (error, image) => {
                 if(error) throw error;
                 map.addImage('custom-marker', image);
@@ -67,7 +67,7 @@
                 });
                  // Add a symbol layer
                 map.addLayer({
-                    'id': 'symbols',
+                    'id': 'schools',
                     'type': 'symbol',
                     'source': 'schools',
                     'layout': {
@@ -78,6 +78,29 @@
                 });
             }
         )
+
+        map.on('click', 'schools', (e) => {
+            debugger
+            const coordinates = e.features[0].geometry.coordinates.slice();
+            const description = `${e.features[0].properties['Setting Name']},<br>${e.features[0].properties['Address_Postcode']}`;
+
+            // Ensure that if the map is zoomed out such that multiple
+            // copies of the feature are visible, the popup appears
+            // over the copy being pointed to.
+            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+            }
+
+            new maplibregl.Popup()
+                .setLngLat(coordinates)
+                .setHTML(description)
+                .addTo(map);
+        });
+
+        // Change the cursor to a pointer when the mouse is over the places layer.
+        map.on('mouseenter', 'schools', () => {
+            map.getCanvas().style.cursor = 'pointer';
+        });
     });
 
     map.addControl(new maplibregl.FullscreenControl({container: document.querySelector('body')}));

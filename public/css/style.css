@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+*::selection {
+  background-color: var(--col-gold-dark);
+  color: var(--col-offWhite);
+}
+
 :root {
   --width-xsm: 768px;
   --width-sm: 820px;
@@ -18,6 +23,7 @@
   --col-orange: #F26513;
   --col-terracotta: #8C2703;
   --col-burnish: #8C4637;
+  --col-offWhite: #eeeeee;
   --font-family-serif: "chaparral-pro-display", serif;
   --font-family-sansSerif: "acumin-pro", "helvetica", "arial", sans-serif;
   --col-transition-time: .15s;
@@ -82,7 +88,7 @@ header .wrapper {
   justify-content: space-between;
   flex-direction: column;
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 900px) {
   header .wrapper {
     flex-direction: row;
   }
@@ -99,12 +105,14 @@ header a {
   text-decoration: none;
   color: var(--col-offBlack);
   border: 2px solid var(--col-offBlack-tint);
-  padding: 0.5rem 1.25rem;
+  padding: 0.5rem 1rem;
   margin: 1rem auto;
   transition: all var(--col-transition-time) var(--col-transition-easing);
 }
 @media screen and (min-width: 768px) {
   header a {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
     margin-bottom: 0;
   }
 }
@@ -211,6 +219,10 @@ ul.tags li:last-child {
 }
 ul li {
   margin-bottom: 0.5rem;
+}
+
+.maplibregl-popup-content {
+  text-align: center;
 }
 
 /*# sourceMappingURL=style.css.map */

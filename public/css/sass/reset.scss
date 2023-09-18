@@ -4,3 +4,7 @@
     box-sizing: border-box;
 }
 
+*::selection {
+    background-color: var(--col-gold-dark);
+    color: var(--col-offWhite)
+}
