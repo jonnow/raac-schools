@@ -80,7 +80,6 @@
         )
 
         map.on('click', 'schools', (e) => {
-            debugger
             const coordinates = e.features[0].geometry.coordinates.slice();
             const description = `${e.features[0].properties['Setting Name']},<br>${e.features[0].properties['Address_Postcode']}`;
 

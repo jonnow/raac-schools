@@ -6,7 +6,7 @@ const GetSchoolCoords = async () => {
         return data
         
     } catch (error) {
-        debugger
+        console.error(`Error in getting schools coords ${error}`)
     }
     
 }
